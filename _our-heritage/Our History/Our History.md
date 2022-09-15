@@ -33,7 +33,7 @@ third_nav_title: Our History
 | 2004 - 	| Partnership with the Community via:<br>- NIE<br>- Schools<br>- External Organisation<br>- Community Centres<br>- Mass Media<br><br>Major School Events:<br><br>- Open Houses<br>- Launch of the St. Gabriel's Foundation<br>- Blessing of the new school building by Archbishop Nicolas Chia<br>- Formation of Fathers' Wing, with the Montfort Junior Parent Support Group<br>- Refurbishment of the school canteen into John's Cafe 	|
 | 2005 - 	| Opening of I & E Room by Mr George Yeo (Minister Of Foreign Affairs)<br><br>Opening of Parents' Pavilion by Mr Charles Ng, Chairman of MJPCMJPC <br><br>Handbook 1st published<br><br><br>Establishment of MJ i TECH :) Corner 	|
 | 2006 - 	| Opening of Mathepolis by Mr Lim Boon Heng (Prime Minister's Office)<br><br>Mdm Chua Pei Pei appointed as Vice Principal on 15th Dec 	|
-| 2007 - 	| Opening of M'JymnaSium by Dr Lee Boon Yang (Minister of Information, Communication & The Arts)<br><br><br>Completion of Media Production Lab 	|
+| 2007 - 	| Opening of M'JymnaSium by Dr Lee Boon Yang (Minister of Information, Communication & The Arts)<br><br>Completion of Media Production Lab 	|
 | 2008 - 	| Re-Painting of the School<br><br>Completion of Indoor Sport Hall<br><br>Inauguration of Ng Kok Song Student Trophy Corner<br><br>Ms Genevieve Chye was appointed Vice-principal with effect from 15 September 2008 	|
 | 2009 - 	| Ms Genevieve Chye was appointed Principal with effect from 25 August 2009<br><br><br>Mrs Liew Mei Ling was appointed Vice-principal (Academic) with effect from 15 December 2009<br> 	|
 | 2011 - 	| Ms Thien Li Chin was appointed Vice-principal (Academic) with effect from 15 December 2011 	|
