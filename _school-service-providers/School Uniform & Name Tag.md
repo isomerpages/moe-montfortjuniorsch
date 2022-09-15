@@ -5,7 +5,7 @@ description: ""
 ---
 # **SCHOOL UNIFORM & NAME TAG**
 
-Shirley Season Wear  
+**Shirley Season Wear**  
 NorthStar@AMK  
 7030 Ang Mo Kio Avenue 5, #04-55  
 Singapore 569880  
