@@ -2,4 +2,5 @@ collections:
   school-service-providers:
     output: true
     order:
+      - School Bus Transport.md
       - School Dental Service.md
