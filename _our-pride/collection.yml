@@ -2,4 +2,5 @@ collections:
   our-pride:
     output: true
     order:
+      - Raymond Yap.md
       - Timothy Goh.md
