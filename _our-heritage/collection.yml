@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  our-heritage:
     output: true
     order:
       - VISION, MISSION AND VALUES.md
