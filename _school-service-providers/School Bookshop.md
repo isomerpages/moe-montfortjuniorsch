@@ -5,7 +5,7 @@ description: ""
 ---
 # **SCHOOL BOOKSHOP**
 
-The Continental Book Centre  
+**The Continental Book Centre**  
 Block 103 Geylang East Avenue 3  
 #02-154  
 Singapore 389728  
