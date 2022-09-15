@@ -2,11 +2,65 @@
 title: FAQ
 permalink: /faq/
 ---
+# **FAQ**
 
-### **FAQ**
+**1\. What are the school’s operating hours?**    
+  
+Our school is a single session school.  School starts at 7.30am and ends at 1.35pm.    
+  
+All students are expected to be in school by 7.15am during term time.  Our students are strongly encouraged to bring a story book for silent reading from 7.15am to 7.30am.     
+  
+Our General Office is opened from 6.45am to 5.30pm from Monday to Friday.    
+     
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+* * *
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+  
+**2.  When are the Co-curricular activities (CCAs) held ?**      
+Most of the CCAs are held on Tuesday and/or Thursday afternoons :-    
+Pri 1 & 2 :  2.15pm to 3.30pm  
+Pri 3 to 6 :  3.30pm to 5.30pm    
+  
+On Wednesday mornings (7.40am to 9.10am), there are Modular CCAs for Pri 3 to 6.     
+  
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+* * *
+
+  
+**3\. Is there a snack break for students?**    
+  
+In addition to a 25-minute recess, the school has introduced a snack break for all students.  This is with consideration for students who may not get to have lunch until they reach home after school dismissal.    
+  
+Students are advised to bring light and healthy snacks such as cereals, oatmeal biscuits, apple slices and bananas which they can consume in class during the break.   
+  
+
+* * *
+
+  
+**4\. Does the school offer Higher Mother Tongue?**    
+  
+The school offers Higher Mother Tongue from Pri 5 onwards.  Our students who have demonstrated the interest and required competency in their Mother Tongue will be offered by the school to do Higher Mother Tongue.   
+  
+
+* * *
+
+  
+**5\. Is there a student care centre in the school?**   
+  
+There is a school-based student care centre managed by Learning Student Educare.  The student care centre is opened till 7.00pm from Monday to Friday.    You may wish to email their staff at: enquiry@learningstudioeducare.com for further enquiries.  
+  
+
+* * *
+
+  
+**6. Does the school accept SY2021 P3 applicant holding long term pass?**  
+
+For international/foreign student, please apply to MOE HQ.  HQ will centrally process the posting.  
+  
+
+* * *
+
+  
+**7. Is there a swimming programme for the students?**  
+
+MOE has a SwimSafer Program that is compulsory for all students. The program serves to equip students with basic water proficiency and water survival skills.  All primary schools will implement this program although schools may do this at different levels. In Montfort Junior, all students go through the SwimSafer module in either Primary 1 or Primary 2.
