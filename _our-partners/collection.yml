@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents/School's Service Providers.md
       - Parents/School Safety and Security.md
       - Parents/Travel Declaration.md
       - Parents/E Links.md
