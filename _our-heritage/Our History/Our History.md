@@ -4,3 +4,41 @@ permalink: /our-heritage/Our-History/
 description: ""
 third_nav_title: Our History
 ---
+# **OUR HISTORY**
+
+| Year 	| Events in chronological order 	|
+|---	|---	|
+| 1916 - 	| At the request of the Inspector of Schools, the parish priest of the Church of the Nativity of the Blessed Virgin Mary, Father H. Duvelle, started a class to teach English and Chinese to some of the children of the parish. 	|
+| 1920  - 	| Rev. Father E. Becheras succeeded Rev. Father H. Duvelle who reorganized the school into an English school with a class of 30 pupils under the charge of Mr Monterio. The school was initially known as Holy Innocents’ English School. An additional class was formed the following year. 	|
+| 1922  - 	| The school expanded steadily until it had 9 classrooms. M.P.A.D Costa became the first lay principal of the school. 	|
+| 1936  - 	| The management of the school was placed in the hands of the Brothers of St Gabriel. Rev. Bro Gerard Majella came from Bangkok to become the first Brother Director of the school. 	|
+| 1946  - 	| Rev. Brother Gerard Majella was succeeded by Rev. Brother Louis. 	|
+| 1948  - 	| The school was extended by having a floor added to the main block. An “afternoon” school was inaugurated. Enrolment increased to 1200. 	|
+| 1955  - 	| Rev. Brother Noel became principal of the school. He set up a Building Fund Committee to raise funds for the extension of the school. 	|
+| 1959  - 	| Rev Brother Albert was principal of the school. 	|
+| 1960  - 	| Holy Innocents’ English School was renamed Montfort School in honour of the Founder, St Louis Marie De Montfort, of the Gabrielite Brothers. 	|
+| 1961  - 	| The school opened its doors to female students. They were admitted to the Pre-University classes which catered to both the Science and Art students. 	|
+| 1973  - 	| The last batch of Pre-U students graduated from the school. Students would have to register at Junior Colleges or Pre-U classes from the following year. 	|
+| 1974  - 	| The big split took place. Montfort School which had been functioning as a full school would henceforth function separately as Montfort Junior School and Montfort Secondary School. Rev Brother Albert was principal of the Secondary school and Mr Wee Bak Hoe was principal of the Junior school. Enrolment stood at about 900 pupils in the Secondary school and 1600 in the Junior school. 	|
+| 1987  - 	| A Building Fund Committee was set up to raise funds for the new Montfort School at the present site at Hougang Avenue 8. 	|
+| 1989  - 	| Mr Wee Bak Hoe retired at the end of 1989. Mr Tng Teng Chua became the new Principal of Montfort Junior. 	|
+| 1991  - 	| The new Montfort School was completed. 	|
+| 1992  - 	| The school moved to its present premises at Hougang Ave 8 with an enrolment of 1541. 	|
+| 1993  - 	| The school was officially declared open on 24th July 1993 by the then Minister for Education, Mr Lee Yock Suan. 	|
+| 1996  - 	| Mr Tng Teng Chua retired in November 1996 and Mr Peter Foo, Vice-Principal covered duty for a year in 1997. 	|
+| 1997  - 	| Miss Cecilia Ng was posted to head the school as the first female Principal of Montfort Junior School on 15th December 1997. 	|
+| 1999  - 	| Mrs Winefrede Loo became the Vice-Principal, as the first female Vice-Principal of Montfort Junior School on 14th December 1998. 	|
+| 2000  - 	| PRIME commenced in November. 	|
+| 2003  - 	| The rebuilding of PRIME was completed and handed over in March. Mrs Judina Cheong was posted to the schoolas Vice-Principal on 20 th September and was officially appointed as Principal with effect from 15 th December 2003. 	|
+| 2004 - 	| Partnership with the Community via:<br>- NIE<br>- Schools<br>- External Organisation<br>- Community Centres<br>- Mass Media<br><br>Major School Events:<br><br>- Open Houses<br>- Launch of the St. Gabriel's Foundation<br>- Blessing of the new school building by Archbishop Nicolas Chia<br>- Formation of Fathers' Wing, with the Montfort Junior Parent Support Group<br>- Refurbishment of the school canteen into John's Cafe 	|
+| 2005 - 	| Opening of I & E Room by Mr George Yeo (Minister Of Foreign Affairs)<br><br>Opening of Parents' Pavilion by Mr Charles Ng, Chairman of MJPCMJPC <br><br>Handbook 1st published<br><br><br>Establishment of MJ i TECH :) Corner 	|
+| 2006 - 	| Opening of Mathepolis by Mr Lim Boon Heng (Prime Minister's Office)<br><br>Mdm Chua Pei Pei appointed as Vice Principal on 15th Dec 	|
+| 2007 - 	| Opening of M'JymnaSium by Dr Lee Boon Yang (Minister of Information, Communication & The Arts)<br><br><br>Completion of Media Production Lab 	|
+| 2008 - 	| Re-Painting of the School<br><br>Completion of Indoor Sport Hall<br><br>Inauguration of Ng Kok Song Student Trophy Corner<br><br>Ms Genevieve Chye was appointed Vice-principal with effect from 15 September 2008 	|
+| 2009 - 	| Ms Genevieve Chye was appointed Principal with effect from 25 August 2009<br><br><br>Mrs Liew Mei Ling was appointed Vice-principal (Academic) with effect from 15 December 2009<br> 	|
+| 2011 - 	| Ms Thien Li Chin was appointed Vice-principal (Academic) with effect from 15 December 2011 	|
+| 2013 - 	| Montfort Heritage Gallery was officially opened by Mr Ng Kok Song on Saturday, 5 January 2013.   <br><br>Ms Chua Chew Hiang was appointed Vice-principal (Admin) with effect from 9 September 2013.  	|
+| 2014 - 	| Mdm Ng Li Yi was appointed Vice-principal with effect from 15 December 2014<br><br>Mr Wilbur Wong was appointed Principal with effect from 15 December 2014 	|
+| 2016 - 	| The school had a year-long celebration to mark its 100th Founder’s Day with activities throughout the year.  	|
+| 2018 - 	| The school underwent PERI Upgrading and this was completed in 2018  	|
+| 2019 -  	| The school launched the Montfort Heritage Video consisting of 5 segments.   <br><br><br>Montfort Heritage Gallery underwent upgrading and was launched on Monday, 16 September 2019.   <br><br>Mdm Poh Lee Siew was appointed Vice Principal (Academic) with effect from 15 December 2019.  	|
