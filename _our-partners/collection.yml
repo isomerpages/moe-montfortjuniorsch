@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents/Principal's Term Letter.md
       - Parents/School Calendar.md
       - Parents/Homework Policy.md
       - Parents/School's Service Providers.md
