@@ -2,6 +2,7 @@ collections:
   school-service-providers:
     output: true
     order:
+      - Student Care Centre.md
       - School Bookshop.md
       - School Uniform & Name Tag.md
       - School Bus Transport.md
