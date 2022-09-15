@@ -1,0 +1,4 @@
+collections:
+  school-service-providers:
+    output: true
+    order: []
