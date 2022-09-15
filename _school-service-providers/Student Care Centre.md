@@ -16,3 +16,5 @@ Phone: 8862 1078 
 Email: [enquiry@learningstudioeducare.com](mailto:enquiry@learningstudioeducare.com) 
 
 Website: [www.learningstudioeducare.com](http://www.learningstudioeducare.com/)
+
+![](/images/Student%20Care%20gp.jpg)
