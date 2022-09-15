@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - St Gabriel's Foundation.md
-      - VISION, MISSION AND VALUES.md
+      - Vision, Mission and Values.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
