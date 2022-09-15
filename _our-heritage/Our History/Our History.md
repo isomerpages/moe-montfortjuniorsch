@@ -41,4 +41,4 @@ third_nav_title: Our History
 | 2014 - 	| Mdm Ng Li Yi was appointed Vice-principal with effect from 15 December 2014<br><br>Mr Wilbur Wong was appointed Principal with effect from 15 December 2014 	|
 | 2016 - 	| The school had a year-long celebration to mark its 100th Founder’s Day with activities throughout the year.  	|
 | 2018 - 	| The school underwent PERI Upgrading and this was completed in 2018  	|
-| 2019 -  	| The school launched the Montfort Heritage Video consisting of 5 segments.   <br><br><br>Montfort Heritage Gallery underwent upgrading and was launched on Monday, 16 September 2019.   <br><br>Mdm Poh Lee Siew was appointed Vice Principal (Academic) with effect from 15 December 2019.  	|
+| 2019 -  	| The school launched the Montfort Heritage Video consisting of 5 segments.   <br><br>Montfort Heritage Gallery underwent upgrading and was launched on Monday, 16 September 2019.   <br><br>Mdm Poh Lee Siew was appointed Vice Principal (Academic) with effect from 15 December 2019.  	|
