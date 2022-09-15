@@ -2,7 +2,7 @@ collections:
   our-heritage:
     output: true
     order:
-      - St Gabriel's Foundation.md
-      - Vision, Mission and Values.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
+      - St Gabriel's Foundation.md
+      - Vision, Mission and Values.md
