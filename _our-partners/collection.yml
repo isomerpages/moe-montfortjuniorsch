@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Montfort Junior Parents Connection.md
       - School Management Committee.md
       - Parents/Principal's Term Letter.md
       - Parents/School Calendar.md
