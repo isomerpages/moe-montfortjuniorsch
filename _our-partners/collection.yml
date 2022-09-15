@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents/E Links.md
       - Parents/.keep
       - Partnership.md
