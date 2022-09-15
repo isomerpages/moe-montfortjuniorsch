@@ -5,6 +5,6 @@ description: ""
 ---
 # **SCHOOL BUS TRANSPORT**
 
-Ri Sheng Transport Services  
+**Ri Sheng Transport Services**  
 Block 412B Fernvale Link, #17-29  
 Singapore 792412 Tel :  9237 0292 (Mr Yap)
