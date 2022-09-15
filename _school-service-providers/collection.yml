@@ -2,5 +2,6 @@ collections:
   school-service-providers:
     output: true
     order:
+      - School Uniform & Name Tag.md
       - School Bus Transport.md
       - School Dental Service.md
