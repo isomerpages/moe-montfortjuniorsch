@@ -3,6 +3,8 @@ title: Executive & Administrative staff
 permalink: /our-people/executive-n-administrative-staff/
 description: ""
 ---
+# **EXECUTIVE & ADMINISTRATIVE STAFF**
+
 | Name & Email 	| Personal Statement On The Philosophy Of Education 	|
 |---	|---	|
 | Mdm Brenda Koh<br>brenda_koh@schools.gov.sg 	| The only difference between a Good day & a Bad day is your Attitude. 	|
