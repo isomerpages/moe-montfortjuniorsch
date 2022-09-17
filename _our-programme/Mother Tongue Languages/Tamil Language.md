@@ -65,3 +65,6 @@ All Tamil students form P1-P6 are engaged in a once weekly Library period in cla
   
 **External Competitions**  
 Montfortians take part in various internal and external competitions which include singing, essay writing, storytelling, debate etc. These competitions provide them with a platform to showcase their talents and boost their confidence.
+
+
+### MTL SYMPOSIUM
