@@ -35,3 +35,4 @@ Activities held during the Bi-MT Week enriched the pupils’ knowledge of the Ma
 ### LEARNING JOURNEYS :
 
 Learning journeys take the pupils’ learning beyond the classroom. Through LJs, pupils get the chance to experience authentic learning beyond the classroom.
+
