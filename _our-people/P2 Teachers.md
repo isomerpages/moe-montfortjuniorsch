@@ -7,7 +7,7 @@ description: ""
 
 | Name & Email 	| Personal Statement On The Philosophy Of Education 	|
 |---	|---	|
-| Mrs Tan-Tay Pei Long <br>[v](mailto:tay_pei_long@schools.gov.sg) 	| Kindness is the language which the deaf can hear and the blind can see. 	|
+| Mrs Tan-Tay Pei Long <br>[tay_pei_long@schools.gov.sg](mailto:tay_pei_long@schools.gov.sg) 	| Kindness is the language which the deaf can hear and the blind can see. 	|
 | Ms Li Jia Xin<br>[li_jia_xin@schools.gov.sg](mailto:li_jia_xin@schools.gov.sg) 	| Enjoy every little fruits of labor. 	|
 | Mr Nicholas Ang Kian Siang<br>[nicholas_ang_kian_siang@schools.gov.sg](mailto:nicholas_ang_kian_siang@schools.gov.sg) 	| Train up a child in the way he should go, even when he is old he will not depart from it.  	|
 | Ms Madeline Tan Hwee Li<br>[madeline_tan_hwee_li@schools.gov.sg](mailto:madeline_tan_hwee_li@schools.gov.sg) 	| You make all things work together for my good.  	|
