@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - P6 Teachers.md
       - Allied Educators.md
       - Executive & Administrative staff.md
