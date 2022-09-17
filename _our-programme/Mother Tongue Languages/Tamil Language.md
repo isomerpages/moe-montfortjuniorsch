@@ -51,7 +51,7 @@ Activities held during Bi-MT week creates an immersive and meaningful environmen
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img height="203" width="361" alt="Bi MT.JPG" src="/images/Bi%20MT.jpg"></td><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img width="357" alt="BI-MT.JPG" src="/images/BI-MT.jpg"></td></tr></thead></table>
 
-# **LEARNING JOURNEY:**
+### LEARNING JOURNEY:
 
 Learning journeys take the pupils’ learning beyond the classroom. Through LJs, pupils get the chance to experience authentic learning beyond the classroom.  
   
