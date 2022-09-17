@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - P4 Teachers.md
       - P5 Teachers.md
       - P6 Teachers.md
       - Allied Educators.md
