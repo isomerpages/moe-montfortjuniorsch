@@ -45,7 +45,7 @@ Learning journeys take the pupils’ learning beyond the classroom. Through LJs,
 ### TEACHERS-IN-CHARGE
 
 Madam Kamariah Atan (ML Coordinator)  
-Email : (mailto:kamariah_atan@moe.edu.sg)    
+Email : [kamariah_atan@moe.edu.sg](mailto:kamariah_atan@moe.edu.sg)    
   
 Mr Zailee Ramli  
 Email: [zailee_ramli@moe.edu.sg](mailto:zailee_ramli@moe.edu.sg)    
