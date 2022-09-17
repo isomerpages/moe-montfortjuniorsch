@@ -2,5 +2,6 @@ collections:
   our-programme:
     output: true
     order:
+      - Mother Tongue Languages/.keep
       - Physical Education.md
       - Programme for Active Learning (PAL).md
