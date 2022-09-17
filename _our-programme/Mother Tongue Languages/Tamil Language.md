@@ -35,3 +35,8 @@ Holistic Assessment (HA) - ongoing feedback to learners on how the can improve t
 Lessons come alive and it’s full of fun over at Montfort Junior School! An immersive language environment is offered to enable students to learn Tamil with confidence and joy.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Class%20room.jpg" alt="Class room.jpg" width="361"></td><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2"><img src="/images/Home%20Activity.jpg" style="width:2000px;"/></td></tr><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Learning%20is%20Fun.jpg" alt="Learning is Fun.JPG" width="361" height="271"></td></tr></thead></table>
+
+
+### ENRICHMENT PROGRAMMES:
+
+These programmes are based on the vast richness of the Tamil Literature. The boys read and understand the texts, and they practice their learning during the performance. They have a deeper understanding of the CHRISTE values in these literary texts, which allows them to apply the values in their daily lives. Through these programmes students build their self-confidence and talents.
