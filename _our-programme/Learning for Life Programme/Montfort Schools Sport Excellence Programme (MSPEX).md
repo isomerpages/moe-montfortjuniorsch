@@ -59,3 +59,15 @@ Besides the identified areas, other activities such as Master Classes, Sports Le
 ### IT TAKES A COMMUNITY TO NURTURE OUR SPORTSMEN!
 
 We recognise that developing our young Montfortians to be sportsmen par excellence, we cannot do it alone. We need the assistance of our community to ensure the success of our **MSPEX** program. We are privilege to have a team of experts, comprising of academia, sportsmen, coaches, business leaders and organisational leaders to serve on our Advisory Council. Our team of teachers and coaches work closely together to monitor and implement the program and most importantly, we require the close support from parents. Working together, we will develop our young sportsmen to be the best that they can be. Age Quod Agis.
+
+### OUR ADVISORY COUNCIL
+
+| **Name** 	|  	|
+|---	|---	|
+| **Mr Carl de Vries** 	| Founder, Athletic Inc<br>Former National Bowler 	|
+| **Mr Jimmy Lee** 	| Lecturer, School of Sports Health and Leisure,<br>Republic Polytechnic 	|
+| **Mr Lyon Lai** 	| Program Chair, Diploma in Health Management and Promotion<br>Republic Polytechnic<br>Montfort Alumni 	|
+| **Mr Andy Loe** 	| Senior manager, Student Life @ Yale-Nus College<br>Montfort Alumni 	|
+| **Mr Azhar Yusof** 	| Head, Coach SG<br>Parent of a child in MJS 	|
+| **Mr Chua Yong Joo** 	| Ex National Chief Coach for Singapore Badminton Association<br>Former National Badminton<br>Montfort Alumni 	|
+| **Dr Koh Koon Teck** 	| Associate Professor<br>Head, Physical Education Sports Science, NIE, NTU. <br>Chairman of International Bowling Federation (IBF), global coach education pathway <br>Member of Technical Commission for FIBA <br>Executive Board member for Asia Association of Coaching Science <br>President, SPEA 	|
