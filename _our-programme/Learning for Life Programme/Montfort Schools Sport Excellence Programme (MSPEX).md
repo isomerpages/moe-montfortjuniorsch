@@ -4,7 +4,6 @@ permalink: /our-programme/learning-for-life-programme-llp/montfort-schools-sport
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-
 # **MONTFORT SCHOOLS SPORT EXCELLENCE PROGRAMME (MSPEX)**
 
 Developing life-long sportsmen  
@@ -56,3 +55,7 @@ While all 6 areas will be available to all sports teams, each individual team wi
 <img src="/images/MSPEX%20Chart_2.jpg" style="width:360px;height:190px;margin-left:15px;" align = "right">
   
 Besides the identified areas, other activities such as Master Classes, Sports Leader camps, alumni and other sports personalities motivational talks will be organised.
+
+### IT TAKES A COMMUNITY TO NURTURE OUR SPORTSMEN!
+
+We recognise that developing our young Montfortians to be sportsmen par excellence, we cannot do it alone. We need the assistance of our community to ensure the success of our **MSPEX** program. We are privilege to have a team of experts, comprising of academia, sportsmen, coaches, business leaders and organisational leaders to serve on our Advisory Council. Our team of teachers and coaches work closely together to monitor and implement the program and most importantly, we require the close support from parents. Working together, we will develop our young sportsmen to be the best that they can be. Age Quod Agis.
