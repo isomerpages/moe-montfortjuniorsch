@@ -28,3 +28,12 @@ Both Montfort Junior and Montfort Secondary schools have a good track record in 
 Fundamentally, the Junior School will start off with a broad based exposure to a wide variety of sports for all students. Based on interest and aptitude, students may then pursue their chosen area at a higher level. Our student athletes will then be systematically developed and provided with opportunities to pursue their chosen sport at a higher level with greater confidence and competence.    
   
 Research has shown that it takes 10 years for a talented athlete to achieve a certain level of expertise, 8 to 12 years to reach elite levels, 13 to 15 years to develop to excel on an international arena. Our MSPEX programme taps on the uniqueness of our two schools to provide a One Montfort experience, providing 10 years of seamless training and development opportunities, undergird by a common philosophy and approach.
+
+The **MSPEX** adopts the **Long Term Athlete Development Model (LTAD)** as our sports developmental approach. Our program will be structured along key stages of development: 
+
+<img src="/images/MSPEX%20Chart_3.jpg" style="width:320px;height:200px;margin-left:15px;" align = "right">
+
+*   FUNdamental (ages 6 – 9)
+*   Learning to Train (ages 9 – 12),
+*   Training to Train (ages 12 – 16),
+*   Training to Compete (ages 16 – 23), Training to Win (ages 19+)
