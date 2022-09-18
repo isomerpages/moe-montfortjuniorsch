@@ -37,3 +37,15 @@ The **MSPEX** adopts the **Long Term Athlete Development Model (LTAD)** as o
 *   Learning to Train (ages 9 – 12),
 *   Training to Train (ages 12 – 16),
 *   Training to Compete (ages 16 – 23), Training to Win (ages 19+)
+
+The MSPEX Programme will emphasize on 6 key areas of focus:  
+
+<img src="/images/MSPEX%20Chart_1.jpg" style="width:350px;height:180px;margin-left:15px;" align = "right">
+
+*   Sports Psychology
+*   Diet and nutrition
+*   Fitness and strength conditioning
+*   Biomechanics and performance analytics
+*   Injury prevention and management
+*   Values, ethics and leadership
+
