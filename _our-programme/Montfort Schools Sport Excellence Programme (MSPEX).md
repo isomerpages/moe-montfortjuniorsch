@@ -49,3 +49,8 @@ The MSPEX Programme will emphasize on 6 key areas of focus:
 *   Injury prevention and management
 *   Values, ethics and leadership
 
+While all 6 areas will be available to all sports teams, each individual team will undergo appropriate modules at the appropriate time and complexity as decided by the program manager, teachers and coaches. The modules may also be offered to individual athletes as appropriate.  
+
+<img src="/images/MSPEX%20Chart_2.jpg" style="width:360px;height:190px;margin-left:15px;" align = "right">
+  
+Besides the identified areas, other activities such as Master Classes, Sports Leader camps, alumni and other sports personalities motivational talks will be organised.
