@@ -2,6 +2,7 @@ collections:
   our-programme:
     output: true
     order:
+      - CCE/Character & Citizenship Education.md
       - CCE/Sexuality Education.md
       - CCE/.keep
       - English Language.md
