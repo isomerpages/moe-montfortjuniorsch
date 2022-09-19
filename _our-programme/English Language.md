@@ -37,3 +37,15 @@ There are two parts to the Shared Book Approach. In SBA 1, the teacher introduce
 
 **Growing the passion for writing**
 ![](/images/english%20language.jpg)
+
+**Monthly Library Activities**  
+
+The programme aims to build a reading culture amongst our pupils as it will greatly benefit them in their English Language oral and written skills. Books of different genres have been specially selected to expose pupils to awide range of reading materials. In this programme, classes will rotate boxes of books within the level. The pupils will be reading these books daily at stipulated times.  
+  
+There is also a new section in our library that caters to the Primary 1 and Primary 2 pupils so as to start the pupils early in their love for reading.  
+  
+**Inculcating the love of reading**
+
+![](/images/english%20language1.jpg)
+
+![](/images/Inculcating%20the%20love%20for%20reading_4.jpg)
