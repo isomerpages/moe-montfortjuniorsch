@@ -53,3 +53,5 @@ School Hall
 
 
 ### GALLERY OF EVENTS
+
+![](/images/table%20tennis.jpg)
