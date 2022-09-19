@@ -38,3 +38,18 @@ ii) Crocodile Cup
 ### AWARDS /  ACHIEVEMENTS (2018)
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Division</span></th><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">North Zone</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">North Zone Junior Team</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">3rd Runners-Up</span></td></tr></tbody></table>
+
+### CCA EVENTS
+
+**North Zone Tournament**
+
+Objective:
+
+Students to pit their learned skills against other participants. Students to apply the CHRISTE values and practice sportsmanship during the games.
+
+### VENUE
+
+School Hall
+
+
+### GALLERY OF EVENTS
