@@ -50,3 +50,11 @@ Objective:
 School Hall
 
 ### PHOTO GALLERY
+
+![](/images/taekwondo.jpg)
+
+### OTHER USEFUL LINKS
+
+[http://www.stf.sg/](http://www.stf.sg/%C2%A0)   
+  
+[http://www.zensch.com/programmes/taekwondo-2/](http://www.zensch.com/programmes/taekwondo-2/)
