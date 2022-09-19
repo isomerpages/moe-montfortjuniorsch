@@ -31,3 +31,26 @@ Please visit the school website:&nbsp;[https://montfortjunior.moe.edu.sg/our-pro
 ### TEACHERS-IN-CHARGE
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">NAME</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">EMAIL</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Mr John Tan </span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:tan_soo_huat@moe.edu.sg"><span style="text-decoration:underline;color:#BE311B">tan_soo_huat@moe.edu.sg</span></a></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Miss Zuraidah Bte Mohd Ariff</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:zuraidah_jaffar@moe.edu.sg"><span style="text-decoration:underline;color:#BE311B">zuraidah_jaffar@moe.edu.sg</span></a></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Mr Alfred Leong</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> </span><a href="mailto:leong_kan_sun@moe.edu.sg"><span style="text-decoration:underline;color:#BE311B">leong_kan_sun@moe.edu.sg</span></a></td></tr></tbody></table>
+
+### PROGRAMME HIGHLIGHTS/UPDATES FOR 2020
+
+A number of events were postponed due to the current COVID-19 pandemic.  
+  
+We are participating in Annual Scouts Job Week in early March 2020 and the yearly Scouts Donation draw in early July 2020.  We will also be taking part in Zonal and National level competitions in 2020.  
+  
+
+### AWARDS/ ACHIEVEMENTS (2019)
+
+Frank Sand Coopers Award 2019 (BRONZE)
+
+### CCA EVENTS
+
+**Objective of Participation**
+
+We want our Cub Scouts to “Do Well in Whatever You Do” which is in line with the School Motto - **AGE QUOD AGIS**.   We want our Cub Scouts to pit their knowledge and skills learned together with other fellow scouts members. We also want our Cub Scouts to apply the CHRISTE values and practice sportsmanship values during the campaigns and competitions.
+
+### PHOTO GALLERY
+
+![](/images/Cub%20Scouts1.jpg)
+![](/images/Cub%20Scouts2.jpg)
+![](/images/Cub%20Scouts3.jpg)
