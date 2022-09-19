@@ -2,6 +2,7 @@ collections:
   our-programme:
     output: true
     order:
+      - Co Curriculum Activities/Taekwondo.md
       - Co Curriculum Activities/Robotics Club.md
       - Co Curriculum Activities/.keep
       - CCE/Character & Citizenship Education.md
