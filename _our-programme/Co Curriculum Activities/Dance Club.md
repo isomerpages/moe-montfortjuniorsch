@@ -48,4 +48,6 @@ November – Prize Giving Day
 
 ### PHOTO GALLERY
 
+![](/images/Dance%20club.jpg)
+
 ![](/images/Dance%20club1.jpg)
