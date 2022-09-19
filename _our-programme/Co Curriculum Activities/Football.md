@@ -40,3 +40,5 @@ Students to apply the CHRISTE values and practice sportsmanship during the games
 ### AWARDS /  ACHIEVEMENTS (2020-2021)
 
 In 2020 and 2021, due to Covid-19, NSG was cancelled.
+
+### AWARDS /  ACHIEVEMENTS (2019)
