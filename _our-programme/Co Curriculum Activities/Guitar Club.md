@@ -36,3 +36,5 @@ We are currently training for the Singapore Youth Festival 2022.  Hence all SYF
 ### AWARDS/ ACHIEVEMENTS
 
 **2018** – The boys achieved a certificate of Accomplishment (Silver award) for SYF.
+
+### INSTRUCTOR
