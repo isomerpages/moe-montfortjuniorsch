@@ -21,3 +21,6 @@ Please refer to Parents’ Gateway and the CCA notice board for the latest updat
 Please take note that&nbsp;<b>NO HARD COPY</b>&nbsp;of training schedule will be given anymore.
 
 Please visit the school website:&nbsp;[https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities](https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities)&nbsp;for training schedules.
+
+
+### TEACHERS-IN-CHARGE
