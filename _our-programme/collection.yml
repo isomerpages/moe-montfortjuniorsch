@@ -2,6 +2,7 @@ collections:
   our-programme:
     output: true
     order:
+      - English Language.md
       - Mathematics.md
       - Science.md
       - Learning for Life Programme/Montfort Schools Sport Excellence Programme
