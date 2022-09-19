@@ -2,6 +2,7 @@ collections:
   our-programme:
     output: true
     order:
+      - Co Curriculum Activities/Badminton.md
       - Co Curriculum Activities/Cub Scouts.md
       - Co Curriculum Activities/Football.md
       - Co Curriculum Activities/Guitar Club.md
