@@ -45,3 +45,5 @@ April – Singapore Youth Festival Arts Presentation Certificate of Distinction
 June – VIA – Dance Extravagance at Bukit Panjang Plaza  
 August – National Day  
 November – Prize Giving Day
+
+### PHOTO GALLERY
