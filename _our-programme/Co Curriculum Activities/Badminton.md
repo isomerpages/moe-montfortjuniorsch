@@ -59,3 +59,19 @@ In 2019, the Senior & Junior teams came in 1st Runners-up in the North Zone tour
 | Name | Email | Contact |
 | --- | --- | --- |
 | Mr Kenny Quek | [kenjo23@hotmail.com](mailto:kenjo23@hotmail.com) | 93896987 |
+
+### VENUE
+
+Montfort Junior School 
+
+Indoor Sports Hall
+
+### CCA EVENTS
+
+**North Zone Tournament**  
+  
+Objective:  
+Pupils to pit their learned skills against other participants.  
+Pupils to apply the CHRISTE values and practice sportsmanship during the games.
+
+### PHOTO GALLERY
