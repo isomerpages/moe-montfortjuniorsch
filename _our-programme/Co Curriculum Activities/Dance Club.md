@@ -40,3 +40,8 @@ MJS International Dance Club is glad to announce that we will be participating i
 ### ACHIEVEMENTS
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Year</span></th><th style="background-color:#1F8CE4;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Award</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">2018</span></td><td style="background-color:#F2F9FF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">SYF Certificate of Distinction</span></td></tr></tbody></table>
+
+April – Singapore Youth Festival Arts Presentation Certificate of Distinction  
+June – VIA – Dance Extravagance at Bukit Panjang Plaza  
+August – National Day  
+November – Prize Giving Day
