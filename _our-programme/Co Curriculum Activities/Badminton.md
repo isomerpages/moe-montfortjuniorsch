@@ -27,3 +27,35 @@ We are currently training for the NSG North Zone badminton 2022.
 | Division | North-Zone | Nationals |
 | --- | --- | --- |
 | Senior Boys | 1st Runners-Up | NSG was cancelled |
+
+
+### AWARDS/ ACHIEVEMENTS (2020)
+
+| Division | North-Zone | Nationals |
+| --- | --- | --- |
+| Senior Boys | Top 4 | NSG was cancelled  
+ |
+
+In 2020, due to Covid-19, the competition had to stop at the Semi-finals.
+
+### AWARDS/ ACHIEVEMENTS (2019)
+
+| Division | North Zone | Nationals |
+| --- | --- | --- |
+| Senior Boys | 1st Runners-Up | Top 8 |
+| Junior Boys | 1st Runners-Up | 1st Runners-Up |
+
+In 2019, the Senior & Junior teams came in 1st Runners-up in the North Zone tournament. As for Nationals tournament, the Seniors came among the top 8 while the Junior boys came in as 1st Runners-up.
+
+### AWARDS/ ACHIEVEMENTS (2018)
+
+| Division | North Zone | Nationals |
+| --- | --- | --- |
+| Senior Boys | Champions | 2nd Runners-Up |
+| Junior Boys | 1st Runners-Up | Top 8 |
+
+### COACH
+
+| Name | Email | Contact |
+| --- | --- | --- |
+| Mr Kenny Quek | [kenjo23@hotmail.com](mailto:kenjo23@hotmail.com) | 93896987 |
