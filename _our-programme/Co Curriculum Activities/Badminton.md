@@ -23,3 +23,7 @@ Please refer to Parents’ Gateway or CCA notice board for the latest updates.
 We are currently training for the NSG North Zone badminton 2022.
 
 ### AWARDS/ ACHIEVEMENTS (2021)
+
+| Division | North-Zone | Nationals |
+| --- | --- | --- |
+| Senior Boys | 1st Runners-Up | NSG was cancelled |
