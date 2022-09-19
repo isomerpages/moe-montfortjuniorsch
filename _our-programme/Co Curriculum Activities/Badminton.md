@@ -75,3 +75,5 @@ Pupils to pit their learned skills against other participants.
 Pupils to apply the CHRISTE values and practice sportsmanship during the games.
 
 ### PHOTO GALLERY
+
+![](/images/badminton.jpg)
