@@ -17,3 +17,5 @@ MCCA students will be embarking on learning Pastel Art using different types of 
 Please take note that <b>NO HARD COPY</b> of training schedule will be given anymore.
 
 Please visit the school website: [https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities](https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities) for training schedules.
+
+### TEACHERS-IN-CHARGE
