@@ -2,4 +2,5 @@ collections:
   announcement:
     output: true
     order:
+      - KiDS Challenge at Montfort Junior School.md
       - SMC AWARDS FOR STAFF 2022.md
