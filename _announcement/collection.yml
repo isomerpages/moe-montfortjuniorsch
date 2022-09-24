@@ -2,6 +2,7 @@ collections:
   announcement:
     output: true
     order:
+      - Video and Q&As from Familiarisation Exercise on Use of ART kits.md
       - Primary 1 Orientation 2022.md
       - Parents Engagement Session 2022.md
       - Raffles Institution Primary Mathematics World Contest 2022.md
