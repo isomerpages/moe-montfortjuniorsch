@@ -2,5 +2,6 @@ collections:
   announcement:
     output: true
     order:
+      - Raffles Institution Primary Mathematics World Contest 2022.md
       - KiDS Challenge at Montfort Junior School.md
       - SMC AWARDS FOR STAFF 2022.md
