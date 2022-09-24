@@ -2,13 +2,13 @@ collections:
   announcement:
     output: true
     order:
-      - FINANCIAL ASSISTANCE SCHEME (FAS) 2022.md
-      - BOOKLIST 2022.md
-      - Newsletter.md
-      - Dismissal timings by level.md
-      - Video and Q&As from Familiarisation Exercise on Use of ART kits.md
-      - Primary 1 Orientation 2022.md
-      - Parents Engagement Session 2022.md
-      - Raffles Institution Primary Mathematics World Contest 2022.md
-      - KiDS Challenge at Montfort Junior School.md
       - SMC AWARDS FOR STAFF 2022.md
+      - KiDS Challenge at Montfort Junior School.md
+      - Raffles Institution Primary Mathematics World Contest 2022.md
+      - Parents Engagement Session 2022.md
+      - Primary 1 Orientation 2022.md
+      - Video and Q&As from Familiarisation Exercise on Use of ART kits.md
+      - Dismissal timings by level.md
+      - Newsletter.md
+      - BOOKLIST 2022.md
+      - FINANCIAL ASSISTANCE SCHEME (FAS) 2022.md
