@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Montfort Junior School
       background: /images/mjs.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: ""
