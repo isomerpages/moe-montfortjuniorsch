@@ -2,6 +2,7 @@ collections:
   hightlights:
     output: true
     order:
+      - Mini Makers.md
       - Engaging and Empowering Boys Across Generations.md
       - Can you see the sparkle in their eyes?.md
       - Importance of A Catholic Education.md
