@@ -2,6 +2,7 @@ collections:
   announcement:
     output: true
     order:
+      - FINANCIAL ASSISTANCE SCHEME (FAS) 2022.md
       - BOOKLIST 2022.md
       - Newsletter.md
       - Dismissal timings by level.md
