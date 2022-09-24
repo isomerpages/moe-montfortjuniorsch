@@ -22,9 +22,8 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Announcements
+      description: For more information,
+      button: Click here
+      url: /announcement/SMC-AWARDS-FOR-STAFF-2022/
 ---
