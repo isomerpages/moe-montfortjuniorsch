@@ -1,4 +1,5 @@
 collections:
   hightlights:
     output: true
-    order: []
+    order:
+      - example-page.md
