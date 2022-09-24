@@ -13,7 +13,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Announcements
-          description: Click here
+          description: ""
           url: /announcement/SMC-AWARDS-FOR-STAFF-2022/
         - title: Highlights
           description: ""
