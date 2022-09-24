@@ -2,4 +2,4 @@ collections:
   hightlights:
     output: true
     order:
-      - example-page.md
+      - P1 Orientation.md
