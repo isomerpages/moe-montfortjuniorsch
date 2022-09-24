@@ -2,6 +2,7 @@ collections:
   announcement:
     output: true
     order:
+      - Parents Engagement Session 2022.md
       - Raffles Institution Primary Mathematics World Contest 2022.md
       - KiDS Challenge at Montfort Junior School.md
       - SMC AWARDS FOR STAFF 2022.md
