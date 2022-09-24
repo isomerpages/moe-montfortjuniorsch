@@ -1,5 +1,5 @@
 collections:
-  announcement:
+  announcements:
     output: true
     order:
       - SMC AWARDS FOR STAFF 2022.md
