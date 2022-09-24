@@ -2,5 +2,6 @@ collections:
   hightlights:
     output: true
     order:
+      - Can you see the sparkle in their eyes?.md
       - Importance of A Catholic Education.md
       - P1 Orientation.md
