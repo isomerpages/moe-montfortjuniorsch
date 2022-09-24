@@ -14,3 +14,10 @@ The Music curriculum is based on the ECAR framework- “Experience”, “Concep
 The Aesthetics Department has infused Makers education into the curriculum. The P5 combined music and art lessons are based on the Design Thinking concept using MakeyMakey. The P6 students used their coding skills in Microbits, acquired during their Computation Thinking programme, to create an interactive toy.  
   
 Our biennial MJS PAM (PE, Aesthetics, Makers) Night is a celebration of the pupils’ creativity and talents. The students participate in music performances, art and makers exhibitions. For PE, the students showcase what they have learnt in their curriculum.
+
+![](/images/DSCF7555.jpg)
+![](/images/IMG-20200412-WA0019.jpg)
+![](/images/JJVQ7767.jpg)
+![](/images/IMG_4173.jpg)
+![](/images/FDYZ3871.jpg)
+![](/images/Working%20together%20on%20a%20collaborative%20artwork.jpg)
