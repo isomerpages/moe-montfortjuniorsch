@@ -2,4 +2,5 @@ collections:
   hightlights:
     output: true
     order:
+      - Importance of A Catholic Education.md
       - P1 Orientation.md
