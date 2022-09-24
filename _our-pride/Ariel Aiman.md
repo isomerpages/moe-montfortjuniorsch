@@ -19,4 +19,5 @@ I have been given many opportunities to be the emcee for school events in the la
 
 I will always be thankful to MJS for shaping me to be the person I am today. Confident, Caring and Gracious.       
 
-Ariel Aiman 6 Compassion (2020)
+Ariel Aiman     
+6 Compassion (2020)
