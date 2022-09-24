@@ -17,5 +17,5 @@ sections:
           url: /announcement/SMC-AWARDS-FOR-STAFF-2022/
         - title: Highlights
           description: ""
-          url: /announcement/SMC-AWARDS-FOR-STAFF-2022/
+          url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
 ---
