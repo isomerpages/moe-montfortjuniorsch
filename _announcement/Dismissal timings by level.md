@@ -5,4 +5,4 @@ description: ""
 ---
 # **DISMISSAL TIMINGS BY LEVEL**
 
-[**Dismissal timings by level**]([Dismissal Timing by level](/files/Dismissal%20Timing%20in%20T3.pdf))
+Please click [here](/files/Dismissal%20Timing%20in%20T3.pdf) for more information.
