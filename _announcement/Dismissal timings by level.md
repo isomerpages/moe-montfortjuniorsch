@@ -5,4 +5,4 @@ description: ""
 ---
 # **DISMISSAL TIMINGS BY LEVEL**
 
-[**Dismissal timings by level**](http://montfortjunior-moe-edu-sg-admin.cwp.sg/qql/slot/u527/Others/Announcements/2021/Dismissal%20Timing%20in%20T3.pdf)
+[**Dismissal timings by level**]([Dismissal Timing by level](/files/Dismissal%20Timing%20in%20T3.pdf))
