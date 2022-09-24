@@ -11,6 +11,3 @@ permalink: /example-page/
 ![](/images/WhatsApp%20Image%202022-01-04%203.jpeg)
 
 ![](/images/WhatsApp%20Image%202022-01-04%204.jpeg)
-
-
-
