@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Video and Q&As from Familiarisation Exercise on Use of ART kits.md
       - Dismissal timings by level.md
       - Newsletter.md
       - BOOKLIST 2022.md
