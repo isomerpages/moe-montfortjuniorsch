@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/SMC-AWARDS-FOR-STAFF-2022/
+          url: /announcements/booklist2023/
         - title: Highlights
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
