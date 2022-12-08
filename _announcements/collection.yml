@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - P1 Parent Engagement Deck 2023.md
       - Booklist 2023.md
       - Dismissal timings by level.md
       - Newsletter.md
