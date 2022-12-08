@@ -2,7 +2,7 @@
 layout: homepage
 title: Montfort Junior School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
@@ -17,3 +17,4 @@ sections:
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
 ---
+
