@@ -16,7 +16,6 @@ description: ""
 | Ms Mary Ann Joshua<br>[mary_ann_arokiamary_joshua@moe.edu.sg](mailto:mary_ann_arokiamary_joshua@moe.edu.sg) 	| It takes a village to raise a child. 	|
 | Mdm Toh Geok Hong (Irene) 	| Do my utmost best in whatever I do. 	|
 | Mdm Mahani Bte Hassan 	| Everyone wants happiness. No one wants pain. But you cant have a rainbow, without a little rain. 	|
-|  Ms Nurhiydayah 	| Giving up is for rookies.  	|
 |  Mdm Quek Chat Swen Adeline 	|   	|
 | Mdm Siti Rukiah Bte Wahidin 	| I am in charge of how I feel and today I am choosing happiness. 	|
 | Mdm Ang Liang Yong Cecilia 	| Everyday may not be good but there's something good in everyday. 	|
