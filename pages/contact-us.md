@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Montford Junior School
+agency_name: Montfort Junior School
 locations:
   - address:
       - 52 Hougang Ave 8
