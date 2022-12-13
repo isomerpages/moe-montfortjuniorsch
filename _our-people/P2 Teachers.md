@@ -15,3 +15,5 @@ description: ""
 | Mrs Joy Tong <br>[lim_lay_choo_a@schools.gov.sg](mailto:lim_lay_choo_a@schools.gov.sg) 	| A good teacher must be able to put herself in the shoes of those who find learning hard. 	|
 | Mrs Mary Heng <br>[kheng_mary@schools.gov.sg](mailto:kheng_mary@schools.gov.sg)| Minds are like parachutes, they function best when open. |
 |Ms Tan Loo Sin<br>[tan_loo_sin@schools.gov.sg](mailto:tan_loo_sin@schools.gov.sg)| Our greatest glory is not in never falling but in rising after every fall.|
+|Mdm Celest Phang<br>[phang_sin_yee@schools.gov.sg](mailto:phang_sin_yee@schools.gov.sg)| Always look on the bright side of life.|
+|Mdm Suguna Bai<br>[suguna_bai_balasundaram@schools.gov.sg](mailto:suguna_bai_balasundaram@schools.gov.sg)|We learn from failure, not from success.|
