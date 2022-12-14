@@ -7,12 +7,11 @@ description: ""
 
 | Name & Email 	| Personal Statement On The Philosophy Of Education 	|
 |---	|---	|
-| Mr Patrick Low <br>[low_tong@schools.gov.sg](mailto:low_tong@schools.gov.sg) 	| I have not failed. I've just found 10,000 ways that won't work. 	|
-| Mr Zailee Ramli <br>[zailee_ramli@schools.gov.sg](mailto:zailee_ramli@schools.gov.sg) 	|  The process in achieving education is tedious but the product is well-worth the effort. 	|
-| Mr John Chan<br>[Chan_Hoe_Chye_John@schools.gov.sg](mailto:Chan_Hoe_Chye_John@schools.gov.sg) 	| Knowledge gives you Power, but Character earns you Respect. 	|
-| Ms Alicia Gomes<br>[alicia_bernice_gomes@schools.gov.sg](mailto:alicia_bernice_gomes@schools.gov.sg) 	| My goal is not to be better than others, but to be better than I used to be. 	|
-| Mdm Lalita Devi<br>[lalita_devi_singh@schools.gov.sg](mailto:lalita_devi_singh@schools.gov.sg) 	| Intelligence plus character- that is the goal of true education. 	|
-| Mrs Lau Kee Haw <br>[lau_kee_haw@schools.gov.sg](mailto:lau_kee_haw@schools.gov.sg) 	| Your network of family and friends is a source of strength and support. 	|
-| Mr Muhd Nizam<br>[muhammad_nizam_b_shahri@schools.gov.sg](mailto:muhammad_nizam_b_shahri@schools.gov.sg) 	| Everyone is rewarded for the effort one makes. 	|
-| Mr Loh Chen Lung Norman<br>[loh_chen_lung_norman@schools.gov.sg](mailto:loh_chen_lung_norman@schools.gov.sg) 	|  What you do makes a difference, and you have to decide what kind of difference you want to make. 	|
-| Ms Hii Xixin Amanda<br>[hii_xixin_amanda@schools.gov.sg](mailto:hii_xixin_amanda@schools.gov.sg) 	| Whatever you do, just do it well.  	|
+| Mr Charles Lee <br>[lee_boon_haw@schools.gov.sg](mailto:lee_boon_haw@schools.gov.sg) 	| Together, we engage and empower every Montfortian, for the growth of self and the good of others. 	|
+| Ms Li Jia Xin <br>[li_jia_xin@schools.gov.sg](mailto:li_jia_xin@schools.gov.sg) 	|  Enjoy every little fruits of labor.	|
+| Mdm Kamariah Bte Atan<br>[kamariah_atan@schools.gov.sg](mailto:kamariah_atan@schools.gov.sg) 	|  	|
+| Mr Tang Zhanke<br>[tang_zhanke@schools.gov.sg](mailto:tang_zhanke@schools.gov.sg) 	|  	|
+| Ms Sim Ai Koon<br>[sim_ai_koon@schools.gov.sg](mailto:sim_ai_koon@schools.gov.sg) 	| Believe in yourself. 	|
+| Mdm Zhu Jiayi <br>[zhu_jiayi@schools.gov.sg](mailto:zhu_jiayi@schools.gov.sg) 	|  Don't wait for the right moment to start, start and make each moment right. 	|
+| Ms Pey Huey Shan<br>[pey_huey_shan@schools.gov.sg](mailto:pey_huey_shan@schools.gov.sg) 	| Educating the mind without educating the heart is no education at all. 	|
+| Mr Vincent Lee<br>[lee_kar_leong@schools.gov.sg](mailto:lee_kar_leong@schools.gov.sg) 	|  I prioritize authentic learning situations where students learn through solving real-world problems and technology as a ‘cognitive tool’ to extend their thinking. 	|
