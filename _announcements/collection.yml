@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2023 MONTFORT STEAM PROGRAMME & MONTFORT DEVELOPMENT PROGRAMME.md
       - 2023 MONTFORT STEAM PROGRAMME.md
       - P1 (2023) Orientation Parent briefing Nov 2022.md
       - P1 Parent Engagement Deck 2023.md
