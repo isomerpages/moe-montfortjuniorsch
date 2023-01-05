@@ -15,4 +15,4 @@ description: ""
 | Ms Hii Xixin Amanda<br>[hii_xixin_amanda@schools.gov.sg](mailto:hii_xixin_amanda@schools.gov.sg) 	| Whatever you do, just do it well. 	|
 | Ms Alicia Gomes <br>[alicia_bernice_gomes@schools.gov.sg](mailto:alicia_bernice_gomes@schools.gov.sg) 	| My goal is not to be better than others, but to be better than I used to be. 	|
 | Mr Zailee Ramli <br>[zailee_ramli@schools.gov.sg](mailto:zailee_ramli@schools.gov.sg) 	| The process in achieving education is tedious but the product is well-worth the effort. 	|
-| Miss Jessalyn Lee <br>[ lee_li_yun_jessalyn@schools.gov.sg](mailto: lee_li_yun_jessalyn@schools.gov.sg) 	| Education is the kindling of a flame, not the filling of a vessel. 	|
+| Miss Jessalyn Lee <br>[lee_li_yun_jessalyn@schools.gov.sg](mailto:lee_li_yun_jessalyn@schools.gov.sg) | Education is the kindling of a flame, not the filling of a vessel. 	|
