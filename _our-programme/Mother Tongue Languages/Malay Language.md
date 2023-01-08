@@ -31,12 +31,6 @@ Activities held during the Bi-MT Week enriched the pupils’ knowledge of the Ma
 
 Learning journeys take the pupils’ learning beyond the classroom. Through LJs, pupils get the chance to experience authentic learning beyond the classroom.
 
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="https://montfortjunior-moe-edu-sg-admin.cwp.sg/qql/slot/u527/Our%20Programme/Malay%20Dept/Learning%20at%20Fort%20Canning.jpg" alt="Learning at Fort Canning.jpg" width="71" height="53"><br>Learning at Fort Canning<br></th><th style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="https://montfortjunior-moe-edu-sg-admin.cwp.sg/qql/slot/u527/Our%20Programme/Malay%20Dept/Learning%20Journey%20to%20Fort%20Canning.jpg" alt="Learning Journey to Fort Canning.jpg" width="68" height="51"><br>Learning Journey to Fort Canning<br></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="https://montfortjunior-moe-edu-sg-admin.cwp.sg/qql/slot/u527/Our%20Programme/Malay%20Dept/Learning%20Journey%20to%20Rivervale%20Plaza.jpg" alt="Learning Journey to Rivervale Plaza.jpg" width="71" height="53"><br><span style="font-weight:bold">Learning Journey to Rivervale Plaza</span><br></td><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="https://montfortjunior-moe-edu-sg-admin.cwp.sg/qql/slot/u527/Our%20Programme/Malay%20Dept/Snack%20break%20during%20learning%20journey.jpg" alt="Snack break during learning journey.jpg" width="68" height="51"><br><span style="font-weight:bold">Snack break during learning journey</span><br></td></tr></tbody></table>
-
-
-
 ### TEACHERS-IN-CHARGE
 
 Madam Kamariah Atan (ML Coordinator)  
