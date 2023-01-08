@@ -5,11 +5,6 @@ description: ""
 third_nav_title: Mother Tongue Languages
 ---
 # **MALAY LANGUAGE**
-
-<img src="/images/MLDeptStaff.jpg" 
-     style="width:50%">
-		 
-		 
 ### VISION
 
 Confident and Effective communicators with a passion for Malay Language.
@@ -48,10 +43,4 @@ Madam Kamariah Atan (ML Coordinator)
 Email : [kamariah_atan@moe.edu.sg](mailto:kamariah_atan@moe.edu.sg)    
   
 Mr Zailee Ramli  
-Email: [zailee_ramli@moe.edu.sg](mailto:zailee_ramli@moe.edu.sg)    
-  
-Mr Khairul Riduan Mohamed  
-Email: [mohamed_khairul_riduan@moe.edu.sg](mailto:mohamed_khairul_riduan@moe.edu.sg)    
-  
-Madam Zuraidah Mohd Ariff  
-Email: [zuraidah_mohd_ariff@moe.edu.sg](mailto:zuraidah_mohd_ariff@moe.edu.sg)
+Email: [zailee_ramli@moe.edu.sg](mailto:zailee_ramli@moe.edu.sg)
