@@ -5,9 +5,6 @@ description: ""
 third_nav_title: CCE
 ---
 # **CHARACTER & CITIZENSHIP EDUCATION**
-
-![](/images/CCE%20dept.jpg)
-
 Character & Citizenship Education (CCE) aims to inculcate values and build social and emotional competencies in students to develop them to be good individuals and useful citizens. The CCE Department focuses on character development based on our school’s CHRISTE value so as to develop Montfortian Scholars, Sportsmen, Gentlemen and Leaders and to achieve our Vision of nurturing our boys to become A Man For Others.
 
 ****Our Montfortian CHRISTE Values :****
