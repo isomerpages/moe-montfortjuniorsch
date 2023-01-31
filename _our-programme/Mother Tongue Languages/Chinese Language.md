@@ -6,8 +6,6 @@ third_nav_title: Mother Tongue Languages
 ---
 # **CHINESE LANGUAGE**
 
-![](/images/CL%20Department%20photo%202020.jpg)
-
 ### OUR VISION:
 
 A proficient user of Chinese Language who understands and appreciates the Chinese culture.
