@@ -6,7 +6,6 @@ third_nav_title: Mother Tongue Languages
 ---
 # **TAMIL LANGUAGE**
 
-![](/images/TL%20Dept_1.jpg)
 
 ### DEPARTMENT OBJECTIVES:
 
