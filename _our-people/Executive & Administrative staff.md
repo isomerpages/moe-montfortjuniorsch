@@ -16,11 +16,11 @@ description: ""
 | Ms Mary Ann Joshua<br>[mary_ann_arokiamary_joshua@moe.edu.sg](mailto:mary_ann_arokiamary_joshua@moe.edu.sg) 	| It takes a village to raise a child. 	|
 | Mdm Toh Geok Hong (Irene) 	| Do my utmost best in whatever I do. 	|
 | Mdm Mahani Bte Hassan 	| Everyone wants happiness. No one wants pain. But you cant have a rainbow, without a little rain. 	|
-|  Mdm Quek Chat Swen Adeline 	|   	|
+|  Mdm Quek Chat Swen Adeline 	|  Change your attitude and it will change your life. 	|
 | Mdm Siti Rukiah Bte Wahidin 	| I am in charge of how I feel and today I am choosing happiness. 	|
 | Mdm Ang Liang Yong Cecilia 	| Everyday may not be good but there's something good in everyday. 	|
 |  Mr Lim Choon Kiat 	| The way to get started is to quit talking and begin doing.  	|
 |  Mr Foo Meng Wang 	|  Nothing works unless you do. 	|
-|  Mr Koh Teow Kheng 	|   	|
+|  Mr Koh Teow Kheng 	|  A positive mindset brings positive things. 	|
 |  Ms Marcia<br>[g-ncs5018pde@ncs.com.sg](mailto:g-ncs5018pde@ncs.com.sg) 	| Don't fear failure. If it doesn't challenge you, it won't change you. 	|
-|  Mrs Poornima<br>[g-ncs5018pde@ncs.com.sg](mailto:g-ncs5018pde@ncs.com.sg) 	|   	|
+|  Mrs Poornima<br>[g-ncs5018pde@ncs.com.sg](mailto:g-ncs5018pde@ncs.com.sg) 	|   Don't stop until you're proud.	|
