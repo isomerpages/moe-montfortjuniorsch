@@ -5,8 +5,8 @@ description: ""
 ---
 # **PRINCIPAL'S MESSAGE**
 
-<img src="/images/Wilbur%20Wong.jpg" 
-     style="width:25%">
+<img src="/images/Victor%20Tan.jpg"
+style="width:45%">
 <center>Mr Victor Tan, Principal</center>
 
 “Sawubona” is a common greeting in the Zulu tribe.  It literally means “I see you, you are important to me and I value you”.   This is an important value, a way to make the other person visible and to accept them as they are with their virtues, nuances, and flaws.  Our Montfort education has always focused on the inculcation of virtues in our boys, through our CHRISTE values and for the boys to be of service to the larger community.  Encapsulated in our school mission, we immerse our students in our Montfortian Education Charter and spirituality.  We nurture each child to explore his potential, discover his gifts, and be inspired to carry himself as a Man for Others.  
