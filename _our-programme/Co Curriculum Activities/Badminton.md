@@ -6,17 +6,87 @@ third_nav_title: Co Curriculum Activities
 ---
 # **BADMINTON**
 
-Badminton has been the school’s niche sports CCA since the 1980s. We have both the School Team and the Developmental Team (Primary 1 to 4) to cater for competitive and leisure play, respectively. 
+Badminton has been the school’s niche sports CCA since the 1980s. We have the School Team and the Developmental Team (Primary 1 to 4) for competitive play, and the recreational team to cater for leisure play.
 
-The School Team is proud to have experienced and devoted coaches who have close ties with the school. Opportunities are always available for school team players to participate in school and open competitions, thus promoting resilience, perseverance and team spirit in pursuing the sports that they love.
+The School Team is proud to have experienced and devoted coaches who have close ties with the school. Opportunities are always available for school team players to participate in school and open competitions, thus promoting resilience, perseverance, and team spirit in pursuing the sports that they love.
 
 ### SCHEDULE
 
-**Training sessions for Term 1 only**  
+**School Team and Developmental Team Term 1 schedule**
 
-Please refer to Parents’ Gateway or CCA notice board for the latest updates.
+<table style="width:373.8pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-table-overlap:never;mso-yfti-tbllook:
+ 1184;mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:9.0pt;
+ margin-right:6.75pt;mso-table-anchor-vertical:page;mso-table-anchor-horizontal:
+ margin;mso-table-left:left;mso-table-top:26.05pt;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="498" align="left" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:17.85pt"><td style="width:179.9pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:17.85pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:26.05pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">Level</span></b></p></td><td style="width:78.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:17.85pt" valign="top" width="105"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:26.05pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">Day</span></b></p></td><td style="width:115.1pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:17.85pt" valign="top" width="153"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:26.05pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">Time</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:36.35pt"><td style="width:179.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:36.35pt" valign="top" rowspan="3" width="240"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:26.05pt;mso-height-rule:
+  exactly" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">P3 to P5 Developmental Team</span></p><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:26.05pt;mso-height-rule:
+  exactly" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">P5 &amp; P6 School Team</span></p><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:26.05pt;mso-height-rule:
+  exactly" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">&nbsp;</span></p></td><td style="width:78.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:36.35pt" valign="top" width="105"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:26.05pt;mso-height-rule:
+  exactly" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">Tuesday</span></p><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:26.05pt;mso-height-rule:
+  exactly" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG"><span style="mso-spacerun:yes">&nbsp;</span></span></p></td><td style="width:115.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:36.35pt" valign="top" width="153"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:26.05pt;mso-height-rule:
+  exactly" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">2.00pm – 5.30pm</span></p></td></tr><tr style="mso-yfti-irow:2;height:18.45pt"><td style="width:78.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:18.45pt" valign="top" width="105"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:26.05pt;mso-height-rule:
+  exactly" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">Thursday</span></p></td><td style="width:115.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:18.45pt" valign="top" width="153"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:26.05pt;mso-height-rule:
+  exactly" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">2.00pm – 5.30pm</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:18.45pt"><td style="width:78.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:18.45pt" valign="top" width="105"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:26.05pt;mso-height-rule:
+  exactly" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">Wednesday</span></p></td><td style="width:115.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:18.45pt" valign="top" width="153"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:26.05pt;mso-height-rule:
+  exactly" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt" lang="EN-SG">7.40am - 9.10am</span></p></td></tr></tbody></table>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Level</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mode</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Day</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">Primary 1</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><span style="color:black">3.30pm - 4.30pm</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Zoom Session</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2"><span style="color:black">Tuesday</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">Primary 3</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><span style="color:black">3.30pm - 5.00pm</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Face to Face</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">Primary 2</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">3.30pm - 4.30pm</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Zoom Session</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2"><span style="color:black">Thursday</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">Primary 4</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">3.30pm – 5.00pm</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Face to Face</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">P3 to P6</span><br><span style="color:black">School Team players</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">3.30pm-5.30pm</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black"> </span><br><span style="color:black">Face to Face</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Tuesday &amp; Thursday</span><br><span style="color:black"> </span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">P5 &amp; P6 Recreational Club</span><br><span style="color:black">P5 &amp; P6 School Team players</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">7.40am-9.10am</span><br><span style="color:black"> </span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black"> </span><br><span style="color:black">Face to Face</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black"> </span><br><span style="color:black">Wednesday</span></td></tr></tbody></table>
 
 ### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022 
 
@@ -45,7 +115,7 @@ In 2020, due to Covid-19, the competition had to stop at the Semi-finals.
 | Senior Boys | 1st Runners-Up | Top 8 |
 | Junior Boys | 1st Runners-Up | 1st Runners-Up |
 
-In 2019, the Senior & Junior teams came in 1st Runners-up in the North Zone tournament. As for Nationals tournament, the Seniors came among the top 8 while the Junior boys came in as 1st Runners-up.
+In 2019, the Senior &amp; Junior teams came in 1st Runners-up in the North Zone tournament. As for Nationals tournament, the Seniors came among the top 8 while the Junior boys came in as 1st Runners-up.
 
 ### AWARDS/ ACHIEVEMENTS (2018)
 
@@ -62,7 +132,7 @@ In 2019, the Senior & Junior teams came in 1st Runners-up in the North Zone tour
 
 ### VENUE
 
-Montfort Junior School 
+Montfort Junior School&nbsp;
 
 Indoor Sports Hall
 
