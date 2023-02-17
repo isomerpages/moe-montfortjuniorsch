@@ -75,18 +75,14 @@ Band room
 | Mr Joel Chua  - Instructor     | [Joel.d.chua@gmail.com](Joel.d.chua@gmail.com)     | 9173 5125    |
 
 
-### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022
+### PROGRAMME HIGHLIGHTS/UPDATES FOR 2023
 
-We are currently training for the Singapore Youth Festival 2022.  Hence all SYF students will be with our coaches for all training sessions.
+We are currently training for school events such as Chinese New Year, Founder’s Day and PAM night.
 
 ### AWARDS/ ACHIEVEMENTS
 
-**2018** – The boys achieved a certificate of Accomplishment (Silver award) for SYF.
+**2018** – The students achieved a certificate of Accomplishment (Silver award) for SYF. 
 
-### INSTRUCTOR
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Email</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Contact</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Mr Edward Chua</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:edward@musicdelight.com.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#BE311B">edward@musicdelight.com.sg</span></a></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">9126 4352</span></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Mr Joel Chua</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:Joel.d.chua@gmail.com" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#BE311B">Joel.d.chua@gmail.com</span></a></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">9173 5125</span></td></tr></tbody></table>
 
 ### Photo Gallery
 
-![](/images/guitar%20club.jpg)
