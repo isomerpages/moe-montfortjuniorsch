@@ -6,21 +6,60 @@ third_nav_title: Co Curriculum Activities
 ---
 # **DANCE CLUB**
 
-Montfort Junior’s International Dance Club has been part of the vibrant CCA landscape since 2011. The aim of the club is to train students to be proficient in their basic dance steps and tumbling skills. Besides that, we hope our members will be able to develop self-discipline, good teamwork, confidence and perseverance through the dance sessions and performances.
+Montfort Junior’s International Dance Club has been part of the vibrant CCA landscape since 2011. The CCA strives to nurture and groom our gentlemen to excel in the area of dance. In the process of learning, they will gain skills in a variety of dance moves and performance techniques. We also develop our students to have self-discipline, good teamwork, confidence and perseverance through the dance sessions and performances. 
 
 ### CCA SCHEDULE
 
 Please refer to Parents’ Gateway or CCA notice board for the latest updates.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Level</th><th style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Day</th><th style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time</th><th style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mode</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3 – P6 members</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tuesday</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3.30pm – 5.00pm</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Face to Face</td></tr><tr><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3 (MCCA)</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Wednesday</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.40am – 9.10 am</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Face to Face</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Level</th>
+    <th class="tg-1wig">Day</th>
+    <th class="tg-1wig">Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">P3 - P6 members</td>
+    <td class="tg-0lax">Tuesday</td>
+    <td class="tg-0lax">3.30pm - 5.00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">P5 -&nbsp;&nbsp;P6 (MCCA)</td>
+    <td class="tg-0lax">Wednesday</td>
+    <td class="tg-0lax">7.40am - 9.10am</td>
+  </tr>
+</tbody>
+</table>
 
 Please take note that <b>NO HARD COPY</b> of training schedule will be given anymore.
 
 Please visit the school website: [https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities](https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities) for training schedules.
 
+
+### VENUE
+Dance Studio
+
 ### TEACHERS-IN-CHARGE
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th><th style="background-color:#1F8CE4;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Email</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Mdm Celest Phang </span></td><td style="background-color:#F2F9FF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:phang_sin_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#BE311B">phang_sin_yee@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#F2F9FF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#444">Mrs Suguna Sampath</span></td><td style="background-color:#F2F9FF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a href="mailto:suguna_bai_balasundaram@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#BE311B">suguna_bai_balasundaram@schools.gov.sg</span></a> </td></tr></tbody></table>
+
+
+| Name | Email |  
+| -------- | -------- | 
+| Mrs Suguna Sampath     | [suguna_bai_balasundaram@schools.gov.sg](suguna_bai_balasundaram@schools.gov.sg)    |
+| Mdm Celest Phang     | [phang_sin_yee@schools.gov.sg](phang_sin_yee@schools.gov.sg)    |
+| Miss Tan Loo Sin      | [tan_loo_sin@schools.gov.sg](tan_loo_sin@schools.gov.sg)    |
 
 ### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022
 
