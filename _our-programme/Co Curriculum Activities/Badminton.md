@@ -45,7 +45,11 @@ The School Team is proud to have experienced and devoted coaches who have close 
   </tr>
 </tbody>
 </table>     
+
 **Recreational Team - Recreational sessions begins In Term 2 only**
+        
+*Take note that the schedule below is for recreational teams in Term 2.
+
 ### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022 
 
 We are currently training for the NSG North Zone badminton 2022.
