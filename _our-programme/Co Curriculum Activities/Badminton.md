@@ -113,11 +113,15 @@ In 2022, the Senior students came in 2nd Runners-up in the North Zone tournament
 The Junior students took park in the National School Games Junior Division Competition 2022 and came in as 3rd Runners-up with a close fight in the tiered round. 
 
 
-### COACH
+### Teachers in-charge
 
 | Name | Email | Contact |
 | --- | --- | --- |
-| Mr Kenny Quek | [kenjo23@hotmail.com](mailto:kenjo23@hotmail.com) | 93896987 |
+| Mr Tan Chun Leng | [chen_junlong@schools.gov.sg  ](mailto:chen_junlong@schools.gov.sg) |  |
+| Mdm Kamariah | [kamariah_atan@schools.gov.sg  ](mailto:kamariah_atan@schools.gov.sg) |  |
+| Mdm Mastura | [mastura_abdul_samad@schools.gov.sg  ](mailto:mastura_abdul_samad@schools.gov.sg) |  |
+| Mr Ng Chong Gee | [ng_chong_gee@schools.gov.sg   ](mailto:ng_chong_gee@schools.gov.sg ) |  |
+| Mr Kenny Quek (Coach) | [kenjo23@hotmail.com](mailto:kenjo23@hotmail.com) | 93896987 |
 
 ### VENUE
 
@@ -127,12 +131,11 @@ Indoor Sports Hall
 
 ### CCA EVENTS
 
-**North Zone Tournament**  
-  
-Objective:  
-Pupils to pit their learned skills against other participants.  
-Pupils to apply the CHRISTE values and practice sportsmanship during the games.
+**National School Games North Zone Tournament**  
+Objectives:
+Students to pit their learned skills against other participants.
+Students to apply the CHRISTE values and practice sportsmanship during the games.
+
 
 ### PHOTO GALLERY
 
-![](/images/badminton.jpg)
