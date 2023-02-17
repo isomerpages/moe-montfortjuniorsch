@@ -50,6 +50,41 @@ The School Team is proud to have experienced and devoted coaches who have close 
         
 *Take note that the schedule below is for recreational teams in Term 2.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:bold">Level</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Day</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Time</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Primary 1<br>Primary 3</td>
+    <td class="tg-0pky">Tuesday</td>
+    <td class="tg-0pky">2.00pm - 3.30pm<br>3.30pm - 5.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Primary 2<br>Primary 4</td>
+    <td class="tg-0pky">Thursday</td>
+    <td class="tg-0pky">2.00pm - 3.30pm<br>3.30pm - 5.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">P5 &amp; P6 Recreational Club </td>
+    <td class="tg-0pky">Wednesday</td>
+    <td class="tg-0pky">7.40am - 9.10am</td>
+  </tr>
+</tbody>
+</table>
+
 ### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022 
 
 We are currently training for the NSG North Zone badminton 2022.
