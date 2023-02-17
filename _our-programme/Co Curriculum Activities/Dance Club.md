@@ -61,31 +61,36 @@ Dance Studio
 | Mdm Celest Phang     | [phang_sin_yee@schools.gov.sg](phang_sin_yee@schools.gov.sg)    |
 | Miss Tan Loo Sin      | [tan_loo_sin@schools.gov.sg](tan_loo_sin@schools.gov.sg)    |
 
-### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022
+### PROGRAMME HIGHLIGHTS/UPDATES FOR 2023
 
-We are currently preparing for the upcoming events:  
-Singapore Youth Festival Arts Presentation  – Semester 2 (TBC) School Events  
+We are currently preparing for the upcoming school events:
+Founders Day, PAM nite & EOY Prize Giving Day 2023
 
-### CCA EVENTS
-
-Singapore Youth Festival 2020 SYF is organised by the Ministry of Education to celebrate the vitality of our youth and their diverse arts talents. It serves to  
-
-*   support nation-building and develop cultural awareness and appreciation through aesthetics education;
-*   provide a platform for the development of character, 21st-century competencies and social-emotional learning through the arts;
-*   encourage mass participation in arts co-curricular activities (CCAs) in schools where students enjoy the arts as CCA members or as audience members at performances and exhibitions.
-
-MJS International Dance Club is glad to announce that we will be participating in the SYF – Dance.
 
 ### ACHIEVEMENTS
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Year</span></th><th style="background-color:#1F8CE4;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Award</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">2018</span></td><td style="background-color:#F2F9FF;border-color:#9b9b9b;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">SYF Certificate of Distinction</span></td></tr></tbody></table>
-
-April – Singapore Youth Festival Arts Presentation Certificate of Distinction  
-June – VIA – Dance Extravagance at Bukit Panjang Plaza  
-August – National Day  
-November – Prize Giving Day
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Year</th>
+    <th class="tg-1wig">Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">2022</td>
+    <td class="tg-0lax">SYF Certificate</td>
+  </tr>
+</tbody>
+</table>
 
 ### PHOTO GALLERY
-
-![](/images/Dance%20club.jpg)
-![](/images/Dance%20club1.jpg)
