@@ -37,3 +37,8 @@ Timely assessments and feedback
 
 ### PHOTO GALLERY
 
+
+| ![](/images/Mother%20Tongue/Chinese/Answering%20questions%20on%20Chinese%20New%20Year.jpg)Answering questions on Chinese New Year | ![](/images/Mother%20Tongue/Chinese/Guessing%20Game%20-%20Rabbit%20Search.jpeg)Guessing Game - Rabbit Search | ![](/images/Mother%20Tongue/Chinese/Guitar%20Performance.jpg)Guitar Performance |
+| -------- | -------- | -------- |
+| ![](/images/Mother%20Tongue/Chinese/Lion%20Dance.jpg)   **Lion Dance** | ![](/images/Mother%20Tongue/Chinese/Student%20Emcee.jpg)  **Student Emcee**   |
+
