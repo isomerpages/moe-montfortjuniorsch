@@ -86,3 +86,9 @@ We are currently training for school events such as Chinese New Year, Founder’
 
 ### Photo Gallery
 
+
+
+| ![](/images/CCA/Guitar%20Club/CNY%202023.jpg) | ![](/images/CCA/Guitar%20Club/CNY%20Performance.jpg) | ![](/images/CCA/Guitar%20Club/Mr%20Zhane%20my%20guitar%20teacher.jpg) |
+| -------- | -------- | -------- |
+| ![](/images/CCA/Guitar%20Club/SYF%202021%20pose.jpeg)     | ![](/images/CCA/Guitar%20Club/SYF%202021.jpeg)     | ![](/images/CCA/Guitar%20Club/Together%20as%20One.jpg)     |
+| ![](/images/CCA/Guitar%20Club/Wait%20Look%20Play.jpg)     |     | 
