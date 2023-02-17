@@ -69,3 +69,8 @@ Art Room 1 &amp; 2
 
 ### PHOTO GALLERY
 
+
+| ![](/images/CCA/Picasso's%20Pals/Frustrated.jpg) | ![](/images/CCA/Picasso's%20Pals/Mural%201.jpg) | ![](/images/CCA/Picasso's%20Pals/Mural%202.jpg) |
+| -------- | -------- | -------- |
+| ![](/images/CCA/Picasso's%20Pals/Nice%20work.jpg)     | ![](/images/CCA/Picasso's%20Pals/Smiling.jpg)    | ![](/images/CCA/Picasso's%20Pals/We%20did%20it.jpg)     |
+
