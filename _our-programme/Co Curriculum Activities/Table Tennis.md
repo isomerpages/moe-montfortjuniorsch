@@ -6,17 +6,64 @@ third_nav_title: Co Curriculum Activities
 ---
 # **TABLE TENNIS**
 
-Table Tennis CCA intends to provide students with opportunities to experience the game. We have both the School Team and Recreational Group to cater to students who seeks for competitive participation, or as a leisure sport.
+Table Tennis CCA aims to provide our students with opportunities to experience and excel in the game. We provide opportunities for students who seek for competitive participation or enjoy the game as a leisure sport. 
+ 
+The School Team is proud to have experienced coaches who provides rigorous training to hone the skills of our students. Opportunities are always available for school team players to participate in school and other competitions.
 
-The School Team is proud to have experienced coaches who provides rigorous training to hone the skills of our students. Opportunities are always available for school team players to participate in school and other competitions.   The Recreational Table Tennis team provides a platform for members to play leisurely and develop their skills.
+The Recreational table tennis sessions provides a platform for members to play leisurely and develop their skills with their coaches and CCA team members.
+
 
 ### SCHEDULE
 
-**Training sessions for Term 1 only**
+**Training sessions for 2023**
 
 Please refer to Parents Gateway and CCA notice board for the latest updates.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Level</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Day</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Primary 2 (e-cca)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal">Tuesdays</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3.30 - 4.30pm</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3 Recreational Group</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tuesdays</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3.30 - 5.00pm</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P4 Recreational Group</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Thursdays</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3.30 - 5.00pm</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5 &amp; 6 School Team Development Group</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tuesdays &amp; Thursdays</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3.30 - 5.00pm</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Level</th>
+    <th class="tg-1wig">Day</th>
+    <th class="tg-1wig">Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Primary 2</td>
+    <td class="tg-0lax">Tuesdays</td>
+    <td class="tg-0lax">3.30pm - 5.30pm (Term 1 only)<br>2.00pm - 3.30pm (Term 2 onwards)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">P3 Recreational Group</td>
+    <td class="tg-0lax">Tuesdays</td>
+    <td class="tg-0lax">3.30pm - 5.00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">P4 Recreational Group</td>
+    <td class="tg-0lax">Thursdays</td>
+    <td class="tg-0lax">3.30pm - 5.00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">P5 &amp; P6 School Team</td>
+    <td class="tg-0lax">Tuesdays &amp; Thursdays</td>
+    <td class="tg-0lax">3.30pm - 5.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">P5 &amp; P6 Recreational Group</td>
+    <td class="tg-0lax">Wednesday MCCA</td>
+    <td class="tg-0lax">7.40am - 9.10am</td>
+  </tr>
+</tbody>
+</table>
 
 Please take note that <b>NO HARD COPY</b> of training schedule will be given anymore.
 
@@ -25,33 +72,42 @@ Please visit the school website: [https://montfortjunior.moe.edu.sg/our-program
 
 ### TEACHER-IN-CHARGE 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">NAME</span></th><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">EMAIL</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Ms Li Jia Xin (i/c) </span></td><td style="background-color:#F2F9FF;border-color:#000000;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:li_jia_xin@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">li_jia_xin@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Mdm Zhu Jiayi</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:zhu_jiayi@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#BE311B">zhu_jiayi@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Mrs Tan Pei Long</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> </span><a href="mailto:tay_pei_long@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">tay_pei_long@schools.gov.sg</span></a></td></tr></tbody></table>
 
-### PROGRAMME HIGHLIGHTS / UPDATES FOR 2022
 
-We will be participating in the following competitions:
+| Name  | Email | 
+| -------- | -------- |
+| Ms Li Jia Xin     | [li_jia_xin@schools.gov.sg](li_jia_xin@schools.gov.sg)     |
+| Mdm Zhu Jiayi     | [zhu_jiayi@schools.gov.sg](zhu_jiayi@schools.gov.sg)     |
+| Mdm Liu Xi Wen     | [liu_xiwen@schools.gov.sg](liu_xiwen@schools.gov.sg)     |
+| Ms Chen Jiaying     | [chen_jiaying@schools.gov.sg](chen_jiaying@schools.gov.sg)     |
 
-i) North Zone Individual/Team Table Tennis Championship 
+### PROGRAMME HIGHLIGHTS / UPDATES FOR 2023
 
-ii) Crocodile Cup
+We will be participating in the following competitions for 2023:
+National School Games – Table Tennis Senior Division Individual & Team
+ 
+Crocodile Challenge Cup 2023
 
-### AWARDS /  ACHIEVEMENTS (2018)
+### AWARDS /  ACHIEVEMENTS
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Division</span></th><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">North Zone</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">North Zone Junior Team</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">3rd Runners-Up</span></td></tr></tbody></table>
+Crocodile Challenge Cup 2022 - Top 8 in P3 & P4 category
+
+National School Games 2022 Junior Boys Singles – 2nd place in Tier 2 
+
 
 ### CCA EVENTS
 
-**North Zone Tournament**
+**National School Games**
 
 Objective:
+Students to pit their learned skills against other participants.
+Students to apply the CHRISTE values and practice sportsmanship during the games.
 
-Students to pit their learned skills against other participants. Students to apply the CHRISTE values and practice sportsmanship during the games.
 
 ### VENUE
 
 School Hall
 
 
-### GALLERY OF EVENTS
+### PHOTO GALLERY
 
-![](/images/table%20tennis.jpg)
