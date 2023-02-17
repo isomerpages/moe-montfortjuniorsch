@@ -6,21 +6,51 @@ third_nav_title: Co Curriculum Activities
 ---
 # **PICASSO'S PALS**
 
-Picasso’s Pals is an artistic platform for the members to enjoy art under skilful instructors. Through the art-making process, members explore various artistic expressions. They also have the opportunity to share their art-making process during the CCA Selection Day 2022.
+Picasso’s Pals is an artistic platform for student to enjoy art under skilful instructors. Our students are able to develop their artistic expressions through the art-making processes. Besides nurturing the students’ love for art, they would have the opportunity to participate in exhibitions and leave behind a legacy that will become a rich part of our Montfort Junior's school culture.
 
-MCCA students will be embarking on learning Pastel Art using different types of colouring methods. They will be learning how to blend two different colours when colouring still life artwork and create their own version of animal art with contrast background. This will include learning of Fabric Painting where they will learn how to colour using water colour and merge colours to get the effect they want.
+Picasso's Pals students will be working on two separate projects. A large-scale mural painting on the exterior walls of the Indoor Sport Hall and a collaborative artwork in the Cubist art style which will a part of our school's submission to the Singapore Youth Festival 2023. In both projects, our students will get to pick up different artistic skills that are taught during the CCA sessions.
+
 
 ### SCHEDULE
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Level</th><th style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Day</th><th style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MCCA Picasso Pals</td><td style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal">Wednesday</td><td style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.40-9.10am</td></tr></tbody></table>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Level</th>
+    <th class="tg-1wig">Day</th>
+    <th class="tg-1wig">Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">MCCA Picasso's Pals</td>
+    <td class="tg-0lax">Wednesday</td>
+    <td class="tg-0lax">7.40am - 9.10am</td>
+  </tr>
+</tbody>
+</table>
 Please take note that&nbsp;<b>NO HARD COPY</b>&nbsp;of training schedule will be given anymore.
 
 Please visit the school website:&nbsp;[https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities](https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities)&nbsp;for training schedules.
 
 ### TEACHERS-IN-CHARGE
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#1F8CE4;border-color:#343434;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">NAME</span></th><th style="background-color:#1F8CE4;border-color:#343434;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">EMAIL</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Mrs Amy Khoo</span></td><td style="background-color:#F2F9FF;border-color:#343434;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a rel="noopener noreferrer" target="_blank" href="mailto:koh_aik_hoon@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">koh_aik_hoon@schools.gov.sg</span></a><span style="color:#222;background-color:#F2F9FF"> </span></td></tr></tbody></table>
+
+
+| Name | Email | 
+| -------- | -------- | 
+| Text     | Text     | 
+
+
 
 ### AWARDS/ACHIEVEMENTS
 
