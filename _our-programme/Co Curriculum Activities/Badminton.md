@@ -85,41 +85,33 @@ The School Team is proud to have experienced and devoted coaches who have close 
 </tbody>
 </table>
 
-### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022 
+### PROGRAMME HIGHLIGHTS/UPDATES FOR 2023
 
-We are currently training for the NSG North Zone badminton 2022.
-
-### AWARDS/ ACHIEVEMENTS (2021)
-
-| Division | North-Zone | Nationals |
-| --- | --- | --- |
-| Senior Boys | 1st Runners-Up | NSG was cancelled |
-
-
-### AWARDS/ ACHIEVEMENTS (2020)
-
-| Division | North-Zone | Nationals |
-| --- | --- | --- |
-| Senior Boys | Top 4 | NSG was cancelled  
- |
-
-In 2020, due to Covid-19, the competition had to stop at the Semi-finals.
+National School Games: Zonal and Nationals Badminton Tournament
 
 ### AWARDS/ ACHIEVEMENTS (2019)
 
 | Division | North Zone | Nationals |
 | --- | --- | --- |
-| Senior Boys | 1st Runners-Up | Top 8 |
-| Junior Boys | 1st Runners-Up | 1st Runners-Up |
+| Senior Students | 1st Runners-Up | Top 8 |
+| Junior Students | 1st Runners-Up | 1st Runners-Up |
 
-In 2019, the Senior &amp; Junior teams came in 1st Runners-up in the North Zone tournament. As for Nationals tournament, the Seniors came among the top 8 while the Junior boys came in as 1st Runners-up.
+In 2019, the Senior & Junior students came in 1st Runners-up in the North Zone tournament.
 
-### AWARDS/ ACHIEVEMENTS (2018)
+As for Nationals tournament, the Seniors came among the top 8 while the Junior students came in as 1st Runners-up.
+
+
+### AWARDS/ ACHIEVEMENTS (2022)
 
 | Division | North Zone | Nationals |
 | --- | --- | --- |
-| Senior Boys | Champions | 2nd Runners-Up |
-| Junior Boys | 1st Runners-Up | Top 8 |
+| Senior Students | 2nd Runners-Up | - |
+| Junior Students | 3rd Runners-Up | - |
+
+In 2022, the Senior students came in 2nd Runners-up in the North Zone tournament. Due to the pandemic restrictions, no Nationals tournament was held. 
+
+The Junior students took park in the National School Games Junior Division Competition 2022 and came in as 3rd Runners-up with a close fight in the tiered round. 
+
 
 ### COACH
 
