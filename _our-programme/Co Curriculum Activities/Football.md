@@ -6,14 +6,56 @@ third_nav_title: Co Curriculum Activities
 ---
 # **FOOTBALL**
 
-Football is our national sports and it is one of the most popular CCA in Montfort Junior School. We welcome all students to learn and develop with us so as to enjoy the beautiful game.
+Football is a popular sports CCA for MJS students. To cater for competitive and leisure play, the school has partnered the coaches to craft specific training plans to develop the School Team and the Developmental Team (Primary 1 to 4). We are proud to have experienced and devoted coaches who have close ties with the school. 
 
-The School Team is proud to have experienced and devoted coaches who have good track record to develop players holistically. Opportunities are always available for school team players to participate in school and open competitions, thus promoting resilience, perseverance and team spirit in pursuing the sports that they love.
+Various opportunities are provided according to the skillset of our students, including participation in the Montfort Sports Excellence (MSPEX) program where our students attend sports modules conducted by various sportsmen to learn about the conditioning and mindset required of athletes. To gain competition exposure, our students participate in friendlies, invitational competitions and National School Games tournaments. 
+
+Such exposure will develop a sense of resilience, spirit of excellence and team spirit in pursuing the sports that they love.
+
 
 ### SCHEDULE
-Please refer to Parents’ Gateway and the CCA notice board for the latest updates
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:bold">Level</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Day</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Time</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Primary 1 Futsal<br>MSPEX/School Team</td>
+    <td class="tg-lboi">Mondays</td>
+    <td class="tg-lboi">2.10pm - 3.20pm<br>3.30pm - 5.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Primary 5 &amp; 6 Developmental<br>MSPEX/School Team</td>
+    <td class="tg-0pky">Wednesdays<br>(MCCA)</td>
+    <td class="tg-0pky">7.40am - 9.10am</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Primary 2 Futsal<br>MSPEX/School Team<br>Primary 3 Developmental</td>
+    <td class="tg-0lax">Wednesdays</td>
+    <td class="tg-0lax">2.10pm - 3.20pm<br>3.30pm - 5.30pm<br>3.30pm - 5.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">MSPEX/School Team<br>Primary 4 Developmental</td>
+    <td class="tg-0lax">Fridays</td>
+    <td class="tg-0lax">3.30pm - 5.30pm<br>3.30pm - 5.30pm</td>
+  </tr>
+</tbody>
+</table>
 Please take note that&nbsp;<b>NO HARD COPY</b>&nbsp;of training schedule will be given anymore.
 
 Please visit the school website:&nbsp;[https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities](https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities)&nbsp;for training schedules.
@@ -21,31 +63,53 @@ Please visit the school website:&nbsp;[https://montfortjunior.moe.edu.sg/our-pro
 
 ### TEACHERS-IN-CHARGE
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">NAME</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">EMAIL</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Mr Muhd Taufiq</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:muhammad_taufiq_adam@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">muhammad_taufiq_adam@schools.gov.sg</span></a></td></tr><tr></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Rizal Rais (Coach)</td><td style="background-color:#f2f9ff;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a rel="noopener noreferrer" target="_blank" href="mailto:rizal_rais@hotmail.com"><span style="text-decoration:underline;color:#BE311B">rizal_rais@hotmail.com</span></a></td></tr></tbody></table>
 
-### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022
 
-We are currently training for the North Zone Football Tournament for the Senior team which will be tentatively held in Term 2. The Junior Team’s Tournament will be in Term 3.  
+| Name | Email |
+| -------- | -------- | 
+| Mr Taufiq     | [muhammad_taufiq_adam@schools.gov.sg](muhammad_taufiq_adam@schools.gov.sg)  |
+| Miss Jessalyn Lee    | [lee_li_yun_jessalyn@schools.gov.sg](lee_li_yun_jessalyn@schools.gov.sg)  |
+| Mr Zailee     | [zailee_ramli@schools.gov.sg](zailee_ramli@schools.gov.sg)  |
+| Mr Rizal (Teacher-Coach)    | [rizal_afandi_rais@schools.gov.sg](rizal_afandi_rais@schools.gov.sg)  |
 
-### NORTH ZONE/NATIONAL TOURNAMENT
+### PROGRAMME HIGHLIGHTS/UPDATES FOR 2023
 
-Objective:  
-Students to pit their learned skills against other participants.  
+The Junior and Senior Team members are currently training for the National School Games.
+
+### NATIONAL SCHOOL GAMES
+
+Objective:
+Students to pit their learned skills against other participating schools
 Students to apply the CHRISTE values and practice sportsmanship during the games.
 
-### AWARDS / &nbsp;ACHIEVEMENTS (2020-2021)
 
-In 2020 and 2021, due to Covid-19, NSG was cancelled.
+### AWARDS / ACHIEVEMENTS (2022)
 
-### AWARDS / &nbsp;ACHIEVEMENTS (2019)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Division</th>
+    <th class="tg-1wig">National School Games<br>(Tier 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Junior Team</td>
+    <td class="tg-0lax">Champions</td>
+  </tr>
+</tbody>
+</table>
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Division</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">North Zone</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Senior</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">2nd Runners-Up</span></td></tr></tbody></table>
-
-### AWARDS / &nbsp;ACHIEVEMENTS (2018)
-
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Division</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">North Zone</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Junior</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">3rd Runners-Up</span></td></tr></tbody></table>
 
 
 ### PHOTO GALLERY
 
-![](/images/Football.jpg)
