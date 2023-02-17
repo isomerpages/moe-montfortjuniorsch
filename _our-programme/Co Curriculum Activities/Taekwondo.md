@@ -7,14 +7,47 @@ third_nav_title: Co Curriculum Activities
 # **TAEKWONDO**
 
 Taekwondo is a Korean martial art with a heavy emphasis on head-height kicks, jumping and spinning kicks and fast kicking techniques. Taekwondo not only strengthens the body and spirit, it can also cultivate self-discipline during the course of learning the sport.
+ 	
+Our students participating in this sport learn the CHRISTE values while mastering the skills and training for the different belt colours. We have experienced instructors for our budding students who are interested in learning Taekwondo. 
 
-Montfort students participating in this sport learn the CHRISTE values while mastering the skills and training for the different belt colours. We have experienced instructors for our budding students who are interested in learning Taekwondo.
 
 ### SCHEDULE
 
-Please refer to Parents Gateway or CCA notice board for the latest updates.
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Level</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Day</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Primary 1 to Primary 2</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal">Thursday</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3.30pm – 4.00pm<br>Zoom Session</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Primary 3 to Primary 6</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Thursday</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3.30pm – 5.00pm<br>Face to Face</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5 MCCA class<br> </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Wednesday<br>(MCCA)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.40am – 9.10am</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Level</th>
+    <th class="tg-1wig">Day</th>
+    <th class="tg-1wig">Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Primary 1 to Primary 2</td>
+    <td class="tg-0lax">Thursday</td>
+    <td class="tg-0lax">2.00pm - 3.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Primary 3 to Primary 6</td>
+    <td class="tg-0lax">Thursday</td>
+    <td class="tg-0lax">3.30pm - 5.00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Primary 5</td>
+    <td class="tg-0lax">Wednesday (MCCA)</td>
+    <td class="tg-0lax">7.40am - 9.10am</td>
+  </tr>
+</tbody>
+</table>
 
 Please take note that <b>NO HARD COPY</b> of training schedule will be given anymore.
 
@@ -23,17 +56,39 @@ Please visit the school website: [https://montfortjunior.moe.edu.sg/our-program
 
 ### TEACHERS-IN-CHARGE
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Email</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Mr Zailee</span></td><td style="background-color:#E8EDFF;border-color:#000000;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:zailee_ramli@schools.gov.sg"><span style="background-color:#E8EDFF"></span></a><a href="mailto:zailee_ramli@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">zailee_ramli@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Mrs Mary Kheng </span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:kheng_mary@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">kheng_mary@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Mdm Stephanie Tan</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> </span><a href="mailto:tan_wan_joo@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">tan_wan_joo@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Mrs Karuna</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:poongodi_chinniah@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">poongodi_chinniah@schools.gov.sg</span></a></td></tr></tbody></table>
 
-### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022
 
-We will be participating in NSG Taekwondo Championships 2022 and are sending our members to represent the school.
+| Name | Email | Contact |
+| -------- | -------- | -------- |
+| Mrs Karuna     | [poongodi_chinniah@schools.gov.sg](poongodi_chinniah@schools.gov.sg)     | -    |
+| Mdm Stephanie Tan     | [tan_wan_joo@schools.gov.sg](tan_wan_joo@schools.gov.sg)     | -    |
+| Mrs Mary Kheng     | [kheng_mary@schools.gov.sg](kheng_mary@schools.gov.sg)     | -    |
+| Mr Brian Peh (Chief Instructor & Director ZEN Academy)    | [Brianpeh@zensch.com ](Brianpeh@zensch.com )     | 94591809    |
+
+
+
+### PROGRAMME HIGHLIGHTS/UPDATES FOR 2023
+
+We are currently training for SPSSC National School Games Taekwondo Championships 2023.
 
 ### ACHIEVEMENTS
 
-In **2019**, the TKD senior members achieved 1 team silver, a silver individual medal and a 5th place medal in the National Primary Schools Taekwondo Competition.
 
-NSG was cancelled in 2021 and 2022.
+The National School Games Taekwondo Championships was held for a period of 3 days from 18th July to 20th July 2022 at MOE Mount Sinai. The Montfort Junior Taekwondo CCA  participating members managed to achieve a 5th and 6th placing individual medals.
+
+The following students have brought glory and done the school proud by achieving medals in their respective taekwondo categories. The students are:
+
+1) Chen Kay Tim of 4C
+    6th place medal in  
+    Poomsae Junior Div      
+    Boys Blue 3 
+
+2) Tan Kyden of 2R
+     5th place medal in  
+     Poomsae Junior    
+     Div Boys Blue 4
+
+Congratulations to our students for a job well done!
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Email</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Contact</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Mr Brian Peh </span><br><span style="color:#222;background-color:#F2F9FF">(Chief Instructor &amp; Director ZEN Academy) </span></td><td style="background-color:#F2F9FF;border-color:#000000;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:Brianpeh@zensch.com" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#BE311B">Brianpeh@zensch.com</span></a></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">94591809</span></td></tr></tbody></table>
 
