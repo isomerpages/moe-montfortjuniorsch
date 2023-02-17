@@ -125,8 +125,6 @@ The Junior students took park in the National School Games Junior Division Compe
 
 ### VENUE
 
-Montfort Junior School&nbsp;
-
 Indoor Sports Hall
 
 ### CCA EVENTS
@@ -145,7 +143,3 @@ Students to apply the CHRISTE values and practice sportsmanship during the games
 | -------- | -------- | -------- |
 | ![](/images/CCA/Badminton/Badmintion_2.jpeg)     | ![](/images/CCA/Badminton/Badminton_3.jpeg)     | ![](/images/CCA/Badminton/Badminton_4.jpeg)     |
 | ![](/images/CCA/Badminton/Badminton_5.jpeg) | ![](/images/CCA/Badminton/North%20Zone%20Badminton%20Championship.jpeg) | |
-
-
-
-
