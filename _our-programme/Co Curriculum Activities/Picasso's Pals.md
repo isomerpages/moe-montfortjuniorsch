@@ -70,6 +70,6 @@ Art Room 1 &amp; 2
 ### PHOTO GALLERY
 
 
-| ![](/images/CCA/Picasso's%20Pals/Frustrated.jpg) | ![](/images/CCA/Picasso's%20Pals/Mural%201.jpg) | ![](/images/CCA/Picasso's%20Pals/Mural%202.jpg) |
+| ![](/images/CCA/Picasso's%20Pals/Frustrated.jpg)Cubism exploration sketches | ![](/images/CCA/Picasso's%20Pals/Mural%201.jpg)La Rochelle - 2022 Mural Painting for St Louis-Marie de Montfort’s canonization | ![](/images/CCA/Picasso's%20Pals/Mural%202.jpg)Bois Marquer - 2022 Mural Painting for St Louis-Marie de Montfort’s canonization |
 | -------- | -------- | -------- |
-| ![](/images/CCA/Picasso's%20Pals/Nice%20work.jpg)     | ![](/images/CCA/Picasso's%20Pals/Smiling.jpg)    | ![](/images/CCA/Picasso's%20Pals/We%20did%20it.jpg)     |
+| ![](/images/CCA/Picasso's%20Pals/Nice%20work.jpg) **Relief Clay Tiles made for St Louis-Marie de Montfort’s Murals**    | ![](/images/CCA/Picasso's%20Pals/Smiling.jpg)   **Cubism exploration sketches** | ![](/images/CCA/Picasso's%20Pals/We%20did%20it.jpg)**2022 Members of Picasso’s Pal**     |
