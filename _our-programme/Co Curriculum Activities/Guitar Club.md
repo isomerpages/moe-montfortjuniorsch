@@ -5,17 +5,54 @@ description: ""
 third_nav_title: Co Curriculum Activities
 ---
 # **GUITAR CLUB**
-
 If you have always enjoyed listening to the sound of classical or acoustic guitar, this is the place to be. Playing the guitar also trains you to be responsible, disciplined and promotes team spirit and excellence as you have to coordinate with your friends to sound great as a team.  
   
 We are proud to have experienced and dedicated instructors who have been working with the students for the past 8 years. Opportunities are available for students to participate in the Singapore Youth Festival (SYF) and for school events such as PAM Night and Founders Day.
 
 ### SCHEDULE 
 
-**Training sessions for Term 1 only**  
+**Training sessions**  
 Please refer to Parents’ Gateway or CCA notice board for the latest updates.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Level</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Day</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mode</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Primary 1 and 2</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Tuesday</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">3.30pm - 4.30pm</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Zoom Session</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Primary 3 – 6</span><br><span style="color:black">Recreational Club</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Tuesday</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">3.30pm – 5.00pm</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Face to Face</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Primary 5 – 6</span><br><span style="color:black">School Team members</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Tuesday &amp;</span><br><span style="color:black">Thursday</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">3.30pm – 5.00pm</span><br><span style="color:black">3.30pm – 5.00pm</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black"> </span><span style="color:black">Face to Face</span></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Level</th>
+    <th class="tg-1wig">Day</th>
+    <th class="tg-1wig">Time</th>
+    <th class="tg-1wig">Remarks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Primary 1 and 2</td>
+    <td class="tg-0lax">Tuesday</td>
+    <td class="tg-0lax">3.30pm - 4.30pm</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Primary 3 - 6<br>Recreational Club</td>
+    <td class="tg-0lax">Tuesday</td>
+    <td class="tg-0lax">3.30pm - 5.00pm</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Primary 5 - 6<br>School Team Members</td>
+    <td class="tg-0lax">Tuesday &amp; Thursday</td>
+    <td class="tg-0lax">3.30pm - 5.00pm<br>3.30pm - 5.00pm</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 
 Please take note that&nbsp;<b>NO HARD COPY</b>&nbsp;of training schedule will be given anymore.
 
@@ -27,7 +64,16 @@ Band room
 
 ### TEACHERS-IN-CHARGE
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Email</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Zheng Kelu</td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:zheng_kelu@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">zheng_kelu@schools.gov.sg</span></a><br></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Mdm Lalita Devi Singh</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> </span><a href="mailto:lalita_devi_singh@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">lalita_devi_singh@schools.gov.sg</span></a></td></tr></tbody></table>
+
+
+| Name | Email | Contact |
+| -------- | -------- | -------- |
+| Mr Tang Zhanke      | [tang_zhanke@schools.gov.sg](tang_zhanke@schools.gov.sg)     | -    |
+| Ms Zheng Kelu     | [zheng_kelu@schools.gov.sg](zheng_kelu@schools.gov.sg)     | -    |
+| Ms Amanda Hii      | [hii_xixin_amanda@schools.gov.sg](hii_xixin_amanda@schools.gov.sg)     |  -   |
+| Mr Edward Chua - Instructor     | [edward@musicdelight.com.sg ](edward@musicdelight.com.sg )     |  9126 4352   |
+| Mr Joel Chua  - Instructor     | [Joel.d.chua@gmail.com](Joel.d.chua@gmail.com)     | 9173 5125    |
+
 
 ### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022
 
