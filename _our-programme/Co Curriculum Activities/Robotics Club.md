@@ -6,20 +6,56 @@ third_nav_title: Co Curriculum Activities
 ---
 # **ROBOTICS CLUB**
 
-![](/images/Robotics-1.jpg)
 
-Our members are trained to build robots using LEGO’s EV3 set and program it to complete the mission. Some of them will be selected to participate in the annual National Robotics Competition which will be held at the Singapore Science Centre during the September holidays. Students are required to use the skills that they have acquired during their weekly training to complete the different missions assigned to them. Although the competition only starts in September, the preparation starts at the beginning of the year.
+
+Our students are trained to build robots using LEGO’s Spike Prime core set and use their coding skills to program the robots to complete the different missions assigned to them weekly. 
+
+Students possessing the right attitude and aptitude will be selected to participate in the annual National Robotics Competition which will be held at the Singapore Science Centre during the September holidays. 
+
+To provide our members with greater exposure, 2 teams from MJS will also be partaking in the First Lego League (FLL) Challenge in April 2023. Every year, the FLL Challenge is based on a theme and the theme for 2023 is SUPERPOWERED. 
+
+In the SUPERPOWERED challenge, teams will explore where energy comes from and how it is distributed, stored and used – and channel their superpowered creativity to work to innovate towards a better energy future.
 
 ### SCHEDULE
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Level</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MCCA Robotics</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Wednesday</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.40-9.10am</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Level</th>
+    <th class="tg-1wig">Day</th>
+    <th class="tg-1wig">Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">MCCA Robotics</td>
+    <td class="tg-0lax">Wednesday</td>
+    <td class="tg-0lax">7.40am - 9.10am</td>
+  </tr>
+</tbody>
+</table>
 Please take note that <b>NO HARD COPY</b> of training schedule will be given anymore.
 
 Please visit the school website: [https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities](https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities) for training schedules.
 
 ### TEACHERS-IN-CHARGE
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">NAME</span></th><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">EMAIL</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Mr Alvin Ng</span></td><td style="background-color:#F2F9FF;border-color:#000000;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:alvin_ng_yong_chiang@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">alvin_ng_yong_chiang@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Mr Jason Goh</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:goh_swee_teck@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">goh_swee_teck@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Mr Alvin Soh</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> </span><a href="mailto:soh_chee_yong_alvin@schools.gov.sg"><span style="text-decoration:underline;color:#BE311B">soh_chee_yong_alvin@schools.gov.sg</span></a></td></tr></tbody></table>
+
+
+| Name | Email |
+| -------- | -------- |
+| Mr Alvin Ng     | [ng_yong_chiang@schools.gov.sg](ng_yong_chiang@schools.gov.sg) |
+| Mr Alvin Soh     | [soh_chee_yong_alvin@schools.gov.sg](soh_chee_yong_alvin@schools.gov.sg) |
+
 
 ### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022
 National Robotics Competition 2022.
