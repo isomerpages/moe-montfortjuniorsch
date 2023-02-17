@@ -94,3 +94,9 @@ Founders Day, PAM nite & EOY Prize Giving Day 2023
 </table>
 
 ### PHOTO GALLERY
+
+
+| ![](/images/CCA/Dance%20Club/Dance%201.jpg) | ![](/images/CCA/Dance%20Club/Dance%202.jpg) | ![](/images/CCA/Dance%20Club/Dance%203.jpg) |
+| -------- | -------- | -------- |
+| ![](/images/CCA/Dance%20Club/Dance%204.jpg)     | ![](/images/CCA/Dance%20Club/Dance%205.jpg)     | ![](/images/CCA/Dance%20Club/Dancers,%20all%20gear%20up.jpg)     |
+| ![](/images/CCA/Dance%20Club/SYF%20Arts%20Presentation%202022.png)     | 
