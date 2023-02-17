@@ -74,6 +74,7 @@ We are currently training for SPSSC National School Games Taekwondo Championship
 ### ACHIEVEMENTS
 
 
+![](/images/CCA/Taekwondo/NSG%20Championship.jpg)
 The National School Games Taekwondo Championships was held for a period of 3 days from 18th July to 20th July 2022 at MOE Mount Sinai. The Montfort Junior Taekwondo CCA  participating members managed to achieve a 5th and 6th placing individual medals.
 
 The following students have brought glory and done the school proud by achieving medals in their respective taekwondo categories. The students are:
@@ -90,23 +91,21 @@ The following students have brought glory and done the school proud by achieving
 
 Congratulations to our students for a job well done!
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th><th style="background-color:#1F8CE4;border-color:#000000;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Email</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Contact</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Mr Brian Peh </span><br><span style="color:#222;background-color:#F2F9FF">(Chief Instructor &amp; Director ZEN Academy) </span></td><td style="background-color:#F2F9FF;border-color:#000000;border-style:solid;border-width:1px;color:#BE311B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:Brianpeh@zensch.com" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#BE311B">Brianpeh@zensch.com</span></a></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">94591809</span></td></tr></tbody></table>
-
 ### CCA EVENTS
 
 **North Zone Tournament**     
-Objective:  
- 1.     Students will be able to learn self-discipline from Taekwondo.  
- 2.     Students will be able to learn basic blocking, kicking and punching skills.  
- 3.     Students will be able to perform the correct poomsae pattern for the required belt level.  
- 4.     Students from green belt and above must know the sparring rules and be able to spar with protective guards.  
+Objective:
+1.	Students will be able to learn self-discipline from Taekwondo.
+2.	Students will be able to learn basic blocking, kicking and punching skills.
+3.	Students will be able to perform the correct poomsae pattern for the required belt level.
+4.	Students from green belt and above must know the sparring rules and be able to spar with protective guards.
 
 ### VENUE
 School Hall
 
 ### PHOTO GALLERY
 
-![](/images/taekwondo.jpg)
+
 
 ### OTHER USEFUL LINKS
 
