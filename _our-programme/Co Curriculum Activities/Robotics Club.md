@@ -57,12 +57,13 @@ Please visit the school website: [https://montfortjunior.moe.edu.sg/our-program
 | Mr Alvin Soh     | [soh_chee_yong_alvin@schools.gov.sg](soh_chee_yong_alvin@schools.gov.sg) |
 
 
-### PROGRAMME HIGHLIGHTS/UPDATES FOR 2022
-National Robotics Competition 2022.
+### PROGRAMME HIGHLIGHTS/UPDATES FOR 2023
+First Lego League Challenge 2023
+National Robotics Competition 2023
+
 
 ### VENUE
 Computer Lab 3 (Level 3)
 
 ### PHOTO GALLERY
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/IMG_2149.jpg" alt="IMG_2149.JPG" width="365" height="274"><br><br>Theory lesson in progress<br></th><th style="background-color:#ffffff;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Engaged%20minds%20deep%20in%20thoughts.jpg" alt="Engaged minds deep in thoughts.jpg" width="365" height="274"><br><br>Engaged minds deep in thoughts<br></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/PHOTO-2020-11-04-08-15-17.jpg" alt="PHOTO-2020-11-04-08-15-17.jpg" width="365" height="487"><br><br>Almost done!<br></td><td style="background-color:#ffffff;border-color:#000000;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/A%20mean%20and%20fierce%20fighting%20machine.jpg" alt="A mean and fierce fighting machine.jpg" width="365" height="486"><br><br>A mean and fierce fighting machine!</td></tr><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> <img src="/images/Lets%20see%20what%20youve%20got.jpg" alt="Lets see what youve got.jpg" width="365" height="274"><br><br>Let's see what you've got!<br></td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:middle;word-break:normal"> </td></tr></tbody></table>
