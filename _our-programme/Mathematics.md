@@ -5,8 +5,6 @@ description: ""
 ---
 # **MATHEMATICS**
 
-![](/images/Maths%201_dept.jpg)
-
 ### PROGRAMME HIGHLIGHTS
 
 ##### OUR CURRICULUM
