@@ -2,31 +2,38 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Montfort Junior School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 52 Hougang Ave 8
+      - Singapore 538786
+      - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Mon-Fri
+        time: 7am - 5.30pm
+        description: ""
+      - days: Nearest MRT Station
+        time: Hougang MRT
+        description: ""
+      - days: Bus Service
+        time: ""
+        description: 74, 88, 101, 147, 161 (Hougang Bus Interchange)
+    maps_link: https://g.page/Montfort_Junior_Sch?share
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6510 1588
+      - email: ""
+      - other: ""
+    title: "Tel:"
+  - content:
+      - phone: +65 6510 1599
+      - email: ""
+      - other: ""
+    title: "Fax:"
+  - content:
+      - phone: ""
+      - email: MONTFORT_JS@MOE.EDU.SG
+      - other: ""
+    title: "Email Address:"
 ---
