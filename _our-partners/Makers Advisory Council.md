@@ -31,5 +31,3 @@ We offer a dual track curriculum: Formal and Enrichment. Within the formal curri
 ![](/images/Our%20Partners/Maker%204.jpg)
 
 ![](/images/Our%20Partners/Maker%205.jpg)
-
-(uploaded 5/9)
