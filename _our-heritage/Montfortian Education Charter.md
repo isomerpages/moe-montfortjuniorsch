@@ -5,7 +5,7 @@ description: ""
 ---
 # **MONTFORTIAN EDUCATION CHARTER**
 
-![](/images/Montfortian%20Education%20Charter.png)
+![](/images/Our%20Heritage/Montfortian%20Education%20Charter.png)
 
 The Montfortian Education Charter (MEC) is a very precious document for us as schools of the Montfort Brothers of St. Gabriel. This version of the MEC is adapted for our use in the context of our schools here in Singapore. It upholds for us the tenets that guide us as we strive to be a school or institution that is creatively faithful to the Montfortian Inspiration.
 
