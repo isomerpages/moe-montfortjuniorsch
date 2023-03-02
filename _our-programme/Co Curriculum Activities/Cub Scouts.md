@@ -52,7 +52,7 @@ Students will be able to learn various scouting skills from knots tying, camp cr
 
 Please take note that&nbsp;<b>NO HARD COPY</b>&nbsp;of training schedule will be given anymore.
 
-Please visit the school website:&nbsp;[https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities](https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities)&nbsp;for training schedules.
+Please visit the school website: https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2023/ for training schedules.
 
 ### TEACHERS-IN-CHARGE
 
@@ -90,7 +90,4 @@ We want our Cub Scouts to pit their knowledge and skills learned together with o
 | ![](/images/CCA/Cub%20Scouts/Discipline%20in%20Scouts.jpg) | ![](/images/CCA/Cub%20Scouts/National%20Day%20Joint%20Observance%20with%20MSS%202022.jpg)
 | -------- | -------- | 
 | ![](/images/CCA/Cub%20Scouts/National%20Day%20Joint%20Observance%20with%20MSS__2022.jpg)    | ![](/images/CCA/Cub%20Scouts/North%20Zone%20Bedok%20Punggol%20National%20Day%20Joint%20Observance%202022.jpg)    | 
-| ![](/images/CCA/Cub%20Scouts/North%20Zone%20Bedok%20Punggol%20National%20Day%20Joint%20Observance%20_2022.jpg)     |  
-
-
-
+| ![](/images/CCA/Cub%20Scouts/North%20Zone%20Bedok%20Punggol%20National%20Day%20Joint%20Observance%20_2022.jpg)     |
