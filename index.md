@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Montfort Junior School
       background: /images/mjs.gif
       key_highlights:
         - title: Announcements
@@ -17,4 +16,3 @@ sections:
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
 ---
-

@@ -45,7 +45,7 @@ In the SUPERPOWERED challenge, teams will explore where energy comes from and ho
 </table>
 Please take note that <b>NO HARD COPY</b> of training schedule will be given anymore.
 
-Please visit the school website: [https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities](https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities) for training schedules.
+Please visit the school website: https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2023/ for training schedules.
 
 ### TEACHERS-IN-CHARGE
 
@@ -73,4 +73,4 @@ Computer Lab 3 (Level 3)
 | ![](/images/CCA/Robotics/LEGO%20hopper%20race.jpg)     **LEGO hopper race**| ![](/images/CCA/Robotics/LEGO%20hopper.jpg) **LEGO hopper**| ![](/images/CCA/Robotics/Let%20me%20plug%20it%20in%20to%20test%20out%20the%20robot!.jpg)   **Let me plug it in to test out the robot!** |
 | ![](/images/CCA/Robotics/Let%20me%20show%20you%20how.jpg)    **Let me show you how...**| ![](/images/CCA/Robotics/Let's%20see%20what%20this%20machine%20can%20do.jpg)    **Let's see what this machine can do...**| ![](/images/CCA/Robotics/LEGO%20Spike%20Prime%20unboxing.jpg)  **LEGO Spike Prime unboxing**|
 | ![](/images/CCA/Robotics/Our%20LEGO%20competition%20mat.jpg)    **Our LEGO competition mat** | ![](/images/CCA/Robotics/Our%20Robotics%20MCCA%20booth!.jpg)   **Our Robotics MCCA booth!** | ![](/images/CCA/Robotics/THIS%20is%20HOW%20you%20DO%20it!.jpg) **THIS is HOW you DO it!**  |
-| ![](/images/CCA/Robotics/Wracking%20my%20brains!.jpg)   **Wracking my brains!** | 
+| ![](/images/CCA/Robotics/Wracking%20my%20brains!.jpg)   **Wracking my brains!** |

@@ -45,7 +45,7 @@ Please refer to Parents’ Gateway or CCA notice board for the latest updates.
 
 Please take note that <b>NO HARD COPY</b> of training schedule will be given anymore.
 
-Please visit the school website: [https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities](https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities) for training schedules.
+Please visit the school website: https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2023/ for training schedules.
 
 
 ### VENUE
@@ -99,4 +99,4 @@ Founders Day, PAM nite & EOY Prize Giving Day 2023
 | ![](/images/CCA/Dance%20Club/Dance%201.jpg) | ![](/images/CCA/Dance%20Club/Dance%202.jpg) | ![](/images/CCA/Dance%20Club/Dance%203.jpg) |
 | -------- | -------- | -------- |
 | ![](/images/CCA/Dance%20Club/Dance%204.jpg)     | ![](/images/CCA/Dance%20Club/Dance%205.jpg)     | ![](/images/CCA/Dance%20Club/Dancers,%20all%20gear%20up.jpg)     |
-| ![](/images/CCA/Dance%20Club/SYF%20Arts%20Presentation%202022.png)     | 
+| ![](/images/CCA/Dance%20Club/SYF%20Arts%20Presentation%202022.png)     |

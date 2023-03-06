@@ -33,7 +33,6 @@ Other than the regular activities listed above, parent volunteers are also invol
 
 ![](/images/PVs%20%20Drones%20Prog%202021_Edited.jpeg)
 
-(uploaded 3/17)
 
 ### OTHER MJPC INITIATIVES
 

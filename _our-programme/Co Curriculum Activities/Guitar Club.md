@@ -56,7 +56,7 @@ Please refer to Parents’ Gateway or CCA notice board for the latest updates.
 
 Please take note that&nbsp;<b>NO HARD COPY</b>&nbsp;of training schedule will be given anymore.
 
-Please visit the school website:&nbsp;[https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities](https://montfortjunior.moe.edu.sg/our-programme/co-curriculum-activities)&nbsp;for training schedules.
+Please visit the school website: https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2023/ for training schedules.
 
 ### VENUE
 
@@ -91,4 +91,4 @@ We are currently training for school events such as Chinese New Year, Founder’
 | ![](/images/CCA/Guitar%20Club/CNY%202023.jpg) | ![](/images/CCA/Guitar%20Club/CNY%20Performance.jpg) | ![](/images/CCA/Guitar%20Club/Mr%20Zhane%20my%20guitar%20teacher.jpg) |
 | -------- | -------- | -------- |
 | ![](/images/CCA/Guitar%20Club/SYF%202021%20pose.jpeg)     | ![](/images/CCA/Guitar%20Club/SYF%202021.jpeg)     | ![](/images/CCA/Guitar%20Club/Together%20as%20One.jpg)     |
-| ![](/images/CCA/Guitar%20Club/Wait%20Look%20Play.jpg)     |     | 
+| ![](/images/CCA/Guitar%20Club/Wait%20Look%20Play.jpg)     |     |

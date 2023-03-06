@@ -22,14 +22,12 @@ Our MJS Tinkershop is opened every afternoon to give pupils the opportunities to
 We offer a dual track curriculum: Formal and Enrichment. Within the formal curriculum track, we are working to infuse the Maker Culture into the different subjects (English, Mathematics, Science, Mother Tongue, PE and Aesthetics) so as to further enhance the learning experience for pupils. Currently, we have started infusing Maker Culture and coding into our Mathematics, Science and Art syllabus in various levels.   In the enrichment track, pupils who show a deeper interest or aptitude in making, building and coding can sign up for workshops, competitions, electives and projects.
 
 
-![](/images/Maker%201.jpg)
+![](/images/Our%20Partners/Maker%201.jpg)
 
-![](/images/Maker%202.jpg)
+![](/images/Our%20Partners/Maker%202.jpg)
 
-![](/images/Maker%203.jpg)
+![](/images/Our%20Partners/Maker%203.jpg)
 
-![](/images/Maker%204.jpg)
+![](/images/Our%20Partners/Maker%204.jpg)
 
-![](/images/Maker%205.jpg)
-
-(uploaded 5/9)
+![](/images/Our%20Partners/Maker%205.jpg)
