@@ -153,6 +153,3 @@ Students to apply the CHRISTE values and practice sportsmanship during the games
 | -------- | -------- | -------- |
 | ![](/images/CCA/Badminton/IMG_0939.jpg)     | ![](/images/CCA/Badminton/IMG_0972.jpg)     | ![](/images/CCA/Badminton/IMG_0977.jpg)     |
 | ![](/images/CCA/Badminton/IMG_1074.jpg)     | ![](/images/CCA/Badminton/IMG_1077.jpg)     |   |
-
-
-
