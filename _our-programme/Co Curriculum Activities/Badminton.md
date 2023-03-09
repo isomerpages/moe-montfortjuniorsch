@@ -89,17 +89,16 @@ The School Team is proud to have experienced and devoted coaches who have close 
 
 National School Games: Zonal and Nationals Badminton Tournament
 
-### AWARDS/ ACHIEVEMENTS (2019)
+### AWARDS/ ACHIEVEMENTS (2023)
 
 | Division | North Zone | Nationals |
 | --- | --- | --- |
-| Senior Students | 1st Runners-Up | Top 8 |
-| Junior Students | 1st Runners-Up | 1st Runners-Up |
+| Senior Students | Champions | In progress |
+| Junior Students | N.A | 2nd Semester |
 
-In 2019, the Senior & Junior students came in 1st Runners-up in the North Zone tournament.
+Against all odds, our Senior boys showed great determination to emerge Champions in this year’s NSG North Zone Badminton Championships.
 
-As for Nationals tournament, the Seniors came among the top 8 while the Junior students came in as 1st Runners-up.
-
+Age Quod Agis!
 
 ### AWARDS/ ACHIEVEMENTS (2022)
 
@@ -111,6 +110,18 @@ As for Nationals tournament, the Seniors came among the top 8 while the Junior s
 In 2022, the Senior students came in 2nd Runners-up in the North Zone tournament. Due to the pandemic restrictions, no Nationals tournament was held. 
 
 The Junior students took park in the National School Games Junior Division Competition 2022 and came in as 3rd Runners-up with a close fight in the tiered round. 
+
+
+### AWARDS/ ACHIEVEMENTS (2019)
+
+| Division | North Zone | Nationals |
+| --- | --- | --- |
+| Senior Students | 1st Runners-Up | Top 8 |
+| Junior Students | 1st Runners-Up | 1st Runners-Up |
+
+In 2019, the Senior & Junior students came in 1st Runners-up in the North Zone tournament.
+
+As for Nationals tournament, the Seniors came among the top 8 while the Junior students came in as 1st Runners-up.
 
 
 ### Teachers in-charge
@@ -138,8 +149,7 @@ Students to apply the CHRISTE values and practice sportsmanship during the games
 ### PHOTO GALLERY
 
 
-
-| ![](/images/CCA/Badminton/Badmintion%20Practice_1.jpeg) | ![](/images/CCA/Badminton/Badminton%20Practice_2.jpeg) | ![](/images/CCA/Badminton/Badminton_1.jpeg) |
+| ![](/images/CCA/Badminton/IMG_0672.jpg) | ![](/images/CCA/Badminton/IMG_0762.jpg) | ![](/images/CCA/Badminton/IMG_0836.jpg) |
 | -------- | -------- | -------- |
-| ![](/images/CCA/Badminton/Badmintion_2.jpeg)     | ![](/images/CCA/Badminton/Badminton_3.jpeg)     | ![](/images/CCA/Badminton/Badminton_4.jpeg)     |
-| ![](/images/CCA/Badminton/Badminton_5.jpeg) | ![](/images/CCA/Badminton/North%20Zone%20Badminton%20Championship.jpeg) | |
+| ![](/images/CCA/Badminton/IMG_0939.jpg)     | ![](/images/CCA/Badminton/IMG_0972.jpg)     | ![](/images/CCA/Badminton/IMG_0977.jpg)     |
+| ![](/images/CCA/Badminton/IMG_1074.jpg)     | ![](/images/CCA/Badminton/IMG_1077.jpg)     |   |

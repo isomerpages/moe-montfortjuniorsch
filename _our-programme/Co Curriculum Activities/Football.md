@@ -82,6 +82,14 @@ Objective:
 Students to pit their learned skills against other participating schools
 Students to apply the CHRISTE values and practice sportsmanship during the games.
 
+### AWARDS / ACHIEVEMENTS (2023)
+
+
+| Division |   North Zone National School Games |
+| -------- | -------- |
+| Senior Team     | Champions     |
+
+
 
 ### AWARDS / ACHIEVEMENTS (2022)
 
@@ -117,4 +125,9 @@ Students to apply the CHRISTE values and practice sportsmanship during the games
 | ![](/images/CCA/Football/Are%20you%20ready.jpeg) | ![](/images/CCA/Football/Me%20and%20my%20Coach.jpeg) | 
 | -------- | -------- | 
 | ![](/images/CCA/Football/NSG%20Senior%20Team.jpeg)   | ![](/images/CCA/Football/Tactical%20Change.jpeg)     |
-| ![](/images/CCA/Football/Where%20is%20the%20ball.jpeg)     |    |
+| ![](/images/CCA/Football/Where%20is%20the%20ball.jpeg)     |  ![](/images/CCA/Football/20230308_180713.jpg)  |
+| ![](/images/CCA/Football/20230308_181123.jpg)     | ![](/images/CCA/Football/20230308_181223.jpg)     |
+| ![](/images/CCA/Football/20230308_181315.jpg)     |      |
+
+
+
