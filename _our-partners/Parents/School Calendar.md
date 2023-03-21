@@ -6,4 +6,4 @@ third_nav_title: Parents
 ---
 # **SCHOOL CALENDAR**
 
-![](/images/2023%20Term%201%20Letter_page-0006.jpg)
+![](/images/Our%20Partners/2023_Term_2_Letter_page-0004.jpg)
