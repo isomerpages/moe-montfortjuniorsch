@@ -15,4 +15,5 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
+      url: https://4d.silvrcraft.com/montfortjunior/tour.html
 ---
