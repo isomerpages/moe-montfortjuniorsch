@@ -14,7 +14,7 @@ sections:
           url: /announcements/booklist2023/
         - title: Open House 2023
           description: ""
-          url: https://montfortjunior.moe.edu.sg/announcements/openhouse2023/
+          url: /announcements/openhouse2023/
         - title: Highlights
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
