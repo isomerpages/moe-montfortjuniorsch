@@ -15,4 +15,7 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
+        - title: Open House 2023
+          description: ""
+          url: ""
 ---
