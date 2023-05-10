@@ -10,7 +10,7 @@ description: ""
 | Mr Charles Lee <br>[lee_boon_haw@schools.gov.sg](mailto:lee_boon_haw@schools.gov.sg) 	| Together, we engage and empower every Montfortian, for the growth of self and the good of others. 	|
 | Ms Li Jia Xin <br>[li_jia_xin@schools.gov.sg](mailto:li_jia_xin@schools.gov.sg) 	|  Enjoy every little fruits of labor.	|
 | Mdm Kamariah Bte Atan<br>[kamariah_atan@schools.gov.sg](mailto:kamariah_atan@schools.gov.sg) 	| Educating the mind without educating the heart is no education at all. 	|
-| Miss Lee Yu Ying<br>[lee_yu_ying@schools.gov.sg](mailto:lee_yu_ying@schools.gov.sg) 	|  	|
+| Miss Lee Yu Ying<br>[lee_yu_ying@schools.gov.sg](mailto:lee_yu_ying@schools.gov.sg) 	| Learning is a journey, not a destination. 	|
 | Ms Sim Ai Koon<br>[sim_ai_koon@schools.gov.sg](mailto:sim_ai_koon@schools.gov.sg) 	| Believe in yourself. 	|
 | Miss Chen Jiaying<br>[chen_jiaying@schools.gov.sg](mailto:chen_jiaying@schools.gov.sg) 	| Allow students to see the mistakes and imperfection as part of the learning process. |
 | Mdm Zhu Jiayi <br>[zhu_jiayi@schools.gov.sg](mailto:zhu_jiayi@schools.gov.sg) 	| &nbsp;Don't wait for the right moment to start, start and make each moment right. 	|
