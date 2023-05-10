@@ -12,6 +12,7 @@ description: ""
 | Mdm Kamariah Bte Atan<br>[kamariah_atan@schools.gov.sg](mailto:kamariah_atan@schools.gov.sg) 	| Educating the mind without educating the heart is no education at all. 	|
 | Miss Lee Yu Ying<br>[lee_yu_ying@schools.gov.sg](mailto:lee_yu_ying@schools.gov.sg) 	|  	|
 | Ms Sim Ai Koon<br>[sim_ai_koon@schools.gov.sg](mailto:sim_ai_koon@schools.gov.sg) 	| Believe in yourself. 	|
+| Miss Chen Jiaying<br>[chen_jiaying@schools.gov.sg](mailto:chen_jiaying@schools.gov.sg) 	|  	|
 | Mdm Zhu Jiayi <br>[zhu_jiayi@schools.gov.sg](mailto:zhu_jiayi@schools.gov.sg) 	| &nbsp;Don't wait for the right moment to start, start and make each moment right. 	|
 | Ms Pey Huey Shan<br>[pey_huey_shan@schools.gov.sg](mailto:pey_huey_shan@schools.gov.sg) 	| Educating the mind without educating the heart is no education at all. 	|
 | Mr Vincent Lee<br>[lee_kar_leong@schools.gov.sg](mailto:lee_kar_leong@schools.gov.sg) 	|  I prioritize authentic learning situations where students learn through solving real-world problems and technology as a ‘cognitive tool’ to extend their thinking. 	|
