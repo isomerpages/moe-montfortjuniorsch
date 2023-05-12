@@ -4,7 +4,7 @@ permalink: /our-partners/school-management-committee/
 description: ""
 ---
 # **SCHOOL MANAGEMENT COMMITTEE**
-| ![](/images/Our%20Partners/MARK%20TAY%20TECK%20CHYE.jpg) | ![](/images/Our%20Partners/CHARLES%20NG%20KOK%20WEE.jpg) |
+| ![](/images/Our%20Partners/mr%20mark%20tay%20teck%20chye.jpg) | ![](/images/Our%20Partners/mr%20charles%20ng%20kok%20wee.jpg) |
 | -------- | -------- | 
 |Mr Mark Tay Teck Chye | Mr Charles Ng Kok Wee|
 |Chairman                        |Vice Chairman                 |
