@@ -5,7 +5,7 @@ description: ""
 ---
 # **P1 TEACHERS**
 
-| Name & Email 	| Personal Statement On The Philosophy Of Education 	|
+| Name &amp; Email 	| Personal Statement On The Philosophy Of Education 	|
 |---	|---	|
 | Mrs Tan-Tay Pei Long<br>[tay_pei_long@schools.gov.sg](mailto:tay_pei_long@schools.gov.sg) 	| Kindness is the language which the deaf can hear and the blind can see. 	|
 | Mr Jason Goh<br>[goh_swee_teck@schools.gov.sg](mailto:goh_swee_teck@schools.gov.sg) 	| In order to succeed, we must first believe that we can. 	|
@@ -16,3 +16,5 @@ description: ""
 | Ms Alicia Gomes <br>[alicia_bernice_gomes@schools.gov.sg](mailto:alicia_bernice_gomes@schools.gov.sg) 	| My goal is not to be better than others, but to be better than I used to be. 	|
 | Mr Zailee Ramli <br>[zailee_ramli@schools.gov.sg](mailto:zailee_ramli@schools.gov.sg) 	| The process in achieving education is tedious but the product is well-worth the effort. 	|
 | Miss Jessalyn Lee <br>[lee_li_yun_jessalyn@schools.gov.sg](mailto:lee_li_yun_jessalyn@schools.gov.sg) | Education is the kindling of a flame, not the filling of a vessel. 	|
+| Ms Jessie Lau Luyi <br>[jessie_lau_luyi@schools.gov.sg](mailto:jessie_lau_luyi@schools.gov.sg) | Never stop learning, because life never stops teaching. 	|
+| Mr Lim Tuck Thong <br>[lim_tuck_thong@schools.gov.sg](mailto:lim_tuck_thong@schools.gov.sg) | 	|

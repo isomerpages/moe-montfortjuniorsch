@@ -12,6 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/booklist2023/
+        - title: Open House 2023
+          description: ""
+          url: /announcements/openhouse2023/
         - title: Highlights
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/

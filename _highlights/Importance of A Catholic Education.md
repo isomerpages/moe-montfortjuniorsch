@@ -5,4 +5,4 @@ description: ""
 ---
 # **Importance of A Catholic Education**
 
-Click [here](https://catholicnews.sg/2020/07/16/importance-of-a-catholic-education/) for more information.
+Click [here](https://catholicnews.sg/local/) for more information.
