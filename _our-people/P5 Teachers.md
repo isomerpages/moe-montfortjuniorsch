@@ -5,11 +5,11 @@ description: ""
 ---
 # **P5 TEACHERS**
 
-| Name &amp; Email 	| Personal Statement On The Philosophy Of Education 	|
+| Name, Email &amp; Class 	| Personal Statement On The Philosophy Of Education 	|
 |---	|---	|
-| Mr John Soo Huat <br>[tan_soo_huat@schools.gov.sg](mailto:tan_soo_huat@schools.gov.sg) 	| Time is the one thing we all have in common, but it is also the one thing that we all use differently. 	|
-| Mrs Amy Khoo<br>[koh_aik_hoon@schools.gov.sg](mailto:koh_aik_hoon@schools.gov.sg) 	| Faith in God means trusting his timing too. 	|
-| Mrs Wong Zhi Wei, Amanda<br>[wong_zhi_wei_amanda@schools.gov.sg](mailto:wong_zhi_wei_amanda@schools.gov.sg) 	| 	|
+| Mr John Soo Huat <br>[tan_soo_huat@schools.gov.sg](mailto:tan_soo_huat@schools.gov.sg) <br> 5 Compassion	| Time is the one thing we all have in common, but it is also the one thing that we all use differently. 	|
+| Mrs Amy Khoo<br>[koh_aik_hoon@schools.gov.sg](mailto:koh_aik_hoon@schools.gov.sg) <br> 5 Compassion	| Faith in God means trusting his timing too. 	|
+| Mrs Wong Zhi Wei, Amanda<br>[wong_zhi_wei_amanda@schools.gov.sg](mailto:wong_zhi_wei_amanda@schools.gov.sg) <br> 5 Humility	| 	|
 | Ms Rabitha<br>[rabitha_begum_abdul_jaleel@schools.gov.sg](mailto:rabitha_begum_abdul_jaleel@schools.gov.sg) 	| 	|
 | Mrs Melisa Chan<br>[chan-heng_may_may@schools.gov.sg](mailto:chan-heng_may_may@schools.gov.sg) 	| Perseverance produces Character and Character produces Hope. 	|
 | Mdm Liu Xiwen<br>[liu_xiwen@schools.gov.sg](mailto:liu_xiwen@schools.gov.sg) 	| It is our choices that show what we truly are, far more than our abilities.|
