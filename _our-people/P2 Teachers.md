@@ -14,8 +14,8 @@ description: ""
 | Mrs Ng Tian Heng Evelyn<br>[ng_tian_heng_evelyn@schools.gov.sg](mailto:ng_tian_heng_evelyn@schools.gov.sg) <br> 2 Humility	|  It is the attitude, not the aptitude, which determines your altitude in life. 	|
 | Mr Muhd Nizam <br>[muhammad_nizam_b_shahri@schools.gov.sg](mailto:muhammad_nizam_b_shahri@schools.gov.sg) <br> 2 Respect	| Everyone is rewarded for the effort one makes. 	|
 | Mrs Joy Tong <br>[lim_lay_choo_a@schools.gov.sg](mailto:lim_lay_choo_a@schools.gov.sg) <br> 2 Respect	| A good teacher must be able to put herself in the shoes of those who find learning hard. 	|
-| Ms Teow Wen Yan <br>[teow_wen_yan@schools.gov.sg](mailto:teow_wen_yan@schools.gov.sg) 	| Let all that you do be done in love. 	|
-| Mrs Mary Heng <br>[kheng_mary@schools.gov.sg](mailto:kheng_mary@schools.gov.sg)| Minds are like parachutes, they function best when open. |
-|Ms Tan Loo Sin<br>[tan_loo_sin@schools.gov.sg](mailto:tan_loo_sin@schools.gov.sg)| Our greatest glory is not in never falling but in rising after every fall.|
-|Mdm Celest Phang<br>[phang_sin_yee@schools.gov.sg](mailto:phang_sin_yee@schools.gov.sg)| Always look on the bright side of life.|
-|Mdm Suguna Bai<br>[suguna_bai_balasundaram@schools.gov.sg](mailto:suguna_bai_balasundaram@schools.gov.sg)|We learn from failure, not from success.|
+| Ms Teow Wen Yan <br>[teow_wen_yan@schools.gov.sg](mailto:teow_wen_yan@schools.gov.sg) <br> 2 Respect	| Let all that you do be done in love. 	|
+| Mrs Mary Heng <br>[kheng_mary@schools.gov.sg](mailto:kheng_mary@schools.gov.sg) <br> 2 Integrity| Minds are like parachutes, they function best when open. |
+|Ms Tan Loo Sin<br>[tan_loo_sin@schools.gov.sg](mailto:tan_loo_sin@schools.gov.sg) <br> 2 Integrity| Our greatest glory is not in never falling but in rising after every fall.|
+|Mdm Celest Phang<br>[phang_sin_yee@schools.gov.sg](mailto:phang_sin_yee@schools.gov.sg) <br> 2 Service| Always look on the bright side of life.|
+|Mdm Suguna Bai<br>[suguna_bai_balasundaram@schools.gov.sg](mailto:suguna_bai_balasundaram@schools.gov.sg)<br> 2 Service|We learn from failure, not from success.|
