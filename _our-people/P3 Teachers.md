@@ -17,4 +17,4 @@ description: ""
 | Ms Zhou Mengyuan <br>[zhou_mengyuan@schools.gov.sg](mailto:zhou_mengyuan@schools.gov.sg) <br> 3 Respect	| Every child is a different kind of flower. Together, they make this world a beautiful garden. 	|
 | Ms Pey Huey Shan<br>[pey_huey_shan@schools.gov.sg](mailto:pey_huey_shan@schools.gov.sg) <br> 3 Integrity	| Educating the mind without educating the heart is no education at all. 	|
 | Mr Vincent Lee<br>[lee_kar_leong@schools.gov.sg](mailto:lee_kar_leong@schools.gov.sg) <br> 3 Integrity	|  I prioritize authentic learning situations where students learn through solving real-world problems and technology as a ‘cognitive tool’ to extend their thinking. 	|
-| Mr Henry Lee<br>[lee_teck_hee_henry@schools.gov.sg](mailto:lee_teck_hee_henry@schools.gov.sg) <br> 3 Integrity	|  	|
+| Mr Henry Lee<br>[lee_teck_hee_henry@schools.gov.sg](mailto:lee_teck_hee_henry@schools.gov.sg) <br> 3 Integrity	| Lead the child to discover he is capable of doing something which he thought he never knew he could! 	|
