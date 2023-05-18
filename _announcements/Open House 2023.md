@@ -10,8 +10,13 @@ description: ""
 ![](/images/Open%20House%202023/open%20house%20map-01.jpg)
 
 ![](/images/Open%20House%202023/open%20house%20map-02.jpg)
-### AESTHETICS
-![](/images/Open%20House%202023/aesthetics-final.jpg)
+
+### ENGLISH
+
+### MATHEMATICS
 
 ### SCIENCE
-![](/images/Open%20House%202023/science-final.jpg)
+
+### AESTHETICS
+
+
