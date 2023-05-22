@@ -31,5 +31,5 @@ description: ""
 ![](/images/Open%20House%202023/oh23%20final%20posters-09.jpg)
 ### MONTFORT SPORTS EXCELLENCE PROGRAM
 ![](/images/Open%20House%202023/oh23%20final%20posters-10.jpg)
-### MAKERS
+### MAKERS EDUCATION
 ![](/images/Open%20House%202023/oh23%20final%20posters-11.jpg)
