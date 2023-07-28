@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - School Newsletter 2023.md
       - Open House 2023.md
       - 2023 Sharing for Primary 1 Parents.md
       - Term Letter.md

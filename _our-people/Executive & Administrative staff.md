@@ -18,8 +18,9 @@ description: ""
 | Mdm Mahani Bte Hassan 	| Everyone wants happiness. No one wants pain. But you cant have a rainbow, without a little rain. 	|
 |  Mdm Quek Chat Swen Adeline 	|  Change your attitude and it will change your life. 	|
 | Mdm Siti Rukiah Bte Wahidin 	| I am in charge of how I feel and today I am choosing happiness. 	|
-|  Mr Chow Fook Kiong 	| A positive mindset brings positive things. 	|
+|  Mr Chow Fook Kiong 	|  	|
 |  Mr Lim Choon Kiat 	| The way to get started is to quit talking and begin doing.  	|
-|  Mr Foo Meng Wang 	|  Nothing works unless you do. |
+|  Mr Foo Meng Wang 	|  Nothing works unless you do. 	|
+|  Mr Koh Teow Kheng 	|  A positive mindset brings positive things. 	|
 |  Mr Peter Kwek<br>[g-ncs5018pde@ncs.com.sg](mailto:g-ncs5018pde@ncs.com.sg) 	| Train children in the right way, and when old, they will not stray. |
 |  Mrs Poornima<br>[g-ncs5018pde@ncs.com.sg](mailto:g-ncs5018pde@ncs.com.sg) 	|   Don't stop until you're proud.	|
