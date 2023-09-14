@@ -5,8 +5,6 @@ description: ""
 ---
 # **ENGLISH LANGUAGE**
 
-![](/images/English%20Language%20Department.jpg)
-
 **Our Vision**
 
 Develop confident teachers and pupils who will teach and learn the English language with a passion. They will be equipped with the skills not only to achieve excellence in English but to be innovative, creative and dare to take the language beyond the walls of their classrooms. We aim to develop every Montfortian to be empathetic communicators, discerning readers and creative inquirers by equipping them with 21st century competencies.  
