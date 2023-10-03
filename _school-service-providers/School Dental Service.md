@@ -14,7 +14,7 @@ In the event that pupils require urgent dental treatment during the periods the 
   
 |  |  |
 |---|---|
-| Yio Chu Kang Primary School | Tel: 6385 4154 |
-| Xinmin Primary School | Tel: 6285 7582 |
-| Hougang Primary School | Tel: 6386 3025 |
-| MDC 24 | Tel: 9186 4603 |
+| First Toa Payoh Primary School | Tel: 98327966 |
+| Rosyth School | Tel: 87641796 |
+| Xinmin Primary School | Tel: 87643972 |
+|
