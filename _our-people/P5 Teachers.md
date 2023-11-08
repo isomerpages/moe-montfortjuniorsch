@@ -2,12 +2,13 @@
 title: P5 Teachers
 permalink: /our-people/p5-teachers/
 description: ""
+variant: markdown
 ---
 # **P5 TEACHERS**
 
 | Name, Email &amp; Class 	| Personal Statement On The Philosophy Of Education 	|
 |---	|---	|
-| Mr John Soo Huat <br>[tan_soo_huat@schools.gov.sg](mailto:tan_soo_huat@schools.gov.sg) <br> 5 Compassion	| Time is the one thing we all have in common, but it is also the one thing that we all use differently. 	|
+| Mr John Tan Soo Huat <br>[tan_soo_huat@schools.gov.sg](mailto:tan_soo_huat@schools.gov.sg) <br> 5 Compassion	| Time is the one thing we all have in common, but it is also the one thing that we all use differently. 	|
 | Mrs Amy Khoo<br>[koh_aik_hoon@schools.gov.sg](mailto:koh_aik_hoon@schools.gov.sg) <br> 5 Compassion	| Faith in God means trusting his timing too. 	|
 | Mrs Wong Zhi Wei, Amanda<br>[wong_zhi_wei_amanda@schools.gov.sg](mailto:wong_zhi_wei_amanda@schools.gov.sg) <br> 5 Humility	| 	|
 | Mrs Melisa Chan<br>[chan-heng_may_may@schools.gov.sg](mailto:chan-heng_may_may@schools.gov.sg) <br> 5 Respect	| Perseverance produces Character and Character produces Hope. 	|
