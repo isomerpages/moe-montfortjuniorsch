@@ -2,9 +2,10 @@
 title: Partnership
 permalink: /our-partners/partnership/
 description: ""
+variant: markdown
 ---
 # **PARTNERSHIP**
 
 |  	|  	|
 |---	|---	|
-| Montfort Alumni 	| [www.montfortians.org](www.montfortians.org)<br><br>[https://www.facebook.com/pg/MontfortAlumniSingapore/](https://www.facebook.com/pg/MontfortAlumniSingapore/) 	|
+| Montfort Alumni 	| [https://montfortians.org/](https://montfortians.org/)<br><br>[https://www.facebook.com/pg/MontfortAlumniSingapore/](https://www.facebook.com/pg/MontfortAlumniSingapore/) 	|
