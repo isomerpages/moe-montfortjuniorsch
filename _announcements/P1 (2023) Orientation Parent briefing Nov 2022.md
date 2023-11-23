@@ -2,5 +2,6 @@
 title: P1 (2023) Orientation Parent briefing Nov 2022
 permalink: /announcements/permalink/
 description: ""
+variant: markdown
 ---
-[P1 (2023) Orientation Parent briefing Nov 2022](/files/2023%20Semester%201/P1%20(2023)%20Orientation%20Parent%20briefing%20Nov%202022%20for%20Website.pdf)
+[P1 2024 Orientation Parent Briefing November 2023](/files/SEMESTER%201%202024/p1%202024%20orientation%20parent%20briefing%20nov%202023.pdf)
