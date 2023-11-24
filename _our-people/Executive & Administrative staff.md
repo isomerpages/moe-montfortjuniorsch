@@ -2,6 +2,7 @@
 title: Executive & Administrative staff
 permalink: /our-people/executive-n-administrative-staff/
 description: ""
+variant: markdown
 ---
 # **EXECUTIVE &amp; ADMINISTRATIVE STAFF**
 
@@ -21,5 +22,5 @@ description: ""
 |  Mr Chow Fook Kiong 	| A positive mindset brings positive things. 	|
 |  Mr Lim Choon Kiat 	| The way to get started is to quit talking and begin doing.  	|
 |  Mr Foo Meng Wang 	|  Nothing works unless you do. |
-|  Mr Peter Kwek<br>[g-ncs5018pde@ncs.com.sg](mailto:g-ncs5018pde@ncs.com.sg) 	| Train children in the right way, and when old, they will not stray. |
-|  Mrs Poornima<br>[g-ncs5018pde@ncs.com.sg](mailto:g-ncs5018pde@ncs.com.sg) 	|   Don't stop until you're proud.	|
+|  Mr Peter Kwek<br>[DE-ncs5018pde@ncs.com.sg](mailto:DE-ncs5018pde@ncs.com.sg) 	| Train children in the right way, and when old, they will not stray. |
+|  Mrs Poornima<br>[DE-ncs5018pde@ncs.com.sg](mailto:DE-ncs5018pde@ncs.com.sg) 	|   Don't stop until you're proud.	|
