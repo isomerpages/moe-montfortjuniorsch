@@ -51,7 +51,7 @@ Students will be able to learn various scouting skills from knots tying, camp cr
 
 Please take note that&nbsp;<b>NO HARD COPY</b>&nbsp;of training schedule will be given anymore.
 
-Please visit the school website: https://montfortjunior.moe.edu.sg/our-programme/co-curriculumactivities/cca2024/ for training schedules.
+Please visit the school website: https://montfortjunior.moe.edu.sg/ourprogramme/co-curriculumactivities/cca2024/ for training schedules.
 
 ### TEACHERS-IN-CHARGE
 
