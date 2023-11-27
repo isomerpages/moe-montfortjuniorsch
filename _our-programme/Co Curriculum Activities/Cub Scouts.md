@@ -3,16 +3,15 @@ title: Cub Scouts
 permalink: /our-programme/co-curriculum-activities/cub-scouts/
 description: ""
 third_nav_title: Co Curriculum Activities
+variant: markdown
 ---
 # **CUB SCOUTS**
 
-<img src="/images/Scouts.jpg" 
-     style="width:50%">
+<img src="/images/Scouts.jpg" style="width:50%">
 		 
 ### ABOUT MONTFORT KNIGHTS CUB SCOUTS
 
-<img src="/images/Cub%20Scouts.jpg" 
-     style="width:50%">
+<img src="/images/Cub%20Scouts.jpg" style="width:50%">
 		 
 Our objective is to contribute to the education of our young Montfortians, through a values system based on the Scout Promise and Law.
 
@@ -52,7 +51,7 @@ Students will be able to learn various scouting skills from knots tying, camp cr
 
 Please take note that&nbsp;<b>NO HARD COPY</b>&nbsp;of training schedule will be given anymore.
 
-Please visit the school website: https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2023/ for training schedules.
+Please visit the school website: https://montfortjunior.moe.edu.sg/our-programme/co-curriculumactivitiescca2024/ for training schedules.
 
 ### TEACHERS-IN-CHARGE
 
