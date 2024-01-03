@@ -2,17 +2,6 @@
 title: P5 Teachers
 permalink: /our-people/p5-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **P5 TEACHERS**
-
-| Name, Email &amp; Class 	| Personal Statement On The Philosophy Of Education 	|
-|---	|---	|
-| Mr John Tan Soo Huat <br>[tan_soo_huat@schools.gov.sg](mailto:tan_soo_huat@schools.gov.sg) <br> 5 Compassion	| Time is the one thing we all have in common, but it is also the one thing that we all use differently. 	|
-| Mrs Amy Khoo<br>[koh_aik_hoon@schools.gov.sg](mailto:koh_aik_hoon@schools.gov.sg) <br> 5 Compassion	| Faith in God means trusting his timing too. 	|
-| Mrs Wong Zhi Wei, Amanda<br>[wong_zhi_wei_amanda@schools.gov.sg](mailto:wong_zhi_wei_amanda@schools.gov.sg) <br> 5 Humility	| 	|
-| Mrs Melisa Chan<br>[chan-heng_may_may@schools.gov.sg](mailto:chan-heng_may_may@schools.gov.sg) <br> 5 Respect	| Perseverance produces Character and Character produces Hope. 	|
-| Mdm Liu Xiwen<br>[liu_xiwen@schools.gov.sg](mailto:liu_xiwen@schools.gov.sg) <br> 5 Respect	| It is our choices that show what we truly are, far more than our abilities.|
-| Mrs Shirley Foo<br>[bong_fui_lian_shirley@schools.gov.sg](mailto:bong_fui_lian_shirley@schools.gov.sg) <br> 5 Integrity	| Life is so much brighter when we focus on what truly matters. 	|
-| Ms Serene Han<br>[serene_han_tui_kin@schools.gov.sg](mailto:serene_han_tui_kin@schools.gov.sg) <br> 5 Integrity	| Things which matter most must never be at the mercy of things which matter least.	|
-| Mrs Lau Kee Haw <br>[lau_kee_haw@schools.gov.sg](mailto:lau_kee_haw@schools.gov.sg) <br> 5 Integrity	| Your network of family and friends is a source of strength and support. 	|
+<h1><strong>P5 TEACHERS</strong></h1><table><tbody><tr><th rowspan="1" colspan="1"><p>Name, Email &amp; Class</p></th><th rowspan="1" colspan="1"><p>Personal Statement On The Philosophy Of Education</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr John Tan Soo Huat <br><a href="mailto:tan_soo_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_soo_huat@schools.gov.sg</a> <br>5 Compassion</p></td><td rowspan="1" colspan="1"><p>Time is the one thing we all have in common, but it is also the one thing that we all use differently.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Amy Khoo<br><a href="mailto:koh_aik_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_aik_hoon@schools.gov.sg</a> <br>5 Compassion</p></td><td rowspan="1" colspan="1"><p>Faith in God means trusting his timing too.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Wong Zhi Wei, Amanda<br><a href="mailto:wong_zhi_wei_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_zhi_wei_amanda@schools.gov.sg</a> <br>5 Humility</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Liu Xiwen<br><a href="mailto:liu_xiwen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xiwen@schools.gov.sg</a> <br>5 Respect</p></td><td rowspan="1" colspan="1"><p>It is our choices that show what we truly are, far more than our abilities.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Serene Han<br><a href="mailto:serene_han_tui_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">serene_han_tui_kin@schools.gov.sg</a> <br>5 Integrity</p></td><td rowspan="1" colspan="1"><p>Things which matter most must never be at the mercy of things which matter least.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Lau Kee Haw <br><a href="mailto:lau_kee_haw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kee_haw@schools.gov.sg</a> <br>5 Integrity</p></td><td rowspan="1" colspan="1"><p>Your network of family and friends is a source of strength and support.</p></td></tr></tbody></table><p></p>

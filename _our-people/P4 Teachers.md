@@ -2,16 +2,6 @@
 title: P4 Teachers
 permalink: /our-people/p4-teachers/
 description: ""
+variant: tiptap
 ---
-# **P4 TEACHERS**
-
-| Name &amp; Email 	| Personal Statement On The Philosophy Of Education 	|
-|---	|---	|
-| Mr Tang Zhanke<br>[tang_zhanke@schools.gov.sg](mailto:tang_zhanke@schools.gov.sg) <br> 4 Compassion	| Close your eyes, chase your dreams. 	|
-| Mr Patrick Low<br>[low_tong@schools.gov.sg](mailto:low_tong@schools.gov.sg) <br> 4 Compassion	| I have not failed. I've just found 10,000 ways that won't work. 	|
-| Mdm Mastura Samad <br>[mastura_abdul_samad@schools.gov.sg](mailto:mastura_abdul_samad@schools.gov.sg) <br> 4 Humility	| It always seems impossible until it is done. 	|
-| Mdm Lim Guek Kim<br>[lim_guek_kim@schools.gov.sg](mailto:lim_guek_kim@schools.gov.sg) <br> 4 Humility	|  Commit yourself to lifelong learning.   	|
-| Mdm Lalita Devi <br>[lalita_devi_singh@schools.gov.sg](mailto:lalita_devi_singh@schools.gov.sg)  <br> 4 Respect 	|  Intelligence plus character- that is the goal of true education. 	|
-| Mdm Siti Nur Akashah<br>[siti_nur_akashah_mustaffa@schools.gov.sg](mailto:siti_nur_akashah_mustaffa@schools.gov.sg) <br> 4 Respect	| Tell me and I forget. Teach me and I remember. Involve me and I learn.|
-| &nbsp;Mdm Tan Wan Joo<br>[tan_wan_joo@schools.gov.sg](mailto:tan_wan_joo@schools.gov.sg) <br> 4 Integrity	|  Every child is a star, we shall inspire them to shine up high!|
-| Mr John Chan<br>[Chan_Hoe_Chye_John@schools.gov.sg](mailto:Chan_Hoe_Chye_John@schools.gov.sg) <br> 4 Integrity	| Knowledge gives you Power, but Character earns you Respect. 	|
+<h1><strong>P4 TEACHERS</strong></h1><table><tbody><tr><th rowspan="1" colspan="1"><p>Name &amp; Email</p></th><th rowspan="1" colspan="1"><p>Personal Statement On The Philosophy Of Education</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Patrick Low<br><a href="mailto:low_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_tong@schools.gov.sg</a> <br>4 Compassion</p></td><td rowspan="1" colspan="1"><p>I have not failed. I've just found 10,000 ways that won't work.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Mastura Samad <br><a href="mailto:mastura_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mastura_abdul_samad@schools.gov.sg</a> <br>4 Humility</p></td><td rowspan="1" colspan="1"><p>It always seems impossible until it is done.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lim Guek Kim<br><a href="mailto:lim_guek_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_guek_kim@schools.gov.sg</a> <br>4 Humility</p></td><td rowspan="1" colspan="1"><p>Commit yourself to lifelong learning.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lalita Devi <br><a href="mailto:lalita_devi_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lalita_devi_singh@schools.gov.sg</a> <br>4 Respect</p></td><td rowspan="1" colspan="1"><p>Intelligence plus character- that is the goal of true education.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Siti Nur Akashah<br><a href="mailto:siti_nur_akashah_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_akashah_mustaffa@schools.gov.sg</a> <br>4 Respect</p></td><td rowspan="1" colspan="1"><p>Tell me and I forget. Teach me and I remember. Involve me and I learn.</p></td></tr><tr><td rowspan="1" colspan="1"><p>&nbsp;Mdm Tan Wan Joo<br><a href="mailto:tan_wan_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_joo@schools.gov.sg</a> <br>4 Integrity</p></td><td rowspan="1" colspan="1"><p>Every child is a star, we shall inspire them to shine up high!</p></td></tr></tbody></table><p></p>
