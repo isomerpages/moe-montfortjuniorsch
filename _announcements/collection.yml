@@ -1,0 +1,13 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - School Newsletter 2023.md
+      - Open House 2023.md
+      - 2023 Sharing for Primary 1 Parents.md
+      - Term Letter.md
+      - 2023 MONTFORT STEAM PROGRAMME & MONTFORT DEVELOPMENT PROGRAMME.md
+      - 2024 Primary 1 Orientation Parent briefing Nov 2023.md
+      - P1 Parent Engagement Deck 2023.md
+      - Booklist 2023.md
+      - Dismissal timings by level.md

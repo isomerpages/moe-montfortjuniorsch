@@ -1,0 +1,16 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Makers Advisory Council.md
+      - Montfort Junior Parents Connection.md
+      - School Management Committee.md
+      - Parents/.keep
+      - Parents/Principal's Term Letter.md
+      - Parents/School Calendar.md
+      - Parents/Homework Policy.md
+      - Parents/School Service Providers.md
+      - Parents/School Safety and Security.md
+      - Parents/Travel Declaration.md
+      - Parents/E Links.md
+      - Partnership.md

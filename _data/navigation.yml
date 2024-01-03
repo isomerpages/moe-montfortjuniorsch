@@ -1,0 +1,12 @@
+logo: /images/logo.png
+links:
+  - title: Our Heritage
+    collection: our-heritage
+  - title: Our Partners
+    collection: our-partners
+  - title: Our People
+    collection: our-people
+  - title: Our Programme
+    collection: our-programme
+  - title: Contact Us
+    url: /contact-us/

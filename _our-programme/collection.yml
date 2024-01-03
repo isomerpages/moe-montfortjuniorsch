@@ -1,0 +1,34 @@
+collections:
+  our-programme:
+    output: true
+    order:
+      - Aesthetics.md
+      - Applied Learning Programme (ALP).md
+      - Boys Centric Education.md
+      - Catholic Programme.md
+      - Co Curriculum Activities/CCA 2024.md
+      - Co Curriculum Activities/Badminton.md
+      - Co Curriculum Activities/Cub Scouts.md
+      - Co Curriculum Activities/Football.md
+      - Co Curriculum Activities/Guitar Club.md
+      - Co Curriculum Activities/Picasso's Pals.md
+      - Co Curriculum Activities/Dance Club.md
+      - Co Curriculum Activities/Table Tennis.md
+      - Co Curriculum Activities/Taekwondo.md
+      - Co Curriculum Activities/Robotics Club.md
+      - Co Curriculum Activities/.keep
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Sexuality Education.md
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Learning for Life Programme/Montfort Schools Sport Excellence Programme
+        (MSPEX).md
+      - Learning for Life Programme/.keep
+      - Mother Tongue Languages/Chinese Language.md
+      - Mother Tongue Languages/Tamil Language.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mother Tongue Languages/.keep
+      - Physical Education.md
+      - Programme for Active Learning (PAL).md
