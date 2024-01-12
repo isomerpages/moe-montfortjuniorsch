@@ -2,5 +2,6 @@
 title: Term Letter
 permalink: /announcements/termletter/
 description: ""
+variant: markdown
 ---
-[Term 4 Letter](/files/Term%20Letters/2023/2023%20term%204%20letter.pdf)
+[Term 1 letter 2024](/files/Term%20Letters/2024/term%201%20letter%202024.pdf)
