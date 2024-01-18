@@ -12,14 +12,14 @@ NorthStar@AMK
 Singapore 569880  
 Tel :  6280 4917
 
-| 2024 Uniform sale dates: 12.30pm - 2.00pm| 
-| -------- | 
-| 16th January
-23rd January
-27th February
-26th March
-23rd April
-21st May
-23rd July
-20th August
-24th September     | 
+| 2024 Uniform sale dates: 12.30pm - 2.00pm | 
+| ---------------------------------------- | 
+| 16th January                             |
+| 23rd January                             |
+| 27th February                            |
+| 26th March                                |
+| 23rd April                                |
+| 21st May                                  |
+| 23rd July                                 |
+| 20th August                               |
+| 24th September                            |
