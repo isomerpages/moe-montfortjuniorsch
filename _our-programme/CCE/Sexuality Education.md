@@ -240,8 +240,8 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <u>here</u>. The completed opt-out
-form is to be submitted by 07/02/2024.</p>
+start of the year and is also downloadable <a href="/files/SEMESTER 1 2024/PARENT_OPT_OUT_FORM.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 07/02/2024.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at <a rel="noopener noreferrer nofollow" target="_blank">MONTFORT_JS@MOE.EDU.SG</a> or
 65101588 for discussion or to seek clarification about the school’s Sexuality
