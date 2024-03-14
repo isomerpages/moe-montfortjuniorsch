@@ -4,4 +4,116 @@ permalink: /our-people/p3-teachers/
 description: ""
 variant: tiptap
 ---
-<h1><strong>P3 TEACHERS</strong></h1><table><tbody><tr><th rowspan="1" colspan="1"><p>Name &amp; Email</p></th><th rowspan="1" colspan="1"><p>Personal Statement On The Philosophy Of Education</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Patrick Low</p><p><a href="mailto:low_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_tong@schools.gov.sg</a></p><p>3 Compassion</p></td><td rowspan="1" colspan="1"><p>I have not failed. I've just found 10,000 ways that won't work.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Li Jia Xin</p><p><a href="mailto:li_jia_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_jia_xin@schools.gov.sg</a></p><p>3 Compassion</p></td><td rowspan="1" colspan="1"><p>Enjoy every little fruits of labor.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Tan Wan Joo</p><p><a href="mailto:tan_wan_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_joo@schools.gov.sg</a></p><p>3 Humility</p></td><td rowspan="1" colspan="1"><p>Every child is a star, we shall inspire them to shine up high!</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Serene Tan Shan Shan</p><p><a href="mailto:tan_shan_shan_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shan_shan_serene@schools.gov.sg</a></p><p>3 Respect</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Lau Kee Haw</p><p><a href="mailto:lau_kee_haw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kee_haw@schools.gov.sg</a></p><p>3 Respect</p></td><td rowspan="1" colspan="1"><p>Your network of family and friends is a source of strength and support.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Mastura Samad</p><p><a href="mailto:mastura_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mastura_abdul_samad@schools.gov.sg</a></p><p>3 Integrity</p></td><td rowspan="1" colspan="1"><p>It always seems impossible until it is done.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Jessie Lau Luyi</p><p><a href="mailto:jessie_lau_luyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessie_lau_luyi@schools.gov.sg</a></p><p>3 Integrity</p></td><td rowspan="1" colspan="1"><p>Never stop learning, because life never stops teaching.</p></td></tr></tbody></table><p></p>
+<h1><strong>P3 TEACHERS</strong></h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name &amp; Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Personal Statement On The Philosophy Of Education</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Patrick Low</p>
+<p><a href="mailto:low_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_tong@schools.gov.sg</a>
+</p>
+<p>3 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Li Jia Xin</p>
+<p><a href="mailto:li_jia_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_jia_xin@schools.gov.sg</a>
+</p>
+<p>3 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enjoy every little fruits of labor.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Wan Joo</p>
+<p><a href="mailto:tan_wan_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_joo@schools.gov.sg</a>
+</p>
+<p>3 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every child is a star, we shall inspire them to shine up high!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Cao Yexin</p>
+<p><a href="mailto:Cao_Yexin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cao_Yexin@schools.gov.sg</a>
+</p>
+<p>3 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Serene Tan Shan Shan</p>
+<p><a href="mailto:tan_shan_shan_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shan_shan_serene@schools.gov.sg</a>
+</p>
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lau Kee Haw</p>
+<p><a href="mailto:lau_kee_haw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kee_haw@schools.gov.sg</a>
+</p>
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Your network of family and friends is a source of strength and support.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Raj</p>
+<p><a href="mailto:sarojah_shanmugaraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarojah_shanmugaraj@schools.gov.sg</a>
+</p>
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mastura Samad</p>
+<p><a href="mailto:mastura_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mastura_abdul_samad@schools.gov.sg</a>
+</p>
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It always seems impossible until it is done.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Soo Huat</p>
+<p><a href="mailto:tan_soo_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_soo_huat@schools.gov.sg</a>
+</p>
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
