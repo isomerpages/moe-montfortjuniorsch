@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Cao Yexin</p>
+<p>Ms Cao Yexin</p>
 <p><a href="mailto:Cao_Yexin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cao_Yexin@schools.gov.sg</a>
 </p>
 <p>3 Humility</p>
