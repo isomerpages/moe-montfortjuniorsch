@@ -56,7 +56,7 @@ variant: tiptap
 <p>3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Not knowing is not failure, it’s the first step to understanding.</p>
 </td>
 </tr>
 <tr>
