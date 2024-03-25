@@ -58,7 +58,7 @@ and the good of others.</p>
 <p>5 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All growth starts at the end of your comfort zone.</p>
 </td>
 </tr>
 <tr>
