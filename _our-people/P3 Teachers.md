@@ -28,17 +28,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Li Jia Xin</p>
-<p><a href="mailto:li_jia_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_jia_xin@schools.gov.sg</a>
-</p>
-<p>3 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Enjoy every little fruits of labor.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Wan Joo</p>
 <p><a href="mailto:tan_wan_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_joo@schools.gov.sg</a>
 </p>
