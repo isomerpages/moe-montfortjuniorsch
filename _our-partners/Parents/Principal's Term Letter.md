@@ -21,7 +21,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p><a href="/files/Term Letters/2024/Term_2_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
+</p>
 </td>
 </tr>
 </tbody>
