@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/booklist2023/
+          url: /announcements/newsletter2023/
         - title: Highlights
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
