@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /our-programme/physical-education/
 description: ""
+variant: markdown
 ---
 # **PHYSICAL EDUCATION**
 
@@ -11,7 +12,7 @@ We strongly believe that PE plays an integral part in our boys-centric environme
   
 Our PE curriculum focuses on developmentally appropriate physical activities within the 6 learning areas:  
 
-*   Athletics (From Primary 3)
+*   Athletics (From Primary 4)
 *   Dance · Games and Sports
 *   Gymnastics
 *   Outdoor Education
@@ -26,15 +27,15 @@ It is our aim to involve every Montfortian in our PE curriculum with a range of 
 
 ### NAPFA TEST  
 
-For more information on NAPFA Click [HERE](/files/MJS_NAPHA_test.pdf).
+For more information on NAPFA Click&nbsp;[HERE](/files/MJS_NAPHA_test.pdf).
 
 ### LEARNING FOR LIFE PROGRAMME (LLP)
 
 **Developing Montfortians with CHRISTE values through sports**  
   
-Montfort Junior School has a rich history and support to anchor our development of character in our boys. Our mission as a Catholic school, guided by our CHRISTE values and spirituality, we nurture each individual to realize his potential and inspire him to be a Man for others. We also envisage every Montfortian as a scholar, a sportsman, a leader, above all a man for others.    
+Montfort Junior School has a rich history and support to anchor our development of character in our boys. Our mission as a Catholic school, guided by our CHRISTE values and spirituality, we nurture each individual to realize his potential and inspire him to be a Man for others. We also envisage every Montfortian as a scholar, a sportsman, a leader, above all a man for others. &nbsp;  
   
-Badminton has been our prominent sport and a strong tradition for many years. With that sporting tradition, our school has also developed a strong sporting structure to support our boys’ involvement in other sports as well. We see all sports as opportunities for our boys to pursue excellence in both their physical performance and character.  The LLP will leverage on the existing CCE frame work to incorporate the CHRISTE values.
+Badminton has been our prominent sport and a strong tradition for many years. With that sporting tradition, our school has also developed a strong sporting structure to support our boys’ involvement in other sports as well. We see all sports as opportunities for our boys to pursue excellence in both their physical performance and character. &nbsp;The LLP will leverage on the existing CCE frame work to incorporate the CHRISTE values.
 
 ![](/images/LLP_1.png)
 
