@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
+      - Direct School Admission (DSA) 2024.md
       - Message to Alumni of Montfort Junior School.md
       - School Newsletter 2023.md
-      - Open House 2023.md
       - 2023 Sharing for Primary 1 Parents.md
       - Term Letter.md
       - 2023 MONTFORT STEAM PROGRAMME & MONTFORT DEVELOPMENT PROGRAMME.md
