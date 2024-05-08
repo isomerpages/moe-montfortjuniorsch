@@ -2,9 +2,10 @@
 title: P1 Orientation
 permalink: /highlights/p1-orientation/
 description: ""
+variant: markdown
 ---
 # **P1 ORIENTATION**
 
 **Welcome our Primary 1s to Montfort Junior School**
 
-Please click [here](https://www.facebook.com/100063654667896/posts/pfbid034g7AW7QjqQpQuwerYhQtgTWAqQeQECgAC7fQ37nh32q9N31cPGU5L34c26nfFf1Xl/?d=w&mibextid=qC1gEa) to view the photos.
+Please click [here](https://www.facebook.com/share/p/s9rq7inqRx5zR9ZW/?mibextid=WC7FNe) to view the photos.
