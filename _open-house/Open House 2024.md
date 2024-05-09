@@ -18,6 +18,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2024/2___Event_Highlights.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2024/5___Principal_sharing.jpg">
+</div>
 <h4>EVENT MAP</h4>
 <p></p>
 <div class="isomer-image-wrapper">
