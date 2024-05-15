@@ -2,29 +2,191 @@
 title: Science
 permalink: /our-programme/permalink/
 description: ""
+variant: tiptap
 ---
-# **Science**
-
-
-<img src="/images/Science%20dept.jpg" 
-     style="width:70%">
-		
-		 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/tnP1200032.jpg" alt="P1200032.JPG" width="362" height="271"></th><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Learning Science in Montfort Junior </span>is to develop a spirit of inquiry, <br>and a heart to serve and contribute.   </th></tr></thead><tbody><tr><td style="background-color:#F8F8F8;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">We design Experiential Learning Experiences, to help our boys understand science beyond the textbooks.</td><td style="background-color:#F8F8F8;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/IMG_3626.jpg" alt="IMG_3626.JPG" width="135"></td></tr></tbody></table>
-
-
-<img src="/images/sci1.jpg">
-
+<h1><strong>Science</strong></h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="271" width="362" alt="P1200032.JPG" src="/images/tnP1200032.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Learning Science in Montfort Junior </strong>is to develop a spirit
+of inquiry,
+<br>and a heart to serve and contribute.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>We design Experiential Learning Experiences, to help our boys understand science beyond the textbooks.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="135" alt="IMG_3626.JPG" src="/images/IMG_3626.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/sci1.jpg">
+</div>
+<p>
 <br>
-
-<img src="/images/P3%20learning%20about%20Matter.jpg">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/P3%20learning%20about%20Matter.jpg">
+</div>
+<p>
 <br>
-<img src="/images/sci2.jpg">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/sci2.jpg">
+</div>
+<p>
 <br>
-<img src="/images/P6%20students%20learning%20about%20rainforest%20habitats.jpg">
-
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/P6%20students%20learning%20about%20rainforest%20habitats.jpg">
+</div>
 <h3>CORE SCIENCE CURRICULUM</h3>
-
 <h5>SCIENCE SYLLABUS P3 - P6</h5>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2A2A2A;border-color:#333333;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">THEME</span></th><th style="background-color:#2A2A2A;border-color:#333333;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">DIVERSITY</span></th><th style="background-color:#2A2A2A;border-color:#333333;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">CYCLES</span></th><th style="background-color:#2A2A2A;border-color:#333333;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">SYSTEMS</span></th><th style="background-color:#2A2A2A;border-color:#333333;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">INTERACTIONS </span></th><th style="background-color:#2A2A2A;border-color:#333333;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">ENERGY</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">P3</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">- <span style="color:#444">Living and   non-living things</span><br><span style="color:#444">- Materials</span></td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">- Life cycle of plants and animals<br></td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">-</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">- Magnets</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">-</td></tr><tr><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">P4</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">-</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">- matter</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#444">- Human Digestive System</span><br><span style="color:#444">- Plant System</span></td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">- </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">- Heat and Temperature <br>- Light</td></tr><tr><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">P5 </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> -</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">- Reproduction in plants and animals<br>- Water </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">- Respiratory and Circulatory Systems in plants and human<br>- Cell System<br>- Electrical System </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">- </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> -</td></tr><tr><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">P6</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">- </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> -</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">- </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">- Forces<br>- Environment </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">- Energy<br>- Conversion<br>- Photosynthesis </td></tr></tbody></table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>THEME</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>DIVERSITY</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>CYCLES</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>SYSTEMS</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>INTERACTIONS</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>ENERGY</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>- Living and non-living things<br>- Materials</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Life cycle of plants and animals
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Magnets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- matter</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Human Digestive System
+<br>- Plant System</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Heat and Temperature
+<br>- Light</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Reproduction in plants and animals
+<br>- Water</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Respiratory and Circulatory Systems in plants and human
+<br>- Cell System
+<br>- Electrical System</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Forces
+<br>- Environment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Energy
+<br>- Conversion
+<br>- Photosynthesis</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

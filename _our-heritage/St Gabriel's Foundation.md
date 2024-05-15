@@ -2,6 +2,7 @@
 title: St Gabriel's Foundation
 permalink: /our-heritage/st-gabriels-foundation/
 description: ""
+variant: markdown
 ---
 # **ST GABRIEL'S FOUNDATION**
 
@@ -10,4 +11,4 @@ Montfort Junior School is a government-aided Catholic school run by the Brothers
 The St. Gabriel’s Foundation was incorporated by the Brothers of St. Gabriel in 2001 to take over the running of the various schools and Gabrielite institutions in both Singapore and Malaysia. The objectives of the St. Gabriel’s Foundation is to provide continuity to the Gabrielite mission of providing education, assisting its pupils to grow up as morally upright citizens, and to help its pupils who are in conditions of need, hardship or distress.  
   
 For more information, please click on this link 
-https://www.stgabrielsfoundation.org/
+[https://www.stgabrielsfoundation.org/](https://www.stgabrielsfoundation.org/)
