@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>P3 TEACHERS</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,6 +28,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>I have not failed. I've just found 10,000 ways that won't work.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhou Mengyuan</p>
+<p><a href="mailto:zhou_mengyuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_mengyuan@schools.gov.sg</a>
+</p>
+<p>3 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sam Liting</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Sam_Liting@schools.gov.sg</a>
+</p>
+<p>3 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -52,6 +78,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Serene Tan Shan Shan</p>
 <p><a href="mailto:tan_shan_shan_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shan_shan_serene@schools.gov.sg</a>
+</p>
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chermin Tiong</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Tiong_Xin_Ting_Chermin@schools.gov.sg</a>
 </p>
 <p>3 Respect</p>
 </td>
