@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>P2 TEACHERS</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,6 +28,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Kindness is the language which the deaf can hear and the blind can see.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yao Yadan</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yao_yadan@schools.gov.sg</a>
+</p>
+<p>2 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
