@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>P5 TEACHERS</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -63,9 +67,7 @@ and the good of others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Peck San Linda</p>
-<p><a href="mailto:tan_peck_san_linda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_peck_san_linda@schools.gov.sg</a>
-</p>
+<p>Mr Amin</p>
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,8 +76,8 @@ and the good of others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Chor Hiang</p>
-<p><a href="mailto:tan_chor_hiang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chor_hiang_a@schools.gov.sg</a>
+<p>Mdm Fu Yuwen</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Fu_Yuwen@schools.gov.sg</a>
 </p>
 <p>5 Respect</p>
 </td>
