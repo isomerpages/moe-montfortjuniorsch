@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>P6 TEACHERS</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -97,20 +101,7 @@ that counts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhu Jiayi</p>
-<p><a href="mailto:zhu_jiayi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_jiayi@schools.gov.sg</a>
-</p>
-<p>6 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Don't wait for the right moment to start, start and make each moment right.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Gerard</p>
-<p><a href="mailto:gerard_anitus_fernandez@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gerard_anitus_fernandez@schools.gov.sg</a>
-</p>
+<p>Mdm Siti</p>
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
