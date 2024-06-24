@@ -32,5 +32,6 @@ variant: tiptap
 </table>
 <p></p>
 <h1><strong>FORM TEACHERS AND SUBJECT TEACHERS</strong></h1>
-<p></p>
+<p><a href="/files/Semester 2 2024/Form_teachers_and_subject_teachers.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>
+</p>
 <p></p>
