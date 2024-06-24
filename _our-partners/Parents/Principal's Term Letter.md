@@ -28,6 +28,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Semester 2 2024/2024_Term_3_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
