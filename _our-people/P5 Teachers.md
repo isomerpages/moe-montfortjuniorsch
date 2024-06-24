@@ -68,6 +68,8 @@ and the good of others.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Amin</p>
+<p><a href="mailto:muhammad_amin_mokhtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_amin_mokhtar@schools.gov.sg</a>
+</p>
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">

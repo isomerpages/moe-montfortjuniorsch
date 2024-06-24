@@ -109,17 +109,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Raj</p>
-<p><a href="mailto:sarojah_shanmugaraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarojah_shanmugaraj@schools.gov.sg</a>
-</p>
-<p>3 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Mastura Samad</p>
 <p><a href="mailto:mastura_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mastura_abdul_samad@schools.gov.sg</a>
 </p>
