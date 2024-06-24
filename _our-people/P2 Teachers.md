@@ -21,17 +21,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan-Tay Pei Long</p>
-<p><a href="mailto:tay_pei_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_pei_long@schools.gov.sg</a>
-</p>
-<p>2 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindness is the language which the deaf can hear and the blind can see.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Yao Yadan</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">yao_yadan@schools.gov.sg</a>
 </p>
