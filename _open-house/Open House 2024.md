@@ -16,10 +16,7 @@ description: ""
 </p>
 <p><a href="https://form.gov.sg/661d3812dbe4150f8f02bad5" rel="noopener noreferrer nofollow" target="_blank">WWW.GO.GOV.SG/MJSOPENHOUSE2024</a>
 </p>
-<p>Thank you for those who registered and attended our school’s Open House
-on 18 May 2024 . We appreciate your support and interest in Montfort Junior
-School. If you have any queries feel free to contact Montfort Junior School
-General Office.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Open House 2024/1___Divider.jpg">
 </div>
