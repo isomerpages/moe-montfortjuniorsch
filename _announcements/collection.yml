@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - SCHEDULE OF MASSES FOR TERM 3&4 2024.md
       - Direct School Admission (DSA) 2024.md
       - Message to Alumni of Montfort Junior School.md
       - School Newsletter 2023.md
