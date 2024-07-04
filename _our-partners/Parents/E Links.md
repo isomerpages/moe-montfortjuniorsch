@@ -5,14 +5,21 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>MOE Identity Management System (MIMS)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">https://mims.moe.gov.sg/sspr</a>
+</p>
+<p><a href="/files/Semester 2 2024/Posters_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Student Setup Guide</a>
+</p>
 </th>
 </tr>
 <tr>
