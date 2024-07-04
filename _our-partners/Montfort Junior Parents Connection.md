@@ -67,6 +67,7 @@ events such as</p>
 Day</p>
 </li>
 </ul>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -140,3 +141,4 @@ school or from home, feel free to reach out to us.</p>
 </li>
 </ul>
 <p>We are looking forward to hearing from you soon!</p>
+<p></p>
