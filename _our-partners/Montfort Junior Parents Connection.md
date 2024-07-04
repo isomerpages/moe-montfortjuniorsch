@@ -23,15 +23,6 @@ love for the child and delivers the message to them that they are not alone.
 Consequently, it cultivates a positive mindset towards learning and increases
 their motivation in participating in the various school programmes and
 activities, resulting in their holistic development.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PVs%20%20Decor%202020.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PVs%20%20Drones%202%20Prog%202021_Edited.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PVs%20%20Drones%20Prog%202021_Edited.jpeg">
-</div>
 <p><strong>Regular Activities</strong>
 <br>In order to cater to the diverse needs and interests of the boys, MJPC
 helps out in the various schools’ activities throughout the year as follows:</p>
@@ -76,6 +67,7 @@ events such as</p>
 Day</p>
 </li>
 </ul>
+<p></p>
 <h3>OUR COMMUNICATION CHANNELS</h3>
 <p>Volunteers do not necessarily have the time but they have the heart. So,
 if you would like to help us, with whatever resources you have; be it in
