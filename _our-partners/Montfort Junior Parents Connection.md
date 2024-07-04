@@ -13,8 +13,9 @@ boys to be Men for Others.</p>
 between the parents and the school on matters related to their children.
 They will also lead other parent volunteers in helping out in school activities
 / events.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MJPC%20OrgChart.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Parents/Chart.jpg">
 </div>
 <h3>PARENT VOLUNTEERS (PVs)</h3>
 <p>Parents’ involvement in school activities plays an essential part in the
@@ -23,10 +24,6 @@ love for the child and delivers the message to them that they are not alone.
 Consequently, it cultivates a positive mindset towards learning and increases
 their motivation in participating in the various school programmes and
 activities, resulting in their holistic development.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Parents/Chart.jpg">
-</div>
 <p><strong>Regular Activities</strong>
 <br>In order to cater to the diverse needs and interests of the boys, MJPC
 helps out in the various schools’ activities throughout the year as follows:</p>
