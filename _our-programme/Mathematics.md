@@ -30,12 +30,105 @@ and collaborative discussions.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>(b) Digital-based learning</p>
+<p>Promote logical and critical thinking skills and exploration of concepts
+through the use of digital tools such as Sphero and Ozobot.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_6.jpg">
+</div>
 </th>
 </tr>
 </tbody>
 </table>
+<p>(c) Game-based learning</p>
+<p>Inject fun while students learn and apply concepts through play with Active
+Floor and Breakout Edu</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_9.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>(d) MSTEA<em>Math</em> @MJS</p>
+<p>This programme aims to promote critical and creative thinking skills and
+empowering learners to explore innovative strategies to overcome challenges
+posed in tasks, games and competitions.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_10.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_11.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
