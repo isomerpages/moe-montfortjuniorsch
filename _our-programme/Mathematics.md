@@ -2,48 +2,132 @@
 title: Mathematics
 permalink: /our-programme/mathematics/
 description: ""
+variant: tiptap
 ---
-# **MATHEMATICS**
-
-### PROGRAMME HIGHLIGHTS
-
-##### OUR CURRICULUM
-
-The Mathematics curriculum emphasizes on conceptual understanding, skill proficiencies and thinking skills in the teaching and learning of mathematics. Students are given opportunities to discover, reason and communicate their understanding of the mathematics concepts and problem solving techniques.  Engaging in group activities, exploratory work and discussions that allow them to make connections, pupils will understand the Mathematical concepts better and apply their learning to real life situation.  
-
-##### MATHEMATICS@MJS
-
-Learning Mathematics in Montfort Junior is fun, engaging and exploratory!  
-
-**Explore with ICT**   
-Students explore mathematical concepts using various ICT tools in the classroom. From using AR Apps in iPads to Sphero and Ozobot, Math lessons are never dull and boring!
-
-![](/images/math1.jpg)
-
-**Activity based Learning**        
-Students also get to learn Mathematics by exploring, doing and working together. They get to see and hear what our friends think and get to explain what we think too.
-
-![](/images/math3.jpg)
-![](/images/math2.jpg)
-
-**Learn Mathematics Thru’ Play**     
-In Montfort Junior, we are keen to help students learn Mathematics in a fun and engaging way and to provide opportunities to promote critical thinking, collaboration and creativity. Learn mathematics thru’ play allows MJS students to apply mathematical concepts and critical thinking skills in solving interesting problems such as solving different puzzles to unlock the Breakout EDU boxes, coding to programme and move spheros and ozobots.
-
-![](/images/math4.jpg)
-![](/images/math5.jpg)
-
-**TMP and TSP**
-
-Our Talent Management Programme (TMP) and Talent Support Programme (TSP) are catered to the learning needs of our students.
-
-TMP stretches the high progression group by giving them more exposure to higher order learning tasks.
-
-TSP, including the learning support for mathematics (LSM), provides more help to the low progression group, enabling them to learn at their own pace.
-
-![](/images/math6.jpg)
-
-**Math Performance Assessment (Primary 1 to 6)**  
-The Math Performance Assessment (MPA) is an assessment to monitor their progress and understanding. From these Formative Assessments (hands-on or written), teachers are able to clarify pupils’ misconceptions and close the learning gaps.    
-
-**Learning Support for Mathematics : LSM (Primary 1 and** **2)**  
-This programme supports the Lower Primary pupils who have some difficulty in basic numeracy skills. Pupils at P1 are identified through the School Readiness Test. Smaller sized classes are conducted to help these pupils leverage on their learning through hands-on experiences using varied activities.
+<h1><strong>MATHEMATICS</strong></h1>
+<h3>PROGRAMME HIGHLIGHTS</h3>
+<h5>OUR CURRICULUM</h5>
+<p>Acquiring fundamental numeracy skills in primary education establishes
+a solid foundation, equipping students with essential skills for everyday
+life and preparing them for advanced mathematical learning. This stage
+is crucial in building students’ confidence and interest in the subject,
+influencing their overall attitudes towards mathematics. In Montfort Junior
+School, we are dedicated to nurturing critical thinking, logical reasoning,
+effective communication, practical application, and metacognitive skills
+through a structured approach to problem-solving.</p>
+<h5>MATHEMATICS@MJS</h5>
+<p>Students explore concepts and skills through fun and engaging learning
+experiences – (a) activity-based, (b) digital-based, (c) games-based learning
+and (d) MSTEA_Math_ @MJS</p>
+<p>(a) Activity-based learning experiences</p>
+<p>Students learn concepts and skills through exploration, hands-on activities,
+and collaborative discussions.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>(b) Digital-based learning</p>
+<p>Promote logical and critical thinking skills and exploration of concepts
+through the use of digital tools such as Sphero and Ozobot.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_6.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>(c) Game-based learning</p>
+<p>Inject fun while students learn and apply concepts through play with Active
+Floor and Breakout Edu</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_9.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>(d) MSTEA<em>Math</em> @MJS</p>
+<p>This programme aims to promote critical and creative thinking skills and
+empowering learners to explore innovative strategies to overcome challenges
+posed in tasks, games and competitions.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_10.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MA_11.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
