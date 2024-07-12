@@ -7,8 +7,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2024/Header_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Open House 2024/1___Divider.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2024/1___Divider.jpg">
 </div>
 <p><strong><u>PROGRAMME HIGHLIGHTS</u></strong>
 </p>
@@ -32,6 +33,10 @@ description: ""
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2024/3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2024/1___Divider.jpg">
 </div>
 <p><strong><u>2024 PRIMARY 1 REGISTRATION LINKS</u></strong>
 <br><strong>Primary 1 Registration</strong>
