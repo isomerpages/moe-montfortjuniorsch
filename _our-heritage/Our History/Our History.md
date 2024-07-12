@@ -390,6 +390,52 @@ was launched on Monday, 16 September 2019.
 15 December 2019.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020 -</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Wee Boon was appointed Vice Principal (Academic) with effect from
+15 December 2020.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 -</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Victor Tan was appointed Principal with effect from 15 December 2022.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 -</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The MJS Heritage Corner ‘Lim Ah Pin Road (6 milestone) - Familiar Landmark
+in Hougang’ was officially opened on 30 March 2023 by Mr Larry Lim, an
+alumnus and grandson of Mr Lim Ah Pin. This project was supported by National
+Heritage Board.</p>
+<p>&nbsp;</p>
+<p>Montfort celebrated the 350th anniversary of the birth of Our Founder,
+St Louis Marie de Montfort with a Dedication Of The School Year Mass together
+with all the MGEI on Friday, 27 January 2023.&nbsp; This was celebrated
+by His Eminence, William Cardinal Goh from the Class of 1975.</p>
+<p>&nbsp;</p>
+<p>The blessing of Montfort Chapel took place on 28 April 2023 which was
+the Feast Of St Louis Marie de Montfort. Rev Msgr James Yeo (Class of 1976)
+blessed Montfort Chapel with a Eucharistic Celebration.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 -</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In developing young Montfortians to continue to adopt a Maker mind, further
+programmes and activities, including lessons at the Tinkershop was launched.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
