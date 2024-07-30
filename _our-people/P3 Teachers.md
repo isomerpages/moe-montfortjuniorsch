@@ -43,17 +43,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sam Liting</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Sam_Liting@schools.gov.sg</a>
-</p>
-<p>3 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Wan Joo</p>
 <p><a href="mailto:tan_wan_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_joo@schools.gov.sg</a>
 </p>
