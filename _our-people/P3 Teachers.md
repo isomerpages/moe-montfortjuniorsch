@@ -76,17 +76,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chermin Tiong</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Tiong_Xin_Ting_Chermin@schools.gov.sg</a>
-</p>
-<p>3 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Lau Kee Haw</p>
 <p><a href="mailto:lau_kee_haw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kee_haw@schools.gov.sg</a>
 </p>
