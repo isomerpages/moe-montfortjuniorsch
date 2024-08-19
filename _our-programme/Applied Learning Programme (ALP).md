@@ -2,28 +2,36 @@
 title: Applied Learning Programme (ALP)
 permalink: /our-programme/applied-learning-programme-alp/
 description: ""
+variant: markdown
 ---
 # **APPLIED LEARNING PROGRAMME (ALP)**
+**Welcome to Maker Education @ MJS**
 
-Anchoring on a Future Centric, Values Centric and Boys Centric education, Montfort Junior School (MJS) has identified ourselves with Maker Education as our primary Applied Learning Programme (ALP).   
+At Montfort Junior School, we believe in the power of hands-on learning. Our Maker Education programme is designed to foster creativity, resilience, and critical thinking through a variety of engaging projects and activities.
+![](/images/ALP/ALP_1.jpg)
 
-In our Maker Education, we integrate and infuse elements of Making into the core Teaching and Learning of lessons and provide opportunities to extend learning to outside curriculum time. These activities allow students to acquire emerging technological content while developing 21st cc competencies. Our CHRISTE values and these competencies, embody the desired vision/mission of our Montfort Education - to nuture(groom) a man for others.   
+![](/images/ALP/ALP_8.jpg)
 
-MJS was instituted Zonal Lead school for North Zone Primary School by ETD, MOE in 2019, providing additional resources for MJS to enhance Maker Education@MJS.   
+**Approach to Maker Education @ MJS**
 
-Structured Programmes: 
+The Maker Education approach at MJS is built on the MJS Maker Curriculum, which is grounded in the Gradual Release of Responsibility (GRR) and Explicit Direct Instruction (EDI) models, enhanced by the integration of technology. It emphasizes hands-on, experiential learning through a "Learn-by-Doing" methodology, aiming to develop 21st Century Competencies by preparing students to be creators, connectors, and contributors in real-world contexts. Assessment for Learning is guided by the use of RIF data to inform and refine assessment strategies.
+![](/images/ALP/ALP_2.jpg)
 
-* Construction with Strawbees 
-* Design Thinking and Cardboard Modeling 
-* Design Thinking and Makey Makey Integrated Music Making 
-* Interactive Microbit Coded Artwork   
+**Recess Activities**:
 
-  
+**Term 2**: Use of Strawbees and Straws to foster creativity.
+![](/images/ALP/ALP_3.jpg)
+**Term 3**: Develop motor skills through STEM Science Kits assembly.
+![](/images/ALP/ALP_4.jpg)
+**STEAM Programme** in term 3
 
-Unstructured Play: 
+**P3**: AR/VR, 3D Pen, and Makey Makey.
+![](/images/ALP/ALP_5.jpg)
 
-Thematic Recess Play@Tinkershop     
-Lego room recess      
-Play Marble machine recess Play
+![](/images/ALP/ALP_6.jpg)
+**P4**: Toy Making and Makey Makey.
+![](/images/ALP/ALP_7.jpg)
+**P5**: 3D Printing and Bernina Functional Art.
+![](/images/ALP/ALP_9.jpg)
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Lego%20room%20activity%201.jpg" alt="Lego room activity 1.JPG" width="60"></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Lego%20room%20activity%202.jpg" alt="Lego room activity 2.JPG" width="60"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Marble%20machine%201.jpg" alt="Marble machine 1.JPG" width="60"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Marble%20machine%202.jpg" alt="Marble machine 2.JPG" width="60"></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> <img src="/images/tinkershop%20recess%20activity%202.jpg" alt="tinkershop recess activity 2.JPG" width="60"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#444;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> <img src="/images/tinkershop%20recess%20activity1.jpg" alt="tinkershop recess activity1.JPG" width="60"></td></tr></tbody></table>
+![](/images/ALP/ALP_10.jpg)
