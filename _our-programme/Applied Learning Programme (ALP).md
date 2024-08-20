@@ -13,7 +13,7 @@ At Montfort Junior School, we believe in the power of hands-on learning. Our Mak
 **Approach to Maker Education @ MJS**
 
 The Maker Education approach at MJS is built on the MJS Maker Curriculum, which is grounded in the Gradual Release of Responsibility (GRR) and Explicit Direct Instruction (EDI) models, enhanced by the integration of technology. It emphasizes hands-on, experiential learning through a "Learn-by-Doing" methodology, aiming to develop 21st Century Competencies by preparing students to be creators, connectors, and contributors in real-world contexts. Assessment for Learning is guided by the use of RIF data to inform and refine assessment strategies.
-![](/images/ALP/ALP_2.jpg)
+![](/images/ALP/ALP_11.jpg)
 
 **Recess Activities**:
 
