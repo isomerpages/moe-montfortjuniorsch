@@ -4,5 +4,5 @@ permalink: /announcements/termletter/
 description: ""
 variant: tiptap
 ---
-<p><a href="/files/Semester 2 2024/2024_Term_3_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 letter</a>
+<p><a href="/files/Term Letters/2024/2024_Term_4_Letter.pdf" rel="noopener nofollow" target="_blank">Term 4 letter</a>
 </p>
