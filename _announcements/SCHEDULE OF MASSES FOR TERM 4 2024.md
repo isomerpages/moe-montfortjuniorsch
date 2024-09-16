@@ -26,6 +26,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE (Whole of P6)</p>
+<p>For Parents only - Rosary &amp; Intercessory Prayers for P6 Students</p>
+<p>Venue: Montfort Chapel</p>
+<p>Time: 8:45 - 9:15 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -34,6 +37,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>EOY Exams</p>
+<p>Venue: Montfort Chapel</p>
+<p>Time: 7:00 - 7:40 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -42,6 +47,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>All Saints Day</p>
+<p>Venue: Montfort Chapel</p>
+<p>Time: 7:00 - 8:00 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +56,9 @@ description: ""
 <p>12 Nov (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thanksgiving</p>
+<p>Thanksgiving mass</p>
+<p>Venue: School Hall</p>
+<p>Time: 7:40 - 8:40 a.m.</p>
 </td>
 </tr>
 </tbody>
