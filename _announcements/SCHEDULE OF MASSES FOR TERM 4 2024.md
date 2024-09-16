@@ -22,46 +22,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Jul (Wed)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Wednesday / Feast of St Thomas</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 Jul (Wed)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Third Wednesday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Aug (Tue)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Transfiguration of the Lord</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 Aug (Thu)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assumption of BVM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 Aug (Thu)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers’ Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>18 Sep (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
