@@ -1,5 +1,5 @@
 ---
-title: SCHEDULE OF MASSES FOR TERM 3&4 2024
+title: SCHEDULE OF MASSES FOR TERM 4 2024
 permalink: /montfort-junior-school-schedule-of-masses-for-term-3-4-2024/
 variant: tiptap
 description: ""
@@ -22,50 +22,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Jul (Wed)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Wednesday / Feast of St Thomas</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 Jul (Wed)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Third Wednesday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Aug (Tue)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Transfiguration of the Lord</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 Aug (Thu)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assumption of BVM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 Aug (Thu)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers’ Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>18 Sep (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE (Whole of P6)</p>
+<p>For Parents only - Rosary &amp; Intercessory Prayers for P6 Students</p>
+<p>Venue: Montfort Chapel</p>
+<p>Time: 8:45 - 9:15 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -74,6 +37,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>EOY Exams</p>
+<p>Venue: Montfort Chapel</p>
+<p>Time: 7:00 - 7:40 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -82,6 +47,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>All Saints Day</p>
+<p>Venue: Montfort Chapel</p>
+<p>Time: 7:00 - 8:00 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +56,9 @@ description: ""
 <p>12 Nov (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thanksgiving</p>
+<p>Thanksgiving mass</p>
+<p>Venue: School Hall</p>
+<p>Time: 7:40 - 8:40 a.m.</p>
 </td>
 </tr>
 </tbody>
