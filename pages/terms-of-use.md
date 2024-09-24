@@ -19,7 +19,7 @@ Thank you for visiting https://www.montfortjunior.moe.edu.sg/. By accessing and 
 
 **Privacy Policy**
 
-5\. Click here to review this Web Site Privacy Statement.
+5\. Click [here](https://montfortjunior.moe.edu.sg/privacy/) to review this Web Site Privacy Statement.
 
 **Restrictions on Use of Materials**
 
