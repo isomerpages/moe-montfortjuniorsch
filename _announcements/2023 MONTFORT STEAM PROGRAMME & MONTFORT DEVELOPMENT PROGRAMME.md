@@ -1,7 +1,8 @@
 ---
 title: 2023 MONTFORT STEAM PROGRAMME & MONTFORT DEVELOPMENT PROGRAMME
-permalink: /announcements/2023MONTFORTSTEAMPROGRAMMEMONTFORTDEVELOPMENTPROGRAMME/
+permalink: /announcements/2023montfortsteamprogrammemontfortdevelopmentprogramme/
 description: ""
+variant: tiptap
 ---
 [Information Sheet](/files/MSP%20Information%20Sheet%20for%20Parents%202023.pdf)
 
