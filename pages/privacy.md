@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 variant: markdown
 ---
-# **PRIVACY POLICY**
+# **PRIVACY STATEMENT**
 
 **MONTFORT JUNIOR SCHOOL PRIVACY STATEMENT**
 
