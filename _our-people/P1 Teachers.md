@@ -42,17 +42,6 @@ process.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Tian Heng Evelyn
-<br><a href="mailto:ng_tian_heng_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tian_heng_evelyn@schools.gov.sg</a> 
-<br>1 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>It is the attitude, not the aptitude, which determines your altitude in
-life.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Muhd Taufiq
 <br><a href="mailto:muhammad_taufiq_adam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_taufiq_adam@schools.gov.sg</a> 
 <br>1 Humility</p>
