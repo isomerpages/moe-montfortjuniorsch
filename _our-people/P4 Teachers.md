@@ -38,17 +38,8 @@ variant: tiptap
 <p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Xu Junhui</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Xu_Junhui@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>A thousand candles can be lighted from the flame of one candle. Take the
+lead, spread the light. A man for others.</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +50,7 @@ variant: tiptap
 <p>4 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Help me help you.</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +83,8 @@ variant: tiptap
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The quintessence of education is nurturing individuals, not just imparting
+knowledge.</p>
 </td>
 </tr>
 </tbody>

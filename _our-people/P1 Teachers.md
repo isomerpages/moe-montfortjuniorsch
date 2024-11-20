@@ -21,16 +21,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Wei Xuan</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Sim_Wei_Xuan@schools.gov.sg</a>
-<br>1 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Chen Jiaying
 <br><a href="mailto:chen_jiaying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jiaying@schools.gov.sg</a> 
 <br>1 Compassion</p>
@@ -38,17 +28,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Allow students to see the mistakes and imperfection as part of the learning
 process.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ng Tian Heng Evelyn
-<br><a href="mailto:ng_tian_heng_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tian_heng_evelyn@schools.gov.sg</a> 
-<br>1 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>It is the attitude, not the aptitude, which determines your altitude in
-life.</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +48,7 @@ it.</p>
 <br>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Education is learning what you didn’t even know you didn’t know.</p>
 </td>
 </tr>
 <tr>

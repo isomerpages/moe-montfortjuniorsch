@@ -11,11 +11,8 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/newsletter2023/
+          url: /announcements/termletter/
         - title: Highlights
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
-        - title: Open House
-          description: ""
-          url: https://montfortjunior.moe.edu.sg/open-house/
 ---

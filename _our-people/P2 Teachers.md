@@ -21,17 +21,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yao Yadan</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">yao_yadan@schools.gov.sg</a>
-</p>
-<p>2 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Poongodi d/o Chinniah</p>
 <p><a href="mailto:poongodi_chinniah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poongodi_chinniah@schools.gov.sg</a>
 </p>
@@ -50,19 +39,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Think positive, stay positive.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Vincent Lee</p>
-<p><a href="mailto:lee_kar_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kar_leong@schools.gov.sg</a>
-</p>
-<p>2 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>I prioritize authentic learning situations where students learn through
-solving real-world problems and technology as a ‘cognitive tool’ to extend
-their thinking.</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +83,7 @@ the effort.</p>
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Every moment is a new beginning.</p>
 </td>
 </tr>
 <tr>
