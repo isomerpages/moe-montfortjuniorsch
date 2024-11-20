@@ -73,18 +73,8 @@ and the good of others.</p>
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Fu Yuwen</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Fu_Yuwen@schools.gov.sg</a>
-</p>
-<p>5 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Every child wants to succeed and make a better life for themselves, and
+I will help them along their journey.</p>
 </td>
 </tr>
 <tr>
