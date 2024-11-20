@@ -43,19 +43,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Lee</p>
-<p><a href="mailto:lee_kar_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kar_leong@schools.gov.sg</a>
-</p>
-<p>2 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>I prioritize authentic learning situations where students learn through
-solving real-world problems and technology as a ‘cognitive tool’ to extend
-their thinking.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Mary Heng</p>
 <p><a href="mailto:kheng_mary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kheng_mary@schools.gov.sg</a>
 </p>
