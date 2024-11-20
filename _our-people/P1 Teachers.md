@@ -48,7 +48,7 @@ it.</p>
 <br>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Education is learning what you didn’t even know you didn’t know.</p>
 </td>
 </tr>
 <tr>
