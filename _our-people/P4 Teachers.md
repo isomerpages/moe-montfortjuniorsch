@@ -43,16 +43,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Xu Junhui</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Xu_Junhui@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Samsina Herbert</p>
 <p><a href="mailto:samsina_herbert@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samsina_herbert@schools.gov.sg</a>
 </p>
