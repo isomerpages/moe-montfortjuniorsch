@@ -21,17 +21,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yao Yadan</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">yao_yadan@schools.gov.sg</a>
-</p>
-<p>2 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Poongodi d/o Chinniah</p>
 <p><a href="mailto:poongodi_chinniah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poongodi_chinniah@schools.gov.sg</a>
 </p>
