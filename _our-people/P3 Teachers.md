@@ -71,7 +71,7 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Take every challenge as a learning experience!</p>
 </td>
 </tr>
 <tr>
