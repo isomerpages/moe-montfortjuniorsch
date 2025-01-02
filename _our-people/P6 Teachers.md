@@ -95,9 +95,9 @@ knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Miaw Fen</p>
-<p></p>
-<p>6 Integrity</p>
+<p>Ms Tan Miaw Fen
+<br><a href="mailto:tan_miaw_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_miaw_fen@schools.gov.sg</a>
+<br>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
