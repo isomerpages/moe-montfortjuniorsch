@@ -91,8 +91,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Ashiq Bin Muhd Issa</p>
-<p>
+<p>Mr Muhd Ashiq Bin Muhd Issa
+<br><a href="mailto:Muhammad_Ashiq_Muhammad_Issa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Ashiq_Muhammad_Issa@schools.gov.sg</a>
 <br>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
