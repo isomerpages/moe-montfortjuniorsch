@@ -43,7 +43,22 @@ process.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhd Taufiq Bin Adam</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_taufiq_adam@schools.gov.sg</a>
+</p>
+<p>2 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be Kind, for whenever kindness becomes part of something, it Beautifies
+it.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Chor Hiang</p>
+<p><a href="mailto:tan_chor_hiang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chor_hiang_a@schools.gov.sg</a>
+</p>
+<p>2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -51,7 +66,32 @@ process.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Yi Ying Bettina</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yi_ying_bettina@schools.gov.sg</a>
+</p>
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education is learning what you didn’t even know you didn’t know.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yuying</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_yu_ying@schools.gov.sg</a>
+</p>
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning is a journey, not a destination.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Ee Ling</p>
+<p><a href="mailto:koh_ee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ee_ling@schools.gov.sg</a>
+</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -59,31 +99,33 @@ process.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Chun Leng</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chen_junlong@schools.gov.sg</a>
+</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Education is the key to success.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Yanasagaran Chetra Devi</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yanasagaran_chetra_devi@schools.gov.sg</a>
+</p>
+<p>2 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Never stop sharing, caring &amp; helping others because it makes our life
+more meaningful.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Maheswari D/O Ramachandran</p>
+<p><a href="mailto:maheswari_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maheswari_ramachandran@schools.gov.sg</a>
+</p>
+<p>2 Service</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
