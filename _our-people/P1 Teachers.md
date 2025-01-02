@@ -21,8 +21,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Kui Teng</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_kui_teng@schools.gov.sg</a> 
+<p>Ms Koh Kui Teng
+<br><a rel="noopener noreferrer nofollow" target="_blank">koh_kui_teng@schools.gov.sg</a> 
 <br>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,8 +44,7 @@ the effort.</p>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan-Tay Pei Long
 <br><a href="mailto:tay_pei_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_pei_long@schools.gov.sg</a>
-</p>
-<p>1 Humility</p>
+<br>1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -55,8 +54,7 @@ the effort.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Corrine Fong Tze Yuen
 <br><a href="mailto:corrine_fong_tze_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">corrine_fong_tze_yuen@schools.gov.sg</a>
-</p>
-<p>1 Humility</p>
+<br>1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -64,10 +62,9 @@ the effort.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Charlotte Lim Xin Pei</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Charlotte_Lim_Xin_Pei@schools.gov.sg</a>
-</p>
-<p>1 Respect</p>
+<p>Ms Charlotte Lim Xin Pei
+<br><a rel="noopener noreferrer nofollow" target="_blank">Charlotte_Lim_Xin_Pei@schools.gov.sg</a>
+<br>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Every moment is a new beginning.</p>
@@ -85,10 +82,9 @@ the effort.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Amin Bin Mokhtar</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_amin_mokhtar@schools.gov.sg</a>
-</p>
-<p>1 Integrity</p>
+<p>Mr Muhd Amin Bin Mokhtar
+<br><a rel="noopener noreferrer nofollow" target="_blank">muhammad_amin_mokhtar@schools.gov.sg</a>
+<br>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Every child wants to succeed and make a better life for themselves, and
@@ -97,10 +93,9 @@ I will help them along their journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Mary Heng</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">kheng_mary@schools.gov.sg</a>
-</p>
-<p>1 Integrity</p>
+<p>Mrs Mary Heng
+<br><a rel="noopener noreferrer nofollow" target="_blank">kheng_mary@schools.gov.sg</a>
+<br>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Minds are like parachutes, they function best when open.</p>
@@ -108,10 +103,9 @@ I will help them along their journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mastura Bte Abdul Samad</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">mastura_abdul_samad@schools.gov.sg</a>
-</p>
-<p>1 Service</p>
+<p>Mdm Mastura Bte Abdul Samad
+<br><a rel="noopener noreferrer nofollow" target="_blank">mastura_abdul_samad@schools.gov.sg</a>
+<br>1 Service</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>It always seems impossible until it is done.</p>
@@ -119,10 +113,9 @@ I will help them along their journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ellen Chung</p>
-<p><a href="mailto:chung_mui_ling_ellen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_mui_ling_ellen@schools.gov.sg</a>
-</p>
-<p>1 Service</p>
+<p>Ms Ellen Chung
+<br><a href="mailto:chung_mui_ling_ellen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_mui_ling_ellen@schools.gov.sg</a>
+<br>1 Service</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
