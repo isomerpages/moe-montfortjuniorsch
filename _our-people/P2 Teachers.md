@@ -21,9 +21,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Shobhana Vijaykumar</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">shobhana_vijayakumar@schools.gov.sg</a>&gt;</p>
-<p>2 Compassion</p>
+<p>Mrs Shobhana Vijaykumar
+<br><a rel="noopener noreferrer nofollow" target="_blank">shobhana_vijayakumar@schools.gov.sg</a>
+<br>2 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -31,10 +31,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Jiaying</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">chen_jiaying@schools.gov.sg</a>
-</p>
-<p>2 Compassion</p>
+<p>Ms Chen Jiaying
+<br><a rel="noopener noreferrer nofollow" target="_blank">chen_jiaying@schools.gov.sg</a>
+<br>2 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Allow students to see the mistakes and imperfection as part of the learning
@@ -43,10 +42,9 @@ process.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Taufiq Bin Adam</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_taufiq_adam@schools.gov.sg</a>
-</p>
-<p>2 Humility</p>
+<p>Mr Muhd Taufiq Bin Adam
+<br><a rel="noopener noreferrer nofollow" target="_blank">muhammad_taufiq_adam@schools.gov.sg</a>
+<br>2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Be Kind, for whenever kindness becomes part of something, it Beautifies
@@ -55,10 +53,9 @@ it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Chor Hiang</p>
-<p><a href="mailto:tan_chor_hiang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chor_hiang_a@schools.gov.sg</a>
-</p>
-<p>2 Humility</p>
+<p>Mdm Tan Chor Hiang
+<br><a href="mailto:tan_chor_hiang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chor_hiang_a@schools.gov.sg</a>
+<br>2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -66,10 +63,9 @@ it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yi Ying Bettina</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yi_ying_bettina@schools.gov.sg</a>
-</p>
-<p>2 Respect</p>
+<p>Ms Tan Yi Ying Bettina
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_yi_ying_bettina@schools.gov.sg</a>
+<br>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education is learning what you didn’t even know you didn’t know.</p>
@@ -77,10 +73,9 @@ it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yuying</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_yu_ying@schools.gov.sg</a>
-</p>
-<p>2 Respect</p>
+<p>Ms Lee Yuying
+<br><a rel="noopener noreferrer nofollow" target="_blank">lee_yu_ying@schools.gov.sg</a>
+<br>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning is a journey, not a destination.</p>
@@ -88,10 +83,9 @@ it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Ee Ling</p>
-<p><a href="mailto:koh_ee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ee_ling@schools.gov.sg</a>
-</p>
-<p>2 Integrity</p>
+<p>Mdm Koh Ee Ling
+<br><a href="mailto:koh_ee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ee_ling@schools.gov.sg</a>
+<br>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -99,10 +93,9 @@ it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chun Leng</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">chen_junlong@schools.gov.sg</a>
-</p>
-<p>2 Integrity</p>
+<p>Mr Tan Chun Leng
+<br><a rel="noopener noreferrer nofollow" target="_blank">chen_junlong@schools.gov.sg</a>
+<br>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education is the key to success.</p>
@@ -110,10 +103,9 @@ it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yanasagaran Chetra Devi</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">yanasagaran_chetra_devi@schools.gov.sg</a>
-</p>
-<p>2 Service</p>
+<p>Mdm Yanasagaran Chetra Devi
+<br><a rel="noopener noreferrer nofollow" target="_blank">yanasagaran_chetra_devi@schools.gov.sg</a>
+<br>2 Service</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Never stop sharing, caring &amp; helping others because it makes our life
@@ -122,10 +114,9 @@ more meaningful.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maheswari D/O Ramachandran</p>
-<p><a href="mailto:maheswari_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maheswari_ramachandran@schools.gov.sg</a>
-</p>
-<p>2 Service</p>
+<p>Mdm Maheswari D/O Ramachandran
+<br><a href="mailto:maheswari_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maheswari_ramachandran@schools.gov.sg</a>
+<br>2 Service</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
