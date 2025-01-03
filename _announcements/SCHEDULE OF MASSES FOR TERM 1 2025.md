@@ -111,3 +111,7 @@ Principal at PAL room from 9.00 am to 10.15 am</p>
 scanning the QR code below or on <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mjscatholic</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mass_QR_Term_1.jpg">
+</div>
+<p></p>
