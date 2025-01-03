@@ -110,3 +110,4 @@ Principal at PAL room from 9.00 am to 10.15 am</p>
 <p>Interested parents may register your interest to attend mass with us by
 scanning the QR code below or on <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mjscatholic</a>
 </p>
+<p></p>
