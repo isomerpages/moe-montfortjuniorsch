@@ -21,85 +21,104 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Chen Jiaying
-<br><a href="mailto:chen_jiaying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jiaying@schools.gov.sg</a> 
+<p>Ms Koh Kui Teng
+<br><a rel="noopener noreferrer nofollow" target="_blank">koh_kui_teng@schools.gov.sg</a> 
 <br>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allow students to see the mistakes and imperfection as part of the learning
-process.</p>
+<p>Think positive, stay positive.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Taufiq
-<br><a href="mailto:muhammad_taufiq_adam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_taufiq_adam@schools.gov.sg</a> 
+<p>Mr Zailee Ramli
+<br><a rel="noopener noreferrer nofollow" target="_blank">zailee_ramli@schools.gov.sg</a>
+<br>1 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The process in achieving education is tedious but the product is well-worth
+the effort.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan-Tay Pei Long
+<br><a href="mailto:tay_pei_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_pei_long@schools.gov.sg</a>
 <br>1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Be Kind, for whenever kindness becomes part of something, it Beautifies
-it.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Bettina Tan
-<br><a href="mailto:tan_yi_ying_bettina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_ying_bettina@schools.gov.sg</a>
+<p>Mdm Corrine Fong Tze Yuen
+<br><a href="mailto:corrine_fong_tze_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">corrine_fong_tze_yuen@schools.gov.sg</a>
+<br>1 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Charlotte Lim Xin Pei
+<br><a rel="noopener noreferrer nofollow" target="_blank">Charlotte_Lim_Xin_Pei@schools.gov.sg</a>
 <br>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Education is learning what you didn’t even know you didn’t know.</p>
+<p>Every moment is a new beginning.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Yu Ying
-<br><a href="mailto:lee_yu_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_ying@schools.gov.sg</a> 
+<p>Ms Hii Xixin Amanda
+<br><a rel="noopener noreferrer nofollow" target="_blank">hii_xixin_amanda@schools.gov.sg</a>
 <br>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning is a journey, not a destination.</p>
+<p>Whatever you do, just do it well.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chun Leng
-<br><a href="mailto:chen_junlong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_junlong@schools.gov.sg</a> 
+<p>Mr Muhd Amin Bin Mokhtar
+<br><a rel="noopener noreferrer nofollow" target="_blank">muhammad_amin_mokhtar@schools.gov.sg</a>
 <br>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Education is the key to success.</p>
+<p>Every child wants to succeed and make a better life for themselves, and
+I will help them along their journey.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suguna Bai
-<br><a href="mailto:suguna_bai_balasundaram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suguna_bai_balasundaram@schools.gov.sg</a>
+<p>Mrs Mary Heng
+<br><a rel="noopener noreferrer nofollow" target="_blank">kheng_mary@schools.gov.sg</a>
 <br>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>We learn from failure, not from success.</p>
+<p>Minds are like parachutes, they function best when open.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teow Wen Yan
-<br><a href="mailto:teow_wen_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teow_wen_yan@schools.gov.sg</a> 
+<p>Mdm Mastura Bte Abdul Samad
+<br><a rel="noopener noreferrer nofollow" target="_blank">mastura_abdul_samad@schools.gov.sg</a>
 <br>1 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Let all that you do be done in love.</p>
+<p>It always seems impossible until it is done.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chetra Yanasagaran
-<br><a href="mailto:yanasagaran_chetra_devi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yanasagaran_chetra_devi@schools.gov.sg</a> 
+<p>Ms Ellen Chung
+<br><a href="mailto:chung_mui_ling_ellen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_mui_ling_ellen@schools.gov.sg</a>
 <br>1 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Never stop sharing, caring &amp; helping others because it makes our life
-more meaningful.</p>
+<p></p>
 </td>
 </tr>
 </tbody>

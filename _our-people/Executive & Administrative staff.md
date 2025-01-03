@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>EXECUTIVE &amp; ADMINISTRATIVE STAFF</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -85,14 +89,6 @@ going to stay where you are.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>It takes a village to raise a child.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Toh Geok Hong (Irene)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Do my utmost best in whatever I do.</p>
 </td>
 </tr>
 <tr>

@@ -21,10 +21,69 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Loo Sin</p>
-<p><a href="mailto:tan_loo_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_loo_sin@schools.gov.sg</a>
-</p>
-<p>4 Compassion</p>
+<p>Mr Low Tong Patrick
+<br><a rel="noopener noreferrer nofollow" target="_blank">low_tong@schools.gov.sg</a>
+<br>4 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Choo Xue Er Danica
+<br><a href="mailto:choo_xue_er_danica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_xue_er_danica@schools.gov.sg</a>
+<br>4 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cao Yexin
+<br><a rel="noopener noreferrer nofollow" target="_blank">Cao_Yexin@schools.gov.sg</a>
+<br>4 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not knowing is not failure, it’s the first step to understanding.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Francis Jude Yam
+<br><a href="mailto:yam_hai_sun_francis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yam_hai_sun_francis@schools.gov.sg</a>
+<br>4 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Shan Shan Serene
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_shan_shan_serene@schools.gov.sg</a>
+<br>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Take every challenge as a learning experience!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Soo Huat John
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_soo_huat@schools.gov.sg</a>
+<br>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Loo Sin
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_loo_sin@schools.gov.sg</a>
+<br>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our greatest glory is not in never falling but in rising after every fall.</p>
@@ -32,59 +91,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Prema D/O Rajoo</p>
-<p><a href="mailto:PREMA_RAJOO_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PREMA_RAJOO_A@schools.gov.sg</a>
-</p>
-<p>4 Compassion</p>
+<p>Mr Muhd Ashiq Bin Muhd Issa
+<br><a href="mailto:Muhammad_Ashiq_Muhammad_Issa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Ashiq_Muhammad_Issa@schools.gov.sg</a>
+<br>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A thousand candles can be lighted from the flame of one candle. Take the
-lead, spread the light. A man for others.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Samsina Herbert</p>
-<p><a href="mailto:samsina_herbert@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samsina_herbert@schools.gov.sg</a>
-</p>
-<p>4 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Help me help you.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kamariah Bte Atan</p>
-<p><a href="mailto:kamariah_atan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamariah_atan@schools.gov.sg</a>
-</p>
-<p>4 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Educating the mind without educating the heart is no education at all.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sim Ai Koon</p>
-<p><a href="mailto:sim_ai_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_ai_koon@schools.gov.sg</a>
-</p>
-<p>4 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Believe in yourself.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Isaac Low Qiao Meng</p>
-<p><a href="mailto:Low_Qiao_Meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Qiao_Meng@schools.gov.sg</a>
-</p>
-<p>4 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The quintessence of education is nurturing individuals, not just imparting
-knowledge.</p>
+<p></p>
 </td>
 </tr>
 </tbody>

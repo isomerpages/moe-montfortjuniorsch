@@ -21,56 +21,51 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Amy Khoo</p>
-<p><a href="mailto:koh_aik_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_aik_hoon@schools.gov.sg</a>
-</p>
-<p>6 Compassion</p>
+<p>Mr Ignatius Lee Xiang-Minn
+<br><a rel="noopener noreferrer nofollow" target="_blank">ignatius_lee_xiang-minn@schools.gov.sg</a>
+<br>6 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Faith in God means trusting his timing too.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Shu Hui Jasmine</p>
-<p><a href="mailto:lim_shu_hui_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shu_hui_jasmine@schools.gov.sg</a>
-</p>
-<p>6 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Success is not final, failure is not fatal: It is the courage to continue
-that counts.</p>
-<p></p>
+<p>Do small things with great love.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong Zhi Wei, Amanda</p>
-<p><a href="mailto:wong_zhi_wei_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_zhi_wei_amanda@schools.gov.sg</a>
-</p>
-<p>6 Humility</p>
+<p>Ms Serene Han Tui Kin
+<br><a rel="noopener noreferrer nofollow" target="_blank">serene_han_tui_kin@schools.gov.sg</a>
+<br>6 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Chong Gee</p>
-<p><a href="mailto:ng_chong_gee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chong_gee@schools.gov.sg</a>
-</p>
-<p>6 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>If you want rainbow, you will have to put up with the rain.</p>
+<p>Things which matter most must never be at the mercy of things which matter
+least.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Ng</p>
-<p><a href="mailto:ng_yong_chiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_chiang@schools.gov.sg</a>
-</p>
-<p>6 Respect</p>
+<p>Mr Lee Boon Haw Charles
+<br><a rel="noopener noreferrer nofollow" target="_blank">lee_boon_haw@schools.gov.sg</a>
+<br>6 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Together, we engage and empower every Montfortian, for the growth of self
+and the good of others.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xenia Chan Yi Qian
+<br><a rel="noopener noreferrer nofollow" target="_blank">Xenia_Chan_Yi_Qian@schools.gov.sg</a>
+<br>6 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All growth starts at the end of your comfort zone.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Yong Chiang Alvin
+<br><a rel="noopener noreferrer nofollow" target="_blank">ng_yong_chiang@schools.gov.sg</a>
+<br>6 Respect</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,32 +74,30 @@ that counts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Sze Wei Carrissa</p>
-<p><a href="mailto:Tay_Sze_Wei_Carrissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tay_Sze_Wei_Carrissa@schools.gov.sg</a>
-</p>
-<p>6 Respect</p>
+<p>Mr Low Qiao Meng Isaac
+<br><a rel="noopener noreferrer nofollow" target="_blank">Low_Qiao_Meng@schools.gov.sg</a>
+<br>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lalita Devi</p>
-<p><a href="mailto:lalita_devi_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lalita_devi_singh@schools.gov.sg</a>
-</p>
-<p>6 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Intelligence plus character- that is the goal of true education.</p>
+<p>The quintessence of education is nurturing individuals, not just imparting
+knowledge.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti</p>
-<p><a href="mailto:siti_muliyanti_ab_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_muliyanti_ab_rahman@schools.gov.sg</a>
-</p>
-<p>6 Integrity</p>
+<p>Mdm Koh Aik Hoon Amy
+<br><a rel="noopener noreferrer nofollow" target="_blank">koh_aik_hoon@schools.gov.sg</a>
+<br>6 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Faith in God means trusting his timing too.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Miaw Fen
+<br><a href="mailto:tan_miaw_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_miaw_fen@schools.gov.sg</a>
+<br>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
