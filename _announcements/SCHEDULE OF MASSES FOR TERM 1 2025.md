@@ -4,61 +4,105 @@ permalink: /montfort-junior-school-schedule-of-masses-for-term-1-2025/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date / Day</strong>
+<p><strong>Date/Day</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Event</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>18 Sep (Wed)</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSLE (Whole of P6)</p>
-<p>For Parents only - Rosary &amp; Intercessory Prayers for P6 Students</p>
-<p>Venue: Montfort Chapel</p>
-<p>Time: 8:45 - 9:15 a.m.</p>
+<p><strong>Time</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Oct (Wed)</p>
+<p>10 Jan (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EOY Exams</p>
-<p>Venue: Montfort Chapel</p>
-<p>Time: 7:00 - 7:40 a.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Nov (Fri)</p>
+<p>Blessing of School Year Mass in School Hall followed by Breakfast with
+Principal at PAL room from 9.00 am to 10.15 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All Saints Day</p>
-<p>Venue: Montfort Chapel</p>
-<p>Time: 7:00 - 8:00 a.m.</p>
+<p>School Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am – 8.40 am</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 Nov (Tue)</p>
+<p>24 Jan (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thanksgiving mass</p>
-<p>Venue: School Hall</p>
-<p>Time: 7:40 - 8:40 a.m.</p>
+<p>Montfortian Dedication of School Year Mass for Catholic students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Church of Immaculate Heart of Mary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 pm – 3.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Feb (Wed)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monthly Mass (First and third Wednesdays of each month)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Montfort Chapel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00 am – 7.40 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Feb (Wed)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monthly Mass (First and third Wednesdays of each month)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Montfort Chapel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00 am – 7.40 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Mar (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ash Wednesday Mass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Montfort Chapel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00 am – 7.40 am</p>
 </td>
 </tr>
 </tbody>
