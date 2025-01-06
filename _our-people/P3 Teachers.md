@@ -21,21 +21,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Patrick Low</p>
-<p><a href="mailto:low_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_tong@schools.gov.sg</a>
-</p>
-<p>3 Compassion</p>
+<p>Ms Jessalyn Lee
+<br><a rel="noopener noreferrer nofollow" target="_blank">lee_li_yun_jessalyn@schools.gov.sg</a>
+<br>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+<p>Education is the kindling of a flame, not the filling of a vessel.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhou Mengyuan</p>
-<p><a href="mailto:zhou_mengyuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_mengyuan@schools.gov.sg</a>
-</p>
-<p>3 Compassion</p>
+<p>Ms Tay Sze Wei Carissa
+<br><a rel="noopener noreferrer nofollow" target="_blank">Tay_Sze_Wei_Carrissa@schools.gov.sg</a>
+<br>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -43,65 +41,59 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Wan Joo</p>
-<p><a href="mailto:tan_wan_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_joo@schools.gov.sg</a>
-</p>
-<p>3 Humility</p>
+<p>Ms Sim Ai Koon
+<br><a rel="noopener noreferrer nofollow" target="_blank">sim_ai_koon@schools.gov.sg</a>
+<br>3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every child is a star, we shall inspire them to shine up high!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cao Yexin</p>
-<p><a href="mailto:Cao_Yexin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cao_Yexin@schools.gov.sg</a>
-</p>
-<p>3 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Not knowing is not failure, it’s the first step to understanding.</p>
+<p>Believe in yourself.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Serene Tan Shan Shan</p>
-<p><a href="mailto:tan_shan_shan_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shan_shan_serene@schools.gov.sg</a>
-</p>
-<p>3 Respect</p>
+<p>Ms Bak Wai Leng
+<br><a href="mailto:Bak_Wai_Leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Bak_Wai_Leng@schools.gov.sg</a>
+<br>3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Take every challenge as a learning experience!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lau Kee Haw</p>
-<p><a href="mailto:lau_kee_haw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kee_haw@schools.gov.sg</a>
-</p>
-<p>3 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Your network of family and friends is a source of strength and support.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mastura Samad</p>
-<p><a href="mailto:mastura_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mastura_abdul_samad@schools.gov.sg</a>
-</p>
-<p>3 Integrity</p>
+<p>Mdm Amanda Wong Zhi Wei
+<br><a rel="noopener noreferrer nofollow" target="_blank">wong_zhi_wei_amanda@schools.gov.sg</a>
+<br>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>It always seems impossible until it is done.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Soo Huat</p>
-<p><a href="mailto:tan_soo_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_soo_huat@schools.gov.sg</a>
-</p>
-<p>3 Integrity</p>
+<p>Mdm Siti Nur Akashah
+<br><a rel="noopener noreferrer nofollow" target="_blank">siti_nur_akashah_mustaffa@schools.gov.sg</a>
+<br>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tell me and I forget. Teach me and I remember. Involve me and I learn.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lalita Devi Singh
+<br><a rel="noopener noreferrer nofollow" target="_blank">lalita_devi_singh@schools.gov.sg</a>
+<br>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Intelligence plus character- that is the goal of true education.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Erica Cheah Tze Yuen
+<br><a href="mailto:cheah_tze_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_tze_yuen@schools.gov.sg</a>
+<br>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>ALLIED EDUCATORS</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,17 +27,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>People don't care how much you know until they know how much you care.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Karilynn Seah
-<br><a href="mailto:Karilynn_Seah_Xin_Fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Karilynn_Seah_Xin_Fang@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Every child can learn… just not in the same way, at the same pace, or
-in the same place.</p>
 </td>
 </tr>
 <tr>
