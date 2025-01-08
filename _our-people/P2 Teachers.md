@@ -58,7 +58,7 @@ it.</p>
 <br>2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Learning has no limits.</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ it.</p>
 <br>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lifelong learning: Social constructivism in action.</p>
 </td>
 </tr>
 <tr>
