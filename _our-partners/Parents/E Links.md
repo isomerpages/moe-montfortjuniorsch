@@ -29,8 +29,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a> 
-<br><a href="/files/Getting%20started%20with%20SLS%20-%20Annex%20A%20and%20Annex%20B.pdf" rel="noopener noreferrer nofollow" target="_blank">Getting started with SLS - Annex A &amp; B</a> 
-<br><a href="/files/SLS%20Account%20Management%20-%20Guide%20for%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Account Management Guide for Students</a>
+<br><a href="/files/SLS_Account_Management___Guide_for_Students__Pri_.pdf" rel="noopener nofollow" target="_blank">Account Management Guide for Students</a>
 </p>
 </td>
 </tr>
