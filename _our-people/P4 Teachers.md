@@ -96,7 +96,7 @@ variant: tiptap
 <br>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Do not fear failure but rather fear not trying.</p>
 </td>
 </tr>
 </tbody>
