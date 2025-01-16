@@ -74,13 +74,14 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
+<p></p>
 <p><strong>At Montfort Junior School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
-<p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MOE_logo.jpg">
+</div>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
@@ -177,15 +178,16 @@ and how to seek help for themselves and their friends.</p>
 </p>
 <p><strong><br></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MOE_logo.jpg">
+</div>
 <p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Primary 6</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
