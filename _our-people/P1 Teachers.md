@@ -47,7 +47,7 @@ the effort.</p>
 <br>1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kindness is the language which the deaf can hear and the blind can see.</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ I will help them along their journey.</p>
 <br>1 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A sign of wisdom is believing you are limitless, because you are.</p>
 </td>
 </tr>
 </tbody>

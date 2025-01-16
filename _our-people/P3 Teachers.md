@@ -36,7 +36,8 @@ variant: tiptap
 <br>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rejoice always, pray without ceasing ,give thanks in all circumstances.
+1 Thessalonians 5:16-18</p>
 </td>
 </tr>
 <tr>
