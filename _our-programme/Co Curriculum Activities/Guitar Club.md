@@ -196,6 +196,13 @@ schedule will be given anymore.</p>
 (SYF) and Open House.</p>
 <h3>AWARDS/ ACHIEVEMENTS</h3>
 <p>Attained a Certificate of Accomplishment in SYF 2024</p>
+<p></p>
+<h3>CCA EVENTS</h3>
+<p>CCA Selection Day</p>
+<p>Founder’s Day performance</p>
+<p>Open House performance</p>
+<p>Prize Giving Day performance</p>
+<p>SYF</p>
 <h3>Photo Gallery</h3>
 <table style="minWidth: 75px">
 <colgroup>
