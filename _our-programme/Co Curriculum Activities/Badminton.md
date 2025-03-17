@@ -392,8 +392,10 @@ champion of the Tier 1 group.</p>
 <p>Indoor Sports Hall</p>
 <h3>CCA EVENTS</h3>
 <p><strong>National School Games North Zone Tournament</strong>
-<br>Objectives: Students to pit their learned skills against other participants.
-Students to apply the CHRISTE values and practice sportsmanship during
+<br>Objectives:</p>
+<p>Students will showcase their acquired skills by competing against other
+participants.</p>
+<p>Students to apply the CHRISTE values and practice sportsmanship during
 the games.</p>
 <h3>PHOTO GALLERY</h3>
 <table style="minWidth: 75px">
