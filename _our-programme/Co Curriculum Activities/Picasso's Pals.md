@@ -126,43 +126,43 @@ training schedules.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's%20Pals/Frustrated.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/1.jpg">
 </div>
-<p>Cubism exploration sketches</p>
+<p>Picasso’s Pals 2024 Members</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's%20Pals/Mural%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/2.jpg">
 </div>
-<p>La Rochelle - 2022 Mural Painting for St Louis-Marie de Montfort’s canonization</p>
+<p>Space Sculpture Installation</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's%20Pals/Mural%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/3.jpg">
 </div>
-<p>Bois Marquer - 2022 Mural Painting for St Louis-Marie de Montfort’s canonization</p>
+<p>Behind the Scenes - Space Sculpture Installation</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's%20Pals/Nice%20work.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/4.jpg">
 </div>
-<p><strong>Relief Clay Tiles made for St Louis-Marie de Montfort’s Murals</strong>
+<p><strong>3D Pen Project</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's%20Pals/Smiling.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/5.jpg">
 </div>
-<p><strong>Cubism exploration sketches</strong>
+<p><strong>Selected Artworks for the LTA Art Competition in Hougang Interchange 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's%20Pals/We%20did%20it.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/6.jpg">
 </div>
-<p><strong>2022 Members of Picasso’s Pal</strong>
+<p><strong>Founder’s Day 2024 Artist for Guest of Honour</strong>
 </p>
 </td>
 </tr>
