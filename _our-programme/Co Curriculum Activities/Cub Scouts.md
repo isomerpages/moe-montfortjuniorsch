@@ -125,35 +125,37 @@ and competitions.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub%20Scouts/Discipline%20in%20Scouts.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Selections Day 01" src="/images/CCA/Cub Scouts/2025_CCA_Selections_Day_01.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub%20Scouts/National%20Day%20Joint%20Observance%20with%20MSS%202022.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Drill and Command" src="/images/CCA/Cub Scouts/2025_Drill_and_Command.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub%20Scouts/National%20Day%20Joint%20Observance%20with%20MSS__2022.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Enjoying in a Pitched tent" src="/images/CCA/Cub Scouts/2025_Enjoying_in_a_Pitched_tent.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub%20Scouts/North%20Zone%20Bedok%20Punggol%20National%20Day%20Joint%20Observance%202022.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Participated in 60 Jubliee Celebration for Singapore Scouts" src="/images/CCA/Cub Scouts/2025_Participated_in_60_Jubliee_Celebration_for_Singapore_Scouts.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub%20Scouts/North%20Zone%20Bedok%20Punggol%20National%20Day%20Joint%20Observance%20_2022.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Team work in Folding a Pitched tent" src="/images/CCA/Cub Scouts/2025_Team_work_in_Folding_a_Pitched_tent.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teamwork and Friendship" src="/images/CCA/Cub Scouts/2025_Teamwork_and_Friendship.jpg">
+</div>
 </td>
 </tr>
 </tbody>
