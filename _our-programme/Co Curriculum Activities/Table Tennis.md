@@ -7,22 +7,22 @@ variant: tiptap
 ---
 <h1><strong>TABLE TENNIS</strong></h1>
 <p>Table Tennis CCA: Developing Skills and Character</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Our Table Tennis CCA offers a holistic experience, fostering skill development,
 discipline, and confidence. We cater to students of all backgrounds and
 skill levels, from beginners to aspiring school team representatives.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Training and Development</strong>
 </p>
 <p>- Experienced coaches lead rigorous training sessions for our School Team</p>
 <p>- Recreational team provides a platform for leisurely play and skill development</p>
 <p>- Opportunities for teamwork, respect, and camaraderie</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Competition and Representation</strong>
 </p>
 <p>- School team represents the school in tournaments and competitions</p>
 <p>- Players embody the spirit of "Age Quod Agis" (Do well whatever you do)</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Join Our Table Tennis Community!</strong>
 </p>
 <p>Whether you're a seasoned player or a beginner, our Table Tennis CCA welcomes
@@ -199,24 +199,24 @@ the games.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table%20Tennis/bonding%20session.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Junior_Team___Andre_Khoo.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table%20Tennis/practicing%20with%20each%20other.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Junior_Team___Cheng_Yu_Chik_and_Yang_Chenming.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table%20Tennis/MCCA%20session%20-%20%20playing%20with%20coach.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Junior_Team___Xie_Lantian_and_Asher_Chua.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table%20Tennis/Tyler's%20NSG%20Junior%20Medal%20Win.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/NSG_Senior_Team_with_Coach_Dexter.jpg">
 </div>
 </td>
 </tr>
