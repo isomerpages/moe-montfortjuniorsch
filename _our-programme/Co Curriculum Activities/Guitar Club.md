@@ -214,41 +214,41 @@ schedule will be given anymore.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar%20Club/CNY%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/CCA_Day_2025_Group_Pic.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar%20Club/CNY%20Performance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/CCA_Day_2025_Guiding_Juniors.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar%20Club/Mr%20Zhane%20my%20guitar%20teacher.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/CCA_Day_2025_Performance_Boys.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar%20Club/SYF%202021%20pose.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/Open_House_2024.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar%20Club/SYF%202021.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/SYF_2024_Boys_warming_up.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar%20Club/Together%20as%20One.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/SYF_2024_Group_Pic.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar%20Club/Wait%20Look%20Play.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/SYF_rehearsal_2024.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
