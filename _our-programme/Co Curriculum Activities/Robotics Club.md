@@ -120,105 +120,52 @@ training schedules.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Coding%20&amp;%20Programming%20teamwork.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_39.jpg">
 </div>
-<p>Coding &amp; Programming teamwork</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Coding%20=%20HAPPINESS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_38.jpg">
 </div>
-<p>Coding = HAPPINESS</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Intensive%20brainstorming-in-progress.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_38__2_.jpg">
 </div>
-<p>Intensive brainstorming-in-progress</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/LEGO%20hopper%20race.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_38__1_.jpg">
 </div>
-<p><strong>LEGO hopper race</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/LEGO%20hopper.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_37.jpg">
 </div>
-<p><strong>LEGO hopper</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Let%20me%20plug%20it%20in%20to%20test%20out%20the%20robot!.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_36.jpg">
 </div>
-<p><strong>Let me plug it in to test out the robot!</strong>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Let%20me%20show%20you%20how.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_36__1_.jpg">
 </div>
-<p><strong>Let me show you how...</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Let's%20see%20what%20this%20machine%20can%20do.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_35.jpg">
 </div>
-<p><strong>Let's see what this machine can do...</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/LEGO%20Spike%20Prime%20unboxing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_34.jpg">
 </div>
-<p><strong>LEGO Spike Prime unboxing</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Our%20LEGO%20competition%20mat.jpg">
-</div>
-<p><strong>Our LEGO competition mat</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Our%20Robotics%20MCCA%20booth!.jpg">
-</div>
-<p><strong>Our Robotics MCCA booth!</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/THIS%20is%20HOW%20you%20DO%20it!.jpg">
-</div>
-<p><strong>THIS is HOW you DO it!</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Wracking%20my%20brains!.jpg">
-</div>
-<p><strong>Wracking my brains!</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
