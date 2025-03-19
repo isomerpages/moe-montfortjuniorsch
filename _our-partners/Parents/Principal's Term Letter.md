@@ -40,6 +40,3 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h1><strong>FORM TEACHERS AND SUBJECT TEACHERS</strong></h1>
-<p></p>
-<p>Coming soon</p>

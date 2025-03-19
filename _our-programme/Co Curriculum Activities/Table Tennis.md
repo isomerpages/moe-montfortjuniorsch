@@ -6,18 +6,29 @@ third_nav_title: Co Curriculum Activities
 variant: tiptap
 ---
 <h1><strong>TABLE TENNIS</strong></h1>
-<p>The Table Tennis CCA provides students with opportunities to experience
-the game. From those who seek the thrill of competitive participation to
-those who would like the chance to pick up a new leisure sport, we have
-training sessions that will fit the various interest levels of the students.</p>
-<p>The School Team is proud to have experienced coaches who provide rigorous
-training sessions to hone the skills of our students. Opportunities are
-always available for school team players to participate in school and other
-competitions.</p>
-<p>The Recreational Table Tennis team provides a platform for members to
-play leisurely and develop their skills.</p>
+<p>Table Tennis CCA: Developing Skills and Character</p>
+<p></p>
+<p>Our Table Tennis CCA offers a holistic experience, fostering skill development,
+discipline, and confidence. We cater to students of all backgrounds and
+skill levels, from beginners to aspiring school team representatives.</p>
+<p></p>
+<p><strong>Training and Development</strong>
+</p>
+<p>- Experienced coaches lead rigorous training sessions for our School Team</p>
+<p>- Recreational team provides a platform for leisurely play and skill development</p>
+<p>- Opportunities for teamwork, respect, and camaraderie</p>
+<p></p>
+<p><strong>Competition and Representation</strong>
+</p>
+<p>- School team represents the school in tournaments and competitions</p>
+<p>- Players embody the spirit of "Age Quod Agis" (Do well whatever you do)</p>
+<p></p>
+<p><strong>Join Our Table Tennis Community!</strong>
+</p>
+<p>Whether you're a seasoned player or a beginner, our Table Tennis CCA welcomes
+you to develop your skills, build character, and make lifelong friendships.</p>
 <h3>SCHEDULE</h3>
-<p><strong>Training sessions for Term 1 (2024) only</strong>
+<p><strong>Training sessions for Term 1 (2025) only</strong>
 </p>
 <p>Please refer to Parents Gateway&nbsp;and CCA notice board for the latest
 updates.</p>
@@ -29,15 +40,18 @@ updates.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Day</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -47,7 +61,7 @@ updates.</p>
 <p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm - 3.30pm</p>
+<p>2pm – 3.30pm</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +72,7 @@ updates.</p>
 <p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30pm - 5.30pm</p>
+<p>3.30pm – 5.00pm</p>
 </td>
 </tr>
 <tr>
@@ -74,27 +88,28 @@ updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 &amp; P6 School Team</p>
+<p>P5 &amp; 6 School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays &amp; Thursdays</p>
+<p>&nbsp;</p>
 <p>Wednesday MCCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm - 5.30pm</p>
-<p></p>
+<p>&nbsp;</p>
 <p>7.40am – 9.10am</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 &amp; P6 Recreational Team</p>
+<p>P5 &amp; 6 Recreational Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday MCCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.40am - 9.10am</p>
+<p>7.40am -9.10am</p>
 </td>
 </tr>
 </tbody>
@@ -129,17 +144,35 @@ training schedules.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Peck San Linda</p>
+<p>Ms Zhou Mengyuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_peck_san_linda@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">zhou_mengyuan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Bak Wai Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">bak_wai_leng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ellen Chung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chung_mui_ling_ellen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>PROGRAMME HIGHLIGHTS / UPDATES FOR 2024</h3>
-<p>We will be participating in the following competitions for 2024:</p>
+<h3>PROGRAMME HIGHLIGHTS / UPDATES FOR 2025</h3>
+<p>We will be participating in the following competitions for 2025:</p>
 <p>i) National School Games – Table Tennis Senior Division Team (Boys)</p>
 <p>ii) National School Games – Table Tennis Senior Division Individual (Boys)</p>
 <p>iii) Crocodile Cup</p>
@@ -166,24 +199,24 @@ the games.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table%20Tennis/bonding%20session.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Junior_Team___Andre_Khoo.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table%20Tennis/practicing%20with%20each%20other.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Junior_Team___Cheng_Yu_Chik_and_Yang_Chenming.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table%20Tennis/MCCA%20session%20-%20%20playing%20with%20coach.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Junior_Team___Xie_Lantian_and_Asher_Chua.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table%20Tennis/Tyler's%20NSG%20Junior%20Medal%20Win.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/NSG_Senior_Team_with_Coach_Dexter.jpg">
 </div>
 </td>
 </tr>
