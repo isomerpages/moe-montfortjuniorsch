@@ -197,21 +197,20 @@ learning, and growing together!</p>
 </p>
 <p>Our badminton teams achieved very good results in the 2023 National School
 Games tournaments.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Senior Boys: North Zone Champions</strong>
 </p>
 <p>Our senior boys emerged as champions in the North Zone National School
 Games tournament, earning a spot to compete in the Nationals against the
 top 7 schools in Singapore.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Junior Boys: National School Games Junior Division</strong>
 </p>
 <p>In the Junior Division Competition, our boys qualified for the Tier 2
 group, with one of our students rising to the top as champion from the
 Tier 1 group.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Congratulations to our badminton teams on their achievements!
-<br>
 <br>
 </p>
 <p><strong>AWARDS/ ACHIEVEMENTS (2024)</strong>
@@ -263,30 +262,28 @@ Tier 1 group.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p>The National School Games format for the Senior Division underwent a significant
 transformation in 2024, adopting a tiered format that brought together
 schools from across the island. This change promoted inclusiveness and
 ensured that players competed against peers with similar skill levels.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Senior Boys: Tier 2 Achievers</strong>
 </p>
 <p>Our senior boys demonstrated remarkable determination and skill, securing
 a position in the Tier 2 level of the Senior Division National School Games.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Junior Boys: Tier 1 and Tier 2 Success</strong>
 </p>
 <p>The junior boys showcased their talents in the National School Games,
 fielding a team of 3 singles and 3 doubles players. They achieved a mix
 of Tier 1 and Tier 2 placements, with one singles player emerging as the
 champion of the Tier 1 group.</p>
-<p>&nbsp;</p>
-<p>Congratulations to our badminton teams!</p>
 <p></p>
+<p>Congratulations to our badminton teams!</p>
 <h3>Teachers in-charge</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -298,9 +295,6 @@ champion of the Tier 1 group.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Contact</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -309,9 +303,6 @@ champion of the Tier 1 group.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_junlong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_junlong@schools.gov.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -322,9 +313,6 @@ champion of the Tier 1 group.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">ho_see_hoong_victor@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -333,9 +321,6 @@ champion of the Tier 1 group.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_chong_gee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chong_gee@schools.gov.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -346,9 +331,6 @@ champion of the Tier 1 group.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">koh_kui_teng@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -357,9 +339,6 @@ champion of the Tier 1 group.</p>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chen_jiaying@schools.gov.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -370,9 +349,6 @@ champion of the Tier 1 group.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">chen_gengshi_ruth@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -381,9 +357,6 @@ champion of the Tier 1 group.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kenjo23@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">kenjo23@hotmail.com</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
