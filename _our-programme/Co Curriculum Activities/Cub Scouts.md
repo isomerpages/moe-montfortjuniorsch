@@ -15,10 +15,10 @@ variant: tiptap
 </div>
 <p>Our objective is to contribute to the education of our young Montfortians,
 through a value system based on the Scout Promise and Law.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Our mission is to develop and nurture our young gentleman into self-fulfilled
 individuals who will play a constructive role in society.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Students will be able to learn various scouting skills from knots tying,
 camp craft and outdoor cooking. More importantly, they will learn how to
 support one another and work in teams to develop their sense of resilience
