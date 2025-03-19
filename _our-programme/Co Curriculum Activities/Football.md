@@ -310,59 +310,61 @@ Top 8 League 1 placing in the revamped format.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Are%20you%20ready.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG2025_06.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Me%20and%20my%20Coach.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG2025_07.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG%20Senior%20Team.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG2025_13.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Tactical%20Change.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG2025_20.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Where%20is%20the%20ball.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG2025_21.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/20230308_180713.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG2025_23.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/20230308_181123.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG2025_24.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/20230308_181223.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG2025_27.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/20230308_181315.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG2025_31.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/NSG2025_32.jpg">
+</div>
 </td>
 </tr>
 </tbody>
