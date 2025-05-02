@@ -12,6 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/termletter/
+        - title: Open House
+          description: ""
+          url: /open-house-2025/
         - title: Highlights
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
