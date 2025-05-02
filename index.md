@@ -14,7 +14,7 @@ sections:
           url: /announcements/termletter/
         - title: Open House
           description: ""
-          url: /open-house/
+          url: https://montfortjunior.moe.edu.sg/open-house/
         - title: Highlights
           description: ""
           url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
