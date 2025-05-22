@@ -12,6 +12,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/OH_Sharing_IG_Post.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/2025_OH_Highlights.jpg">
+</div>
 <p><strong><u>SCHOOL MAP &amp; ACTIVITIES</u></strong>
 </p>
 <div class="isomer-image-wrapper">
