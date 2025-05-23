@@ -5,3 +5,5 @@ description: ""
 variant: markdown
 ---
 # **SCHOOL MANAGEMENT COMMITTEE**
+![](/images/Our%20Partners/SCHOOL_MANAGEMENT_COMMITTEE_images_0.jpg)
+![](/images/Our%20Partners/SCHOOL_MANAGEMENT_COMMITTEE_images_1.jpg)
