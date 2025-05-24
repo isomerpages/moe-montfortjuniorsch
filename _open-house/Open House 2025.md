@@ -18,8 +18,9 @@ description: ""
 </div>
 <p><strong><u>SCHOOL MAP &amp; ACTIVITIES</u></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/Open_House_Map_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/Open_House_Map_edited.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/Open_House_Map_2.jpg">
