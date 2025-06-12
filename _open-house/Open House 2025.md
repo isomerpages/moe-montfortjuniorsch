@@ -50,3 +50,6 @@ lot is at Block 524.
 <p><strong>How to Register Child for Primary 1</strong>
 <br><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/how-to-register/?pt=1</a></strong>
 </p>
+<p><strong><a href="https://youtu.be/v-Sz7Z1ZZY0" rel="noopener nofollow" target="_blank">Open House 2025 Video</a></strong>
+</p>
+<p></p>
