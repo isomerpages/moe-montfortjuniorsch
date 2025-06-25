@@ -91,12 +91,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Ashiq Bin Muhd Issa
-<br><a href="mailto:Muhammad_Ashiq_Muhammad_Issa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Ashiq_Muhammad_Issa@schools.gov.sg</a>
-<br>4 Integrity</p>
+<p>Ms Siti Muliyanti Bte Abd Rahman</p>
+<p><a href="mailto:siti_muliyanti_ab_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_muliyanti_ab_rahman@schools.gov.sg</a>
+</p>
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Do not fear failure but rather fear not trying.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ruth Chen</p>
+<p><a href="mailto:chen_gengshi_ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_gengshi_ruth@schools.gov.sg</a>
+</p>
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

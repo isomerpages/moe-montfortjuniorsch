@@ -103,6 +103,17 @@ I will help them along their journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cao Zimeng</p>
+<p><a href="mailto:cao_zimeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cao_zimeng@schools.gov.sg</a>
+</p>
+<p>1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Mastura Bte Abdul Samad
 <br><a rel="noopener noreferrer nofollow" target="_blank">mastura_abdul_samad@schools.gov.sg</a>
 <br>1 Service</p>
@@ -119,6 +130,17 @@ I will help them along their journey.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A sign of wisdom is believing you are limitless, because you are.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Guek Kim</p>
+<p><a href="mailto:lim_guek_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_guek_kim@schools.gov.sg</a>
+</p>
+<p>1 Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

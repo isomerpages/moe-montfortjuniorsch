@@ -52,12 +52,13 @@ lead, spread the light. A man for others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Nizam Bin Shahri
-<br><a rel="noopener noreferrer nofollow" target="_blank">muhammad_nizam_b_shahri@schools.gov.sg</a>
-<br>5 Humility</p>
+<p>Mr Gerard</p>
+<p><a href="mailto:gerard_anitus_fernandez@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gerard_anitus_fernandez@schools.gov.sg</a>
+</p>
+<p>5 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Everyone is rewarded for the effort one makes.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -82,6 +83,17 @@ lead, spread the light. A man for others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Chong Gee</p>
+<p><a href="mailto:ng_chong_gee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chong_gee@schools.gov.sg</a>
+</p>
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Mohd Fahmy B Surahman
 <br><a href="mailto:mohammad_fahmy_b_surahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_fahmy_b_surahman@schools.gov.sg</a>
 <br>5 Integrity</p>
@@ -95,6 +107,17 @@ lead, spread the light. A man for others.</p>
 <p>Ms Zhou Mengyuan
 <br><a rel="noopener noreferrer nofollow" target="_blank">zhou_mengyuan@schools.gov.sg</a>
 <br>5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Chong Gee</p>
+<p><a href="mailto:ng_chong_gee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chong_gee@schools.gov.sg</a>
+</p>
+<p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
