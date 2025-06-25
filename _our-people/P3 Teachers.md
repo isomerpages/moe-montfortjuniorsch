@@ -82,6 +82,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Jennifer Poh</p>
+<p><a href="mailto:tiew_tsui_lu_jennifer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tiew_tsui_lu_jennifer@schools.gov.sg</a>
+</p>
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lalita Devi Singh
 <br><a rel="noopener noreferrer nofollow" target="_blank">lalita_devi_singh@schools.gov.sg</a>
 <br>3 Integrity</p>
@@ -95,6 +106,17 @@ variant: tiptap
 <p>Mdm Erica Cheah Tze Yuen
 <br><a href="mailto:cheah_tze_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_tze_yuen@schools.gov.sg</a>
 <br>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Saro</p>
+<p><a href="mailto:sarojah_shanmugaraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarojah_shanmugaraj@schools.gov.sg</a>
+</p>
+<p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
