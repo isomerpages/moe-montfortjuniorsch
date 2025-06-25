@@ -53,6 +53,17 @@ it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chai Ming Fang</p>
+<p><a href="mailto:chai_ming_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chai_ming_fang@schools.gov.sg</a>
+</p>
+<p>2 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Tan Chor Hiang
 <br><a href="mailto:tan_chor_hiang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chor_hiang_a@schools.gov.sg</a>
 <br>2 Humility</p>
@@ -103,6 +114,17 @@ it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Kamariah</p>
+<p><a href="mailto:kamariah_atan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamariah_atan@schools.gov.sg</a>
+</p>
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Yanasagaran Chetra Devi
 <br><a rel="noopener noreferrer nofollow" target="_blank">yanasagaran_chetra_devi@schools.gov.sg</a>
 <br>2 Service</p>
@@ -117,6 +139,17 @@ more meaningful.</p>
 <p>Mdm Maheswari D/O Ramachandran
 <br><a href="mailto:maheswari_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maheswari_ramachandran@schools.gov.sg</a>
 <br>2 Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teow Wen Yan</p>
+<p><a href="mailto:teow_wen_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teow_wen_yan@schools.gov.sg</a>
+</p>
+<p>2 Service</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
