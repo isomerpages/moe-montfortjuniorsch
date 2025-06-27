@@ -32,24 +32,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25-Mar (Tues)</p>
+<p>2-Jul (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mass - Annunciation of the Lord</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Montfort Chapel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.00 am – 7.40 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2-Apr (Wed)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monthly Mass (1st and 3rd Wed of each month)</p>
+<p>Monthly Mass (1st or 3rd Wed of each month)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Montfort Chapel</p>
@@ -60,26 +46,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7-May (Wed)</p>
+<p>16-Jul (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monthly Mass (1st or 3rd Wed of each month)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Montfort Chapel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00 am – 7.40 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6-Aug (Wed)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monthly Mass (1st and 3rd Wed of each month)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Montfort Chapel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.00 am – 7.40 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21-May (Wed)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monthly Mass (1st and 3rd Wed of each month)</p>
+<p>Transfiguration Mass</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,16 +76,31 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29-May (Thur)</p>
+<p>15-Aug (Fri)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ascension Mass</p>
+<p>Day of Obligation - Assumption of the Blessed Virgin Mary Mass</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Montfort Chapel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.00 am – 7.40 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-Sep (Thu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers’ Day Mass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am – 8.40 am</p>
 </td>
 </tr>
 </tbody>
