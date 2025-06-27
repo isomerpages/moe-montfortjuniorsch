@@ -62,6 +62,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ajaya Kumar</p>
+<p><a href="mailto:ajaya_kumar_s_o@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ajaya_kumar_s_o@schools.gov.sg</a>
+</p>
+<p>3 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Amanda Wong Zhi Wei
 <br><a rel="noopener noreferrer nofollow" target="_blank">wong_zhi_wei_amanda@schools.gov.sg</a>
 <br>3 Respect</p>
