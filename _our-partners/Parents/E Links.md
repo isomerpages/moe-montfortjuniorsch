@@ -85,8 +85,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://app.seesaw.me/#/student/login" rel="noopener noreferrer nofollow" target="_blank">https://web.seesaw.me/</a> 
-<br><a href="https://apps.apple.com/us/app/seesaw-multimedia-journal/id930565184?ls=1" rel="noopener noreferrer nofollow" target="_blank">iOS</a> 
-<br><a href="https://play.google.com/store/apps/details?hl=en&amp;id=seesaw.shadowpuppet.co.classroom" rel="noopener noreferrer nofollow" target="_blank">Android</a>
+<br><a href="https://apps.apple.com/us/app/seesaw/id930565184" rel="noopener noreferrer nofollow" target="_blank">iOS</a> 
+<br><a href="https://play.google.com/store/apps/details?id=seesaw.shadowpuppet.co.classroom&amp;pcampaignid=web_share" rel="noopener noreferrer nofollow" target="_blank">Android</a>
 </p>
 </td>
 </tr>
