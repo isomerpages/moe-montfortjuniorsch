@@ -2,14 +2,14 @@ collections:
   information:
     output: true
     order:
-      - Parents2/E Links.md
-      - Parents2/Travel Declaration.md
-      - Parents2/School Safety and Security.md
-      - Parents2/School Service Providers.md
-      - Parents2/Homework Policy.md
-      - Parents2/School Calendar.md
-      - Parents2/Principal's Term Letter.md
       - Parents2/.keep
+      - Parents2/Principal's Term Letter.md
+      - Parents2/School Calendar.md
+      - Parents2/Homework Policy.md
+      - Parents2/School Service Providers.md
+      - Parents2/School Safety and Security.md
+      - Parents2/Travel Declaration.md
+      - Parents2/E Links.md
       - Partnership.md
       - School Management Committee.md
       - Montfort Junior Parents Connection.md
