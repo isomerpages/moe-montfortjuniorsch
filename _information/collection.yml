@@ -2,5 +2,6 @@ collections:
   information:
     output: true
     order:
+      - Montfort Junior Parents Connection.md
       - Makers Advisory Council.md
       - School Bus Information.md
