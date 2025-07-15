@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Parents2/School Service Providers.md
       - Parents2/Homework Policy.md
       - Parents2/School Calendar.md
       - Parents2/Principal's Term Letter.md
