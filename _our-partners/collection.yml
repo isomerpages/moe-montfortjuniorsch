@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents/Travel Declaration.md
       - Parents/E Links.md
