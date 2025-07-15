@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - School Management Committee.md
       - Parents/.keep
       - Parents/Principal's Term Letter.md
       - Parents/School Calendar.md
