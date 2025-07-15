@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Parents2/Principal's Term Letter.md
       - Parents2/.keep
       - Partnership.md
       - School Management Committee.md
