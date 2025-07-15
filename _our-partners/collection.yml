@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - School Bus Information.md
       - Makers Advisory Council.md
       - Montfort Junior Parents Connection.md
       - School Management Committee.md
@@ -15,3 +14,4 @@ collections:
       - Parents/Travel Declaration.md
       - Parents/E Links.md
       - Partnership.md
+      - School Bus Information.md
