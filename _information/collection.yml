@@ -2,4 +2,5 @@ collections:
   information:
     output: true
     order:
+      - Makers Advisory Council.md
       - School Bus Information.md
