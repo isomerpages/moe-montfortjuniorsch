@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Makers Advisory Council.md
       - Montfort Junior Parents Connection.md
       - School Management Committee.md
       - Parents/.keep
