@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents/Homework Policy.md
       - Parents/School Service Providers.md
       - Parents/School Safety and Security.md
       - Parents/Travel Declaration.md
