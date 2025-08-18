@@ -4,53 +4,162 @@ permalink: /school-bus-information/
 variant: tiptap
 description: ""
 ---
-<h2><strong>School Bus Advertisement</strong></h2>
-<p>To apply, please refer to the Service Requirements and the Application
-Procedure below.</p>
-<p>Service Requirements</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Call_for_Proposal.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+<h2><strong>New School Bus Fare</strong></h2>
+<p><strong>New Bus Fare with effect from January 2026:</strong>
 </p>
-</li>
-<li>
-<p><a href="/files/Terms_and_Conditions_for_School_Bus_Operator_to_Provide_School_Bus_Services.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+<p><strong><u>DETAILS OF BUS OPERATORS AND BUS FARES</u></strong>
 </p>
-</li>
-<li>
-<p><a href="/files/Request_for_School_Bus_Services.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name of Company / Operator:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Hong Soon Transport Services LLP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email address:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lhstpt@yahoo.com</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tel:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91615414</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-</li>
-</ol>
-<p>Application Procedures</p>
-<p>1.&nbsp;&nbsp;&nbsp; Complete the <a href="/files/Call_for_Proposal___Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
-Required from Vendor)</p>
-<p>2.&nbsp;&nbsp;&nbsp; Submit the completed Call for Proposal – Annex A
-by closing date, 23 July 2025, to the School’s General Office.</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Address : 52 Hougang Ave 8 Singapore 538786</p>
-</li>
-<li>
-<p>Contact Number : 65101588</p>
-</li>
-<li>
-<p>Email : <a href="montfort_js@moe.edu.sg" rel="noopener nofollow" target="_blank">montfort_js@moe.edu.sg</a>
+<p>A.&nbsp;&nbsp;&nbsp; <u>Not to Exceed Price for sending students from their Drop-off Address, Pickup Address or Common Location (as the case may be) to each School and vice versa.</u>
 </p>
-</li>
-<li>
-<p>Contact Person : Mdm Brenda Koh</p>
-</li>
-</ul>
-<p>How to get there?</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nearest MRT Station:&nbsp;Hougang MRT (NE14) – 10 min walking distance</p>
-</li>
-<li>
-<p>Bus Service:&nbsp;74, 88, 101, 147, 161 – 2 min walking distance</p>
-</li>
-</ul>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Distance Range Category</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Up to 15-seaters</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&gt;15-seaters</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-way</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$150</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$190</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$150</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$190</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 – 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$240</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$240</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>B.&nbsp;&nbsp;&nbsp; <u>Not to Exceed Price for After School Services.</u>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distance Range Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 15-seaters
+<br>(please i$200ndicate the Not to Exceed Price based on per trip)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&gt;15-seaters</p>
+<p>(please indicate the Not to Exceed Price based on per trip)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 – 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
