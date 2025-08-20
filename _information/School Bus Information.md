@@ -131,7 +131,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Up to 15-seaters
-<br>(please i$200ndicate the Not to Exceed Price based on per trip)</p>
+<br>(please indicate the Not to Exceed Price based on per trip)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&gt;15-seaters</p>
