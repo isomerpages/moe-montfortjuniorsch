@@ -15,7 +15,8 @@ In the event that pupils require urgent dental treatment during the periods the 
   
 |  |  |
 |---|---|
-| First Toa Payoh Primary School | Tel: 98327966 |
+|Roving Dental Clinic 4| Tel: 98327966|
+| Hougang Primary School | Tel: 85229651 |
 | Rosyth School | Tel: 87641796 |
 | Xinmin Primary School | Tel: 87643972 |
 |School Dental Centre | Tel: 64353782
