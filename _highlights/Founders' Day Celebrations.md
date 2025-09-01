@@ -1,6 +1,6 @@
 ---
-title: FOUNDER'S DAY CELEBRATIONS
-permalink: /highlights/FOUNDERS-DAY-CELEBRATIONS/
+title: Founders' Day Celebrations
+permalink: /highlights/founders-day-celebrations/
 description: ""
 variant: markdown
 ---
