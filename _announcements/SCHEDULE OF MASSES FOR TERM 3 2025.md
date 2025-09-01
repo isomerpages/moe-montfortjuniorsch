@@ -4,6 +4,8 @@ permalink: /montfort-junior-school-schedule-of-masses-for-term-3-2025/
 variant: tiptap
 description: ""
 ---
+<p><strong>SCHEDULE OF MASSES FOR TERM 4 2025</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -32,7 +34,35 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-Jul (Wed)</p>
+<p>19 Sep (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pre-PSLE Mass For All Pri 6 Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Montfort Chapel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:40 - 8:40 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Oct (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End of Year Exam Mass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Montfort Chapel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:00 - 7:40 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Nov (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monthly Mass (1st or 3rd Wed of each month)</p>
@@ -41,66 +71,21 @@ description: ""
 <p>Montfort Chapel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 am – 7.40 am</p>
+<p>7:00 - 7:40 a.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16-Jul (Wed)</p>
+<p>19 Nov (Wed)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monthly Mass (1st or 3rd Wed of each month)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Montfort Chapel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.00 am – 7.40 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6-Aug (Wed)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Transfiguration Mass</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Montfort Chapel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.00 am – 7.40 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15-Aug (Fri)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Day of Obligation - Assumption of the Blessed Virgin Mary Mass</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Montfort Chapel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.00 am – 7.40 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-Sep (Thu)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers’ Day Mass</p>
+<p>Thanksgiving Mass</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.40 am – 8.40 am</p>
+<p>7:40 - 8:40 a.m.</p>
 </td>
 </tr>
 </tbody>
