@@ -7,7 +7,6 @@ variant: markdown
 ---
 # **SCHOOL CALENDAR**
 
-![](/images/Our%20Partners/2025_Term_3_Letter_page_0005.jpg)
-![](/images/Our%20Partners/2025_Term_3_Letter_page_0006.jpg)
-![](/images/Our%20Partners/2025_Term_3_Letter_page_0007.jpg)
-![](/images/Our%20Partners/2025_Term_3_Letter_page_0008.jpg)
+![](/images/Our%20Partners/Parents/2025_Term_4_Letter_page_0004.jpg)
+![](/images/Our%20Partners/Parents/2025_Term_4_Letter_page_0005.jpg)
+![](/images/Our%20Partners/Parents/2025_Term_4_Letter_page_0006.jpg)
