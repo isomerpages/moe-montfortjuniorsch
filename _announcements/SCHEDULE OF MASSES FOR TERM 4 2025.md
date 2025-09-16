@@ -40,7 +40,7 @@ description: ""
 <p>Pre-PSLE Mass For All Pri 6 Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Montfort Chapel</p>
+<p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7:40 - 8:40 a.m.</p>
