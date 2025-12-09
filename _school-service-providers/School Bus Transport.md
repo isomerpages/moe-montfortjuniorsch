@@ -2,9 +2,12 @@
 title: School Bus Transport
 permalink: /our-partners/parents/schools-service-providers/school-bus-transport/
 description: ""
+variant: markdown
 ---
 # **SCHOOL BUS TRANSPORT**
 
-**Ri Sheng Transport Services**  
-Block 412B Fernvale Link, #17-29  
-Singapore 792412 Tel :  9237 0292 (Mr Yap)
+**Lim Hong Soon Transport Services LLP**  
+402 Hougang Ave 10, #04-1182 Harmony View
+Singapore 530402 
+
+Tel :  9161 5414 (Mdm Lim)
