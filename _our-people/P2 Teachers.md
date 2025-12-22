@@ -84,32 +84,12 @@ it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yuying
-<br><a rel="noopener noreferrer nofollow" target="_blank">lee_yu_ying@schools.gov.sg</a>
-<br>2 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning is a journey, not a destination.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Koh Ee Ling
 <br><a href="mailto:koh_ee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ee_ling@schools.gov.sg</a>
 <br>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lifelong learning: Social constructivism in action.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Chun Leng
-<br><a rel="noopener noreferrer nofollow" target="_blank">chen_junlong@schools.gov.sg</a>
-<br>2 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education is the key to success.</p>
 </td>
 </tr>
 <tr>
@@ -139,17 +119,6 @@ more meaningful.</p>
 <p>Mdm Maheswari D/O Ramachandran
 <br><a href="mailto:maheswari_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maheswari_ramachandran@schools.gov.sg</a>
 <br>2 Service</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Teow Wen Yan</p>
-<p><a href="mailto:teow_wen_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teow_wen_yan@schools.gov.sg</a>
-</p>
-<p>2 Service</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
