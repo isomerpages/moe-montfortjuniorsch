@@ -21,27 +21,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessalyn Lee
-<br><a rel="noopener noreferrer nofollow" target="_blank">lee_li_yun_jessalyn@schools.gov.sg</a>
-<br>3 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education is the kindling of a flame, not the filling of a vessel.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tay Sze Wei Carissa
-<br><a rel="noopener noreferrer nofollow" target="_blank">Tay_Sze_Wei_Carrissa@schools.gov.sg</a>
-<br>3 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rejoice always, pray without ceasing ,give thanks in all circumstances.
-1 Thessalonians 5:16-18</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sim Ai Koon
 <br><a rel="noopener noreferrer nofollow" target="_blank">sim_ai_koon@schools.gov.sg</a>
 <br>3 Humility</p>
@@ -117,17 +96,6 @@ variant: tiptap
 <p>Mdm Erica Cheah Tze Yuen
 <br><a href="mailto:cheah_tze_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_tze_yuen@schools.gov.sg</a>
 <br>3 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Saro</p>
-<p><a href="mailto:sarojah_shanmugaraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarojah_shanmugaraj@schools.gov.sg</a>
-</p>
-<p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
