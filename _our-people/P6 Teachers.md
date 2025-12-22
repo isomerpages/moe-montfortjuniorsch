@@ -31,17 +31,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Serene Han Tui Kin
-<br><a rel="noopener noreferrer nofollow" target="_blank">serene_han_tui_kin@schools.gov.sg</a>
-<br>6 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Things which matter most must never be at the mercy of things which matter
-least.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lee Boon Haw Charles
 <br><a rel="noopener noreferrer nofollow" target="_blank">lee_boon_haw@schools.gov.sg</a>
 <br>6 Humility</p>
@@ -81,16 +70,6 @@ and the good of others.</p>
 <td rowspan="1" colspan="1">
 <p>The quintessence of education is nurturing individuals, not just imparting
 knowledge.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Aik Hoon Amy
-<br><a rel="noopener noreferrer nofollow" target="_blank">koh_aik_hoon@schools.gov.sg</a>
-<br>6 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Faith in God means trusting his timing too.</p>
 </td>
 </tr>
 <tr>
