@@ -73,16 +73,6 @@ lead, spread the light. A man for others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhou Mengyuan
-<br><a rel="noopener noreferrer nofollow" target="_blank">zhou_mengyuan@schools.gov.sg</a>
-<br>5 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ng Chong Gee</p>
 <p><a href="mailto:ng_chong_gee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chong_gee@schools.gov.sg</a>
 </p>
@@ -96,16 +86,6 @@ lead, spread the light. A man for others.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Fahmy B Surahman
 <br><a href="mailto:mohammad_fahmy_b_surahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_fahmy_b_surahman@schools.gov.sg</a>
-<br>5 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zhou Mengyuan
-<br><a rel="noopener noreferrer nofollow" target="_blank">zhou_mengyuan@schools.gov.sg</a>
 <br>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">

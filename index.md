@@ -14,5 +14,5 @@ sections:
           url: /announcements/termletter/
         - title: Highlights
           description: ""
-          url: /highlights/FOUNDERS-DAY-CELEBRATIONS/
+          url: /highlights/importance-of-a-catholic-education/
 ---
