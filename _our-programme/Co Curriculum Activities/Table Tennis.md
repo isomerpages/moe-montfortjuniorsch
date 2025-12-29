@@ -116,7 +116,7 @@ updates.</p>
 </table>
 <p>Please take note that&nbsp;<strong>NO HARD COPY</strong>&nbsp;of training
 schedule will be given anymore.</p>
-<p>Please visit the school website:&nbsp;<a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/</a>&nbsp;for
+<p>Please visit the school website:&nbsp;<a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2026/</a>&nbsp;for
 training schedules.</p>
 <h3>TEACHER-IN-CHARGE</h3>
 <table style="minWidth: 50px">
@@ -135,37 +135,10 @@ training schedules.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessalyn Lee</p>
+<p>Mr Muhammad Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_li_yun_jessalyn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zhou Mengyuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zhou_mengyuan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Bak Wai Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">bak_wai_leng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ellen Chung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chung_mui_ling_ellen@schools.gov.sg</a>
+<p><a href="muhammad_amin_mokhtar@schools.gov.sg" rel="noopener nofollow" target="_blank">muhammad_amin_mokhtar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
