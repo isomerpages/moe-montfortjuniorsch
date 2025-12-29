@@ -61,8 +61,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Erica Cheah Tze Yuen
 <br><a rel="noopener noreferrer nofollow" target="_blank">cheah_tze_yuen@schools.gov.sg</a>
-</p>
-<p>4 Integrity</p>
+<br>4 Integrity</p>
 </td>
 </tr>
 </tbody>
