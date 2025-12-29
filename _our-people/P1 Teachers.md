@@ -4,7 +4,7 @@ permalink: /our-people/p1-teachers/
 description: ""
 variant: tiptap
 ---
-<h1><strong>P1 TEACHERS</strong></h1>
+<h1><strong>P1 TEACHERS -2026</strong></h1>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
