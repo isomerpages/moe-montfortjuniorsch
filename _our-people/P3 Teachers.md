@@ -33,8 +33,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Lalita Devi Singh
 <br><a rel="noopener noreferrer nofollow" target="_blank">lalita_devi_singh@schools.gov.sg</a>
-</p>
-<p>3 Humility</p>
+<br>3 Humility</p>
 </td>
 </tr>
 <tr>
@@ -55,8 +54,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tan Shan Shan Serene
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_shan_shan_serene@schools.gov.sg</a>
-</p>
-<p>3 Respect</p>
+<br>3 Respect</p>
 </td>
 </tr>
 <tr>
