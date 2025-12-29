@@ -40,7 +40,7 @@ create, collaborate, and let your imagination take flight!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>MCCA Picasso's Pals</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,21 +51,11 @@ create, collaborate, and let your imagination take flight!</p>
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>&nbsp;</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>Please take note that&nbsp;<strong>NO HARD COPY</strong>&nbsp;of training
 schedule will be given anymore.</p>
-<p>Please visit the school website: <a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/</a> for
+<p>Please visit the school website: <a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2026/</a> for
 training schedules.</p>
 <h3>TEACHERS-IN-CHARGE</h3>
 <table style="minWidth: 50px">
@@ -81,15 +71,6 @@ training schedules.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Amy Khoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="koh_aik_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_aik_hoon@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
