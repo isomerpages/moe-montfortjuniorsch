@@ -91,15 +91,6 @@ for training schedules.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Nur Akashah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nur_akashah_mustaffa@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>AWARDS/ ACHIEVEMENTS</h3>
