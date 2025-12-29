@@ -4,19 +4,15 @@ permalink: /our-people/p4-teachers/
 description: ""
 variant: tiptap
 ---
-<h1><strong>P4 TEACHERS</strong></h1>
-<table style="minWidth: 50px">
+<h1><strong>P4 TEACHERS - 2026</strong></h1>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Name &amp; Email</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Personal Statement On The Philosophy Of Education</p>
 </th>
 </tr>
 <tr>
@@ -25,90 +21,47 @@ variant: tiptap
 <br><a rel="noopener noreferrer nofollow" target="_blank">low_tong@schools.gov.sg</a>
 <br>4 Compassion</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>I have not failed. I've just found 10,000 ways that won't work.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Xue Er Danica
-<br><a href="mailto:choo_xue_er_danica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_xue_er_danica@schools.gov.sg</a>
-<br>4 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cao Yexin
-<br><a rel="noopener noreferrer nofollow" target="_blank">Cao_Yexin@schools.gov.sg</a>
+<p>Ms Sim Ai Koon
+<br><a rel="noopener noreferrer nofollow" target="_blank">sim_ai_koon@schools.gov.sg</a>
 <br>4 Humility</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Not knowing is not failure, it’s the first step to understanding.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Francis Jude Yam
-<br><a href="mailto:yam_hai_sun_francis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yam_hai_sun_francis@schools.gov.sg</a>
+<p>Ms Bak Wai Leng
+<br><a rel="noopener noreferrer nofollow" target="_blank">Bak_Wai_Leng@schools.gov.sg</a>
 <br>4 Humility</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shan Shan Serene
-<br><a rel="noopener noreferrer nofollow" target="_blank">tan_shan_shan_serene@schools.gov.sg</a>
+<p>Mdm Amanda Wong Zhi Wei
+<br><a rel="noopener noreferrer nofollow" target="_blank">wong_zhi_wei_amanda@schools.gov.sg</a>
 <br>4 Respect</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Take every challenge as a learning experience!</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Soo Huat John
-<br><a rel="noopener noreferrer nofollow" target="_blank">tan_soo_huat@schools.gov.sg</a>
+<p>Mdm Siti Nur Akashah
+<br><a rel="noopener noreferrer nofollow" target="_blank">siti_nur_akashah_mustaffa@schools.gov.sg</a>
 <br>4 Respect</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Loo Sin
-<br><a rel="noopener noreferrer nofollow" target="_blank">tan_loo_sin@schools.gov.sg</a>
+<p>Ms Tan Yi Ying Bettina
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_yi_ying_bettina@schools.gov.sg</a>
 <br>4 Integrity</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Our greatest glory is not in never falling but in rising after every fall.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Muliyanti Bte Abd Rahman</p>
-<p><a href="mailto:siti_muliyanti_ab_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_muliyanti_ab_rahman@schools.gov.sg</a>
-</p>
-<p>4 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ruth Chen</p>
-<p><a href="mailto:chen_gengshi_ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_gengshi_ruth@schools.gov.sg</a>
-</p>
-<p>4 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Erica Cheah Tze Yuen
+<br><a rel="noopener noreferrer nofollow" target="_blank">cheah_tze_yuen@schools.gov.sg</a>
+<br>4 Integrity</p>
 </td>
 </tr>
 </tbody>

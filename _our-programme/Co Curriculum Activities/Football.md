@@ -113,7 +113,7 @@ of our members.</p>
 </table>
 <p>Please take note that&nbsp;<strong>NO HARD COPY</strong>&nbsp;of training
 schedule will be given anymore.</p>
-<p>Please visit the school website: <a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2024/</a> for
+<p>Please visit the school website: <a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2026/</a> for
 training schedules.</p>
 <h3>TEACHERS-IN-CHARGE</h3>
 <table style="minWidth: 50px">
@@ -136,15 +136,6 @@ training schedules.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="muhammad_taufiq_adam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_taufiq_adam@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Zailee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="zailee_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zailee_ramli@schools.gov.sg</a>
 </p>
 </td>
 </tr>

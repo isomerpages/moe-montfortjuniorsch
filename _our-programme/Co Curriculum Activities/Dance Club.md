@@ -95,24 +95,6 @@ schedule will be given anymore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Suguna Sampath</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="suguna_bai_balasundaram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suguna_bai_balasundaram@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Teow Wen Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teow_wen_yan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Tan Loo Sin</p>
 </td>
 <td rowspan="1" colspan="1">

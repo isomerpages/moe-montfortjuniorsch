@@ -111,9 +111,8 @@ Day</p>
 <p>Please take note that&nbsp;<strong>NO HARD COPY</strong>&nbsp;of training
 schedule will be given anymore.</p>
 <h3>TEACHERS-IN-CHARGE</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -125,33 +124,6 @@ schedule will be given anymore.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Contact</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Yu Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Lee_Yu_Ying@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Carrissa Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Tay_Sze_Wei_Carrissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tay_Sze_Wei_Carrissa@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -160,9 +132,6 @@ schedule will be given anymore.</p>
 <td rowspan="1" colspan="1">
 <p><a href="tan_yi_ying_bettina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_yi_ying_bettina@schools.gov.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 <tr>
@@ -173,9 +142,6 @@ schedule will be given anymore.</p>
 <p><a href="edward@musicdelight.com.sg" rel="noopener noreferrer nofollow" target="_blank">edward@musicdelight.com.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -184,9 +150,6 @@ schedule will be given anymore.</p>
 <td rowspan="1" colspan="1">
 <p><a href="Joel.d.chua@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Joel.d.chua@gmail.com</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
