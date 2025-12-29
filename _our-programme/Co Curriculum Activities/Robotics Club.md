@@ -65,7 +65,7 @@ of the future.</p>
 </table>
 <p>Please take note that&nbsp;<strong>NO HARD COPY</strong>&nbsp;of training
 schedule will be given anymore.</p>
-<p>Please visit the school website:&nbsp;<a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/</a>&nbsp;for
+<p>Please visit the school website:&nbsp;<a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2026/</a>&nbsp;for
 training schedules.</p>
 <h3>TEACHERS-IN-CHARGE</h3>
 <table style="minWidth: 50px">
@@ -88,15 +88,6 @@ training schedules.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ng_yong_chiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_chiang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Prema Rajoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">prema_rajoo_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
