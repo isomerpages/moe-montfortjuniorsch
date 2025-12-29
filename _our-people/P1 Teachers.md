@@ -31,8 +31,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chai Ming Fang</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">chai_ming_fang@schools.gov.sg</a>
+<p>Ms Chai Ming Fang
+<br><a rel="noopener noreferrer nofollow" target="_blank">chai_ming_fang@schools.gov.sg</a>
 <br>1 Humility</p>
 </td>
 </tr>
@@ -66,8 +66,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kamariah</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">kamariah_atan@schools.gov.sg</a>
+<p>Mdm Kamariah
+<br><a rel="noopener noreferrer nofollow" target="_blank">kamariah_atan@schools.gov.sg</a>
 <br>1 Integrity</p>
 </td>
 </tr>
