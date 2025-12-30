@@ -68,25 +68,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Seesaw for parents</strong>
+<p><strong>Class Dojo</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://help.seesaw.me/hc/en-us/articles/206514655-Getting-started-with-Seesaw-for-families" rel="noopener noreferrer nofollow" target="_blank">https://web.seesaw.me/parents</a> 
-<br><a href="https://apps.apple.com/us/app/seesaw/id930565184" rel="noopener noreferrer nofollow" target="_blank">iOS</a> 
-<br><a href="https://play.google.com/store/apps/details?id=seesaw.shadowpuppet.co.classroom&amp;pcampaignid=web_share" rel="noopener noreferrer nofollow" target="_blank">Android</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Seesaw for students</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://app.seesaw.me/#/student/login" rel="noopener noreferrer nofollow" target="_blank">https://web.seesaw.me/</a> 
-<br><a href="https://apps.apple.com/us/app/seesaw/id930565184" rel="noopener noreferrer nofollow" target="_blank">iOS</a> 
-<br><a href="https://play.google.com/store/apps/details?id=seesaw.shadowpuppet.co.classroom&amp;pcampaignid=web_share" rel="noopener noreferrer nofollow" target="_blank">Android</a>
+<p><a href="https://www.classdojo.com/families/" rel="noopener nofollow" target="_blank">https://www.classdojo.com/families/</a>
+<br><a href="https://play.google.com/store/apps/details?id=com.classdojo.android&amp;pcampaignid=web_share" rel="noopener nofollow" target="_blank">Android</a>
+<br><a href="https://apps.apple.com/us/app/classdojo/id552602056" rel="noopener nofollow" target="_blank">iOS</a>
 </p>
 </td>
 </tr>
