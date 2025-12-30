@@ -132,7 +132,10 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>Interested parents may register your interest to attend mass with us by
-scanning the QR code below or on <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mjscatholic</a>
+scanning the QR code below or on <a href="https://go.gov.sg/mjscatholic" rel="noopener nofollow" target="_blank">https://go.gov.sg/mjscatholic</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Catholic Society/Mass_QR_code.png">
+</div>
+<p></p>
