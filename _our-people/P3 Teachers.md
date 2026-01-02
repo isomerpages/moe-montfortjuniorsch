@@ -19,14 +19,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Choo Xue Er Danica
 <br><a rel="noopener noreferrer nofollow" target="_blank">choo_xue_er_danica@schools.gov.sg</a>
-<br>3 Humility</p>
+<br>3 Compassion</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Zailee Ramli
 <br><a rel="noopener noreferrer nofollow" target="_blank">zailee_ramli@schools.gov.sg</a>
-<br>3 Humility</p>
+<br>3 Compassion</p>
 </td>
 </tr>
 <tr>
