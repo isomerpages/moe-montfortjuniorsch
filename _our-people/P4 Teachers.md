@@ -24,6 +24,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Lee Yoke Leng
+<br><a href="Low_Yoke_Leng_C@schools.gov.sg" rel="noopener nofollow" target="_blank">Low_Yoke_Leng_C@schools.gov.sg</a>
+<br>5 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Chor Hiang
+<br><a href="tan_chor_hiang_a@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_chor_hiang_a@schools.gov.sg</a>
+<br>5 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Sim Ai Koon
 <br><a rel="noopener noreferrer nofollow" target="_blank">sim_ai_koon@schools.gov.sg</a>
 <br>4 Humility</p>
