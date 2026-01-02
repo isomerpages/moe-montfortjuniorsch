@@ -31,12 +31,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Yoke Leng
-<br>5 Compassion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lee Boon Haw Charles
 <br><a rel="noopener noreferrer nofollow" target="_blank">lee_boon_haw@schools.gov.sg</a>
 <br>5 Humility</p>
