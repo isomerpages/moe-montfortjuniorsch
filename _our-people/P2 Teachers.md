@@ -24,7 +24,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Vikneshwari
+<p>Miss Vikneshwari</p>
+<p><a href="Vikneshwari_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Vikneshwari_A@schools.gov.sg</a>
 <br>2 Compassion</p>
 </td>
 </tr>
