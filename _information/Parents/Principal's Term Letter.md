@@ -13,31 +13,28 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2025</p>
+<p>2026</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term Letters/2025/Term_1_Letter_2025.pdf" rel="noopener nofollow" target="_blank">Term 1</a>
+<p><a href="/files/Term Letters/2026/2026_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">Term 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term Letters/2025/2025_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">Term 2</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term Letters/2025/2025_Term_3_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term Letters/2025/2025_Term_4_Letter_final_edited.pdf" rel="noopener nofollow" target="_blank">Term 4</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
