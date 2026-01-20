@@ -301,7 +301,7 @@ champion of the Tier 1 group.</p>
 <p>Mr Victor Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ho_see_hoong_victor@schools.gov.sg</a>
+<p><a href="Ho_See_Hoong_Victor_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ho_See_Hoong_Victor_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
