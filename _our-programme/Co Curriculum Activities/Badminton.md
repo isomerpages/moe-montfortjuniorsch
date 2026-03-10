@@ -306,14 +306,22 @@ in their respective Tiers.</p>
 </tbody>
 </table>
 <h3>VENUE</h3>
-<p>Indoor Sports Hall</p>
-<h3>CCA EVENTS</h3>
-<p><strong>National School Games North Zone Tournament</strong>
+<p>Indoor Sports Hall
+<br>
+</p>
+<h4>CCA EVENTS</h4>
+<p><strong>National School Games Tournament</strong>
 <br>Objectives:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Students will showcase their acquired skills by competing against other
 participants.</p>
+</li>
+<li>
 <p>Students to apply the CHRISTE values and practice sportsmanship during
 the games.</p>
+</li>
+</ul>
 <h3>PHOTO GALLERY</h3>
 <table style="minWidth: 75px">
 <colgroup>
