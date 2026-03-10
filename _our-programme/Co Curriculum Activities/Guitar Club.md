@@ -6,11 +6,11 @@ third_nav_title: Co Curriculum Activities
 variant: tiptap
 ---
 <h1><strong>GUITAR CLUB</strong></h1>
-<p>Join our vibrant Guitar CCA community, where students embark on a musical
-journey, discovering the joy of playing the guitar while developing essential
+<p>Join our vibrant Guitar CCA community where students embark on a musical
+journey and discover the joy of playing the guitar while developing essential
 life skills. Through guitar playing, our students cultivate responsibility,
-discipline, and teamwork, learning to harmonize with their peers to create
-exceptional music.</p>
+discipline, resilience and team spirit, learning to harmonise with their
+peers to create exceptional music.</p>
 <p><strong>Benefiting from Expert Guidance</strong>
 </p>
 <p>Our experienced and dedicated instructors have been mentoring our students
@@ -18,14 +18,11 @@ for over 10 years, providing personalized guidance and support to help
 them grow as musicians.</p>
 <p><strong>Performance Opportunities</strong>
 </p>
-<p>Our Guitar CCA members have the exciting opportunity to participate in:</p>
-<p>- Singapore Youth Festival (SYF)</p>
-<p>- School events: Prize Presentation Day, Founders Day, and Open House
-Day</p>
+<p>Our Guitar CCA members have the opportunities to participate in:
+<br>- Singapore Youth Festival (SYF)
+<br>- School events: Prize Presentation Day, Founders Day and Open House Day</p>
 <p>Come and be a part of our dynamic Guitar CCA family!</p>
 <h3>SCHEDULE&nbsp;</h3>
-<p><strong>Training sessions</strong>
-<br>Please refer to Parents’ Gateway or CCA notice board for the latest updates.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -91,7 +88,6 @@ Day</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30pm – 5.00pm</p>
 <p>3.30pm – 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
