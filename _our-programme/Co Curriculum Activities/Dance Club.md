@@ -13,7 +13,7 @@ skills in a variety of dance moves and performance techniques. We also
 develop our students to have CHRISTE values such as compassion, self-discipline,
 good teamwork, confidence and perseverance through the dance sessions and
 performances.</p>
-<h3>CCA SCHEDULE</h3>
+<h3>SCHEDULE</h3>
 <p>Please refer to Parents’ Gateway or CCA notice board for the latest updates.</p>
 <table style="minWidth: 75px">
 <colgroup>
