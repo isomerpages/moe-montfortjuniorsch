@@ -81,6 +81,39 @@ world.</p>
 </tbody>
 </table>
 <h3>Teachers in-charge</h3>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Patrick Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_tong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xenia Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xenia_chan_yi_qian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xenia_chan_yi_qian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h1></h1>
 <p></p>
