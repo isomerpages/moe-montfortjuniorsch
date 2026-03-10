@@ -7,11 +7,9 @@ variant: tiptap
 ---
 <h1><strong>TABLE TENNIS</strong></h1>
 <p>Table Tennis CCA: Developing Skills and Character</p>
-<p>&nbsp;</p>
 <p>Our Table Tennis CCA offers a holistic experience, fostering skill development,
 discipline, and confidence. We cater to students of all backgrounds and
 skill levels, from beginners to aspiring school team representatives.</p>
-<p>&nbsp;</p>
 <p><strong>Training and Development</strong>
 </p>
 <p>- Experienced coaches lead rigorous training sessions for our School Team</p>
@@ -22,7 +20,6 @@ skill levels, from beginners to aspiring school team representatives.</p>
 </p>
 <p>- School team represents the school in tournaments and competitions</p>
 <p>- Players embody the spirit of "Age Quod Agis" (Do well whatever you do)</p>
-<p>&nbsp;</p>
 <p><strong>Join Our Table Tennis Community!</strong>
 </p>
 <p>Whether you're a seasoned player or a beginner, our Table Tennis CCA welcomes
