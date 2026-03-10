@@ -6,22 +6,30 @@ third_nav_title: Co Curriculum Activities
 variant: tiptap
 ---
 <h1><strong>FOOTBALL</strong></h1>
-<p>Welcome to Montfort Football CCA! Montfort Football has continued to grow
-year on year in terms of providing quality experience in the game. At the
-heart of our CCA is a commitment to fostering both individual skill development
-and team camaraderie. We provide a platform for players of all skill levels
-to come together, learn and grow as athletes. Our highly experienced coaching
-staff are dedicated to honing each player’s abilities while instilling
-a sense of sportsmanship and teamwork.</p>
-<p></p>
-<p>Members of our CCA can expect energetic training sessions, tactical drills
-and exciting match experiences regardless of whether they are seasoned
-players or new to the sport. They will be given the opportunity to embrace
-the spirit of friendly competition and continuous improvement.</p>
-<p></p>
-<p>Beyond the field, Montfort Football emphasises on the importance of discipline,
-leadership and respect. These values contribute to the holistic development
-of our members.</p>
+<p>At Montfort Junior, football has long been a cornerstone of our sporting
+culture, inspiring generations of students since the school’s early years.
+With a proud tradition of excellence and sportsmanship, our Football CCA
+has nurtured talented players who have gone on to represent the school
+with distinction and continue their passion for the game beyond their primary
+school years.</p>
+<p><strong>Competitive Excellence</strong>
+<br>Guided by dedicated and experienced coaches, our football team trains
+rigorously to compete in invitational and national competitions. Through
+structured training sessions and match experiences, players sharpen their
+technical skills, tactical awareness, and physical fitness. More importantly,
+they develop vital values such as resilience, discipline, teamwork and
+respect. The challenges of competition shape our boys into confident leaders
+and gracious sportsmen, both on and off the field.</p>
+<p><strong>Inclusive and Developmental</strong>
+<br>Beyond the competitive squad, our Football CCA provides opportunities
+for students of all abilities to learn and enjoy the game. Training focuses
+on fundamental skills, game understanding and character development in
+a supportive and encouraging environment. Whether a beginner discovering
+football for the first time or an experienced player refining his craft,
+every student is given the platform to grow, build friendships and experience
+the joy of the beautiful game.</p>
+<p>Join our vibrant football community and be part of a legacy built on passion,
+perseverance and pride!</p>
 <h3>SCHEDULE</h3>
 <table style="minWidth: 75px">
 <colgroup>
