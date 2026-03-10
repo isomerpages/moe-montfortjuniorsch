@@ -121,6 +121,10 @@ learning, and growing together!</p>
 </tr>
 </tbody>
 </table>
+<p>Please take note that&nbsp;<strong>NO HARD COPY</strong>&nbsp;of training
+schedule will be given anymore.</p>
+<p>Please visit the school website: <a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2026/</a> for
+training schedules.</p>
 <h3>PROGRAMME HIGHLIGHTS/UPDATES FOR 2026</h3>
 <p>National School Games: Junior and Senior Division</p>
 <h3><strong>AWARDS/ ACHIEVEMENTS 2024</strong></h3>
