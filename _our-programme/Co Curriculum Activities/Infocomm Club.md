@@ -80,5 +80,7 @@ world.</p>
 </tr>
 </tbody>
 </table>
+<h3>Teachers in-charge</h3>
 <p></p>
-<p>teachers in charge</p>
+<h1></h1>
+<p></p>
