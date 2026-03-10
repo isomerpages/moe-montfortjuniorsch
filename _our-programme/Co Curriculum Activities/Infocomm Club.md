@@ -48,7 +48,7 @@ communication, and adaptability. By empowering students to design, create,
 and innovate using technology, the Infocomm Club prepares them to be confident
 digital creators and responsible citizens in an increasingly technology-driven
 world.</p>
-<h3>Schedule</h3>
+<h3>SCHEDULE</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
