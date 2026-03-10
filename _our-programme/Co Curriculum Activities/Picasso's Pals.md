@@ -6,17 +6,19 @@ third_nav_title: Co Curriculum Activities
 variant: tiptap
 ---
 <h1><strong>PICASSO'S PALS</strong></h1>
-<p>Join Picasso’s Pals, a creative hub where imagination comes to life! This
-club is all about exploring art in new and exciting ways, giving you the
-freedom to experiment with different styles, techniques, and materials
-beyond the classroom. Whether you love drawing, sculpting, or mixed media,
-you'll have the opportunity to dive into unique projects, collaborate with
-others, and bring your ideas to life. More than just an art club, Picasso’s
-Pals is a space to express yourself, challenge your creativity, and be
-part of a supportive community that shares your passion for artistic discovery.</p>
-<p>This year, we’re focusing on pencil techniques—mastering realistic shading,
-exploring 3D works, and experimenting with other exciting techniques. Come
-create, collaborate, and let your imagination take flight!</p>
+<p><strong>Picasso’s Pals </strong>is an art enrichment programme where students
+learn through thoughtful making and exploration. Lessons are designed to
+nurture curiosity, focus, and confidence, while helping students learn
+how to observe carefully, think critically, and make thoughtful decisions.
+Art-making becomes a way for students to slow down, reflect, and express
+their ideas in a supportive environment.</p>
+<p>Each term, students explore their learning through one anchor artist,
+using the artist’s approach to guide a project or medium. Through hands-on
+activities, students practice problem-solving, perseverance, and adaptability
+as they experiment, adjust their work, and learn from the process rather
+than aiming for a “perfect” result.</p>
+<p>Students of all experience levels are welcome, with opportunities to explore,
+reflect, and grow in confidence at their own pace.</p>
 <h3>SCHEDULE</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -81,19 +83,32 @@ training schedules.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lalita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lalita_devi_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lalita_devi_singh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>AWARDS/ACHIEVEMENTS</h3>
-<p>Land Transport Authority (LTA) Art Competition 2024
-<br>
-</p>
-<p>Exhibition at Punggol Regional Library, 2023
-<br>
-</p>
-<p>Participated in the Singapore Youth Festival 2021 &amp; 2023</p>
-<h3>PROGRAMME HIGHLIGHTS/UPDATES FOR 2025</h3>
-<p>We are currently working on projects for:</p>
-<p>Singapore Youth Festival 2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Exhibition at Punggol Regional Library, 2023</p>
+</li>
+<li>
+<p>Participated in the Singapore Youth Festival 2023</p>
+</li>
+<li>
+<p>Land Transport Authority (LTA) Art Competition 2024</p>
+</li>
+<li>
+<p>Exhibition in Singapore Youth Festival 2025 (Category C)</p>
+</li>
+</ul>
 <h3>VENUE</h3>
 <p>Art Room 1 &amp; 2</p>
 <h3>PHOTO GALLERY</h3>
