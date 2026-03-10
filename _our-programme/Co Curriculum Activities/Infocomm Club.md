@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
+<h1><strong>INFOCOMM CLUB</strong></h1>
 <p>The Infocomm Club provides students with meaningful opportunities to explore
 the dynamic world of digital technology, coding, and innovation through
 hands-on, experiential learning. Students are introduced to physical computing
