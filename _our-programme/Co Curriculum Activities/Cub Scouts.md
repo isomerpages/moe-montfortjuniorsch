@@ -83,6 +83,10 @@ Discover the Montfort Scouts difference today!</p>
 </tr>
 </tbody>
 </table>
+<p>Please take note that&nbsp;<strong>NO HARD COPY</strong>&nbsp;of training
+schedule will be given anymore.</p>
+<p>Please visit the school website: <a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2026/</a> for
+training schedules.</p>
 <h3>TEACHERS-IN-CHARGE</h3>
 <table style="minWidth: 50px">
 <colgroup>
