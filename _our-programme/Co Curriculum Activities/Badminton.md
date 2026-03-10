@@ -247,7 +247,7 @@ fielding a team of 3 singles and 3 doubles players. They achieved a mix
 of Tier 1 and Tier 2 placements, with an outstanding number of 6 Champions
 in their respective Tiers.</p>
 <p>Congratulations to our badminton teams!</p>
-<h3>Teachers in-charge</h3>
+<h3>TEACHERS IN-CHARGE</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
