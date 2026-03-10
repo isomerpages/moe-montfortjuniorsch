@@ -80,7 +80,7 @@ world.</p>
 </tr>
 </tbody>
 </table>
-<h3>Teachers in-charge</h3>
+<h3>TEACHERS IN-CHARGE</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -115,5 +115,5 @@ world.</p>
 </tr>
 </tbody>
 </table>
-<h1></h1>
+<h3>PHOTO GALLERY</h3>
 <p></p>
