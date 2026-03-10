@@ -47,3 +47,37 @@ communication, and adaptability. By empowering students to design, create,
 and innovate using technology, the Infocomm Club prepares them to be confident
 digital creators and responsible citizens in an increasingly technology-driven
 world.</p>
+<h3>Schedule</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MCCA Infocomm Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40am - 9.10am</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>teachers in charge</p>
