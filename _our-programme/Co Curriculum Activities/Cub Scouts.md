@@ -13,16 +13,36 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Cub%20Scouts.jpg">
 </div>
-<p>Our objective is to contribute to the education of our young Montfortians,
-through a value system based on the Scout Promise and Law.</p>
-<p></p>
-<p>Our mission is to develop and nurture our young gentleman into self-fulfilled
-individuals who will play a constructive role in society.</p>
-<p></p>
-<p>Students will be able to learn various scouting skills from knots tying,
-camp craft and outdoor cooking. More importantly, they will learn how to
-support one another and work in teams to develop their sense of resilience
-and mental toughness.</p>
+<p><strong>Building Tomorrow's Leaders Through Adventure and Character</strong>
+</p>
+<p>At Montfort, our Scouts programme is where young gentlemen embark on extraordinary
+journeys of self-discovery and leadership development. Guided by the timeless
+values of the Scout Promise and Law, we're committed to nurturing well-rounded
+individuals who will make meaningful contributions to society.</p>
+<p><strong>What Makes Our Scouts Special?</strong>
+</p>
+<p>Our Scouts don't just learn skills – they build character through adventure!
+From mastering the art of knot-tying to creating memorable camping experiences
+and cooking delicious meals, every activity is designed to challenge and
+inspire. But the real magic happens when our boys learn to support one
+another, working as a unified team to overcome obstacles and celebrate
+achievements together.</p>
+<p><strong>Beyond the Badges: Life Skills That Matter</strong>
+</p>
+<p>Through carefully crafted outdoor experiences, our Scouts develop invaluable
+qualities that extend far beyond the campsite. They cultivate resilience
+when facing challenges, build mental toughness through perseverance, and
+discover the joy of collaborative problem-solving. These aren't just scouting
+skills – they're life skills that will serve them well in their academic
+journey and future careers.</p>
+<p>&nbsp;<strong>Join Our Brotherhood of Adventure</strong>
+</p>
+<p>&nbsp;When your son joins Montfort Scouts, he becomes part of a proud
+tradition of young leaders who embrace challenges, support their peers,
+and grow into confident, capable gentlemen ready to make their mark on
+the world.</p>
+<p>Ready to see your son thrive through adventure and character-building?
+Discover the Montfort Scouts difference today!</p>
 <h3>SCHEDULE</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -65,8 +85,8 @@ and mental toughness.</p>
 </table>
 <p>Please take note that&nbsp;<strong>NO HARD COPY</strong>&nbsp;of training
 schedule will be given anymore.</p>
-<p>Please visit the school website: https://montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/
-for training schedules.</p>
+<p>Please visit the school website: <a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2026/</a> for
+training schedules.</p>
 <h3>TEACHERS-IN-CHARGE</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -91,21 +111,36 @@ for training schedules.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nur Akashah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nur_akashah_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_akashah_mustaffa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<h3>AWARDS/ ACHIEVEMENTS</h3>
-<p>Frank Sand Coopers Award 2019 (BRONZE)</p>
 <h3>CCA EVENTS</h3>
-<p><strong>Objective of Participation</strong>
+<p><strong>Cub Scouts: Where Excellence Meets Adventure</strong>
 </p>
-<p>We want our Cub Scouts to “Do Well in Whatever You Do” which is in line
-with the School Motto - <strong>AGE QUOD AGIS.</strong>
+<p><strong>&nbsp;</strong>
 </p>
-<p>&nbsp;</p>
-<p>We want our Cub Scouts to pit their knowledge and skills learned together
-with other fellow scouts members. We also want our Cub Scouts to apply
-the CHRISTE values and practice sportsmanship values during the campaigns
-and competitions.</p>
+<p><strong>Living Our School Motto Through Scouting</strong>
+</p>
+<p>At Montfort, our Cub Scouts embody our cherished motto "AGE QUOD AGIS"
+– Do Well in Whatever You Do. Every activity, every challenge, and every
+adventure is an opportunity for our young Cubs to strive for excellence
+whilst having tremendous fun along the way.</p>
+<p><strong>Character Building in Action</strong>
+</p>
+<p>What truly sets our Cub Scouts apart is how they bring the CHRISTE values
+to life in everything they do. Through friendly competitions and collaborative
+campaigns, our Cubs learn the importance of good sportsmanship, supporting
+their teammates, and celebrating others' successes. These experiences teach
+them that winning isn't just about coming first – it's about giving your
+best effort, playing fairly, and lifting others up along the way.</p>
 <h3>PHOTO GALLERY</h3>
 <table style="minWidth: 50px">
 <colgroup>

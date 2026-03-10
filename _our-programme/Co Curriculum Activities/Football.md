@@ -6,23 +6,60 @@ third_nav_title: Co Curriculum Activities
 variant: tiptap
 ---
 <h1><strong>FOOTBALL</strong></h1>
-<p>Welcome to Montfort Football CCA! Montfort Football has continued to grow
-year on year in terms of providing quality experience in the game. At the
-heart of our CCA is a commitment to fostering both individual skill development
-and team camaraderie. We provide a platform for players of all skill levels
-to come together, learn and grow as athletes. Our highly experienced coaching
-staff are dedicated to honing each player’s abilities while instilling
-a sense of sportsmanship and teamwork.</p>
-<p></p>
-<p>Members of our CCA can expect energetic training sessions, tactical drills
-and exciting match experiences regardless of whether they are seasoned
-players or new to the sport. They will be given the opportunity to embrace
-the spirit of friendly competition and continuous improvement.</p>
-<p></p>
-<p>Beyond the field, Montfort Football emphasises on the importance of discipline,
-leadership and respect. These values contribute to the holistic development
-of our members.</p>
+<p>At Montfort Junior, football has long been a cornerstone of our sporting
+culture, inspiring generations of students since the school’s early years.
+With a proud tradition of excellence and sportsmanship, our Football CCA
+has nurtured talented players who have gone on to represent the school
+with distinction and continue their passion for the game beyond their primary
+school years.</p>
+<p><strong>Competitive Excellence</strong>
+<br>Guided by dedicated and experienced coaches, our football team trains
+rigorously to compete in invitational and national competitions. Through
+structured training sessions and match experiences, players sharpen their
+technical skills, tactical awareness, and physical fitness. More importantly,
+they develop vital values such as resilience, discipline, teamwork and
+respect. The challenges of competition shape our boys into confident leaders
+and gracious sportsmen, both on and off the field.</p>
+<p><strong>Inclusive and Developmental</strong>
+<br>Beyond the competitive squad, our Football CCA provides opportunities
+for students of all abilities to learn and enjoy the game. Training focuses
+on fundamental skills, game understanding and character development in
+a supportive and encouraging environment. Whether a beginner discovering
+football for the first time or an experienced player refining his craft,
+every student is given the platform to grow, build friendships and experience
+the joy of the beautiful game.</p>
+<p>Join our vibrant football community and be part of a legacy built on passion,
+perseverance and pride!</p>
 <h3>SCHEDULE</h3>
+<p><strong>MSPEX (School Team) schedule</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Training Days</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MSPEX</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, Tuesday and Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30pm - 5.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Recreational Team Schedule *Begins on 3rd February 2026</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -46,71 +83,45 @@ of our members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 Futsal</p>
+<p>Primary 1 &amp; Primary 2 Development Group</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays</p>
+<p>Wednesday</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm – 3.30pm</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 2 Futsal</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.00pm – 3.30pm</p>
+<p>2.30pm – 4.00pm</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 &amp; Primary 4 Developmental</p>
+<p>Primary 3 &amp; Primary 4 Development Group</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm – 5.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 5 &amp; Primary 6 Recreational</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.40am – 9.10am (MCCA)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MSPEX/School Team</p>
-<p>&nbsp;</p>
+<p>P5 &amp; P6 Recreational Football MCCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays</p>
-<p>Tuesdays</p>
-<p>Thursdays</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30pm – 5.30pm</p>
-<p>&nbsp;</p>
+<p>7.40am – 9.10am</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>Please take note that&nbsp;<strong>NO HARD COPY</strong>&nbsp;of training
 schedule will be given anymore.</p>
 <p>Please visit the school website: <a href="https://www.montfortjunior.moe.edu.sg/ourprogramme/cocurriculumactivities/cca2024/" rel="noopener noreferrer nofollow" target="_blank">https://montfortjunior.moe.edu.sg/our-programme/Co-Curriculum-Activities/cca2026/</a> for
@@ -141,6 +152,24 @@ training schedules.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Alvin Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_yong_chiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_chiang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xenia Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Xenia_Chan_Yi_Qian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Xenia_Chan_Yi_Qian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Rizal (Head Coach)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,82 +179,8 @@ training schedules.</p>
 </tr>
 </tbody>
 </table>
-<h3>PROGRAMME HIGHLIGHTS/UPDATES FOR 2023</h3>
-<p>National School Games: Senior Division North Zone Champions</p>
-<h3>NATIONAL SCHOOL GAMES NORTH ZONE TOURNAMENT</h3>
-<p>Objectives:</p>
-<p>Students to pit their learned skills against other participating schools</p>
-<p>Students to apply the CHRISTE values and practice sportsmanship during
-the games.</p>
-<h3><strong>AWARDS / ACHIEVEMENTS (2023)</strong></h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Division</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Competition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Placing</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG – North Zone</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG – Nationals</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior/Junior Combined</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SJI Invitational</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Junior Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Victoria Invitational</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2<sup>nd</sup>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3>PROGRAMME HIGHLIGHTS/UPDATES FOR 2026</h3>
+<p>National School Games: Junior and Senior Division</p>
 <h3><strong>AWARDS / ACHIEVEMENTS (2024)</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -240,20 +195,20 @@ the games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Competition</strong>
+<p><strong>National</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Placing</strong>
+<p><strong>Results</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Team</p>
+<p>Senior Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG League 1</p>
+<p>League 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 8</p>
@@ -261,36 +216,101 @@ the games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior Team</p>
+<p>Junior Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG League 1</p>
+<p>League 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Group Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior/Junior Combined</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SJI Invitational</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2<sup>nd</sup>
-</p>
+<p>Top of Groups Games</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>In 2023, the senior team created Montfort history as they brought home
-our first NSG football title when they emerged North Zone Champions in
-the National School Games. 2023 and 2024 saw us achieve and maintain a
-Top 8 League 1 placing in the revamped format.</p>
-<p>&nbsp;</p>
-<p>Our teams are also a consistent feature in various annual invitationals.</p>
+<p><strong>Senior Boys: League 1 Achievement</strong>
+<br>Our Senior Boys displayed outstanding determination, teamwork, and skill
+in the Senior Division of the National School Games. Competing in League
+1, they rose to the challenge and secured an impressive <strong>Top 8 finish</strong> —
+a testament to their hard work and resilience throughout the season.</p>
+<p><strong>Junior Boys: League 1 Achievement</strong>
+<br>Our Junior Boys also put up a strong showing in the National School Games.
+Demonstrating excellent teamwork and tactical awareness, they emerged <strong>top of their group in the League 1 Group Stage</strong>,
+reflecting their commitment and growing confidence on the field.</p>
+<p>Congratulations to our Football CCA players and coaches for their dedication
+and sporting excellence!</p>
+<h3><strong>AWARDS / ACHIEVEMENTS (2025)</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Division</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Runners-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> in Group Games</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Senior Boys: League 1 Success</strong>
+<br>Our Senior Boys demonstrated remarkable determination, resilience, and
+skill throughout the Senior Division of the National School Games. Competing
+at the League 1 level, they delivered an outstanding campaign and emerged
+as <strong>1st Runners-Up nationwide</strong>, narrowly missing the title
+in the finals. Their achievement reflects their discipline, teamwork, and
+unwavering fighting spirit.</p>
+<p><strong>Junior Boys: League 1 Achievers</strong>
+<br>Our Junior Boys also showcased their talent and teamwork in the National
+School Games. Competing in League 1, they secured a commendable <strong>Top 2 finish in their Group Stage</strong>,
+highlighting their growth, commitment, and strong team cohesion.</p>
+<p>Congratulations to our Football CCA players and coaches for their dedication
+and exceptional performance this season!</p>
+<p></p>
+<p><strong><u>National School Games Tournament</u></strong>
+</p>
+<p>Objectives:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students will showcase their acquired skills by competing against other
+participants.</p>
+</li>
+<li>
+<p>Students to apply the CHRISTE values and practice sportsmanship during
+the games.</p>
+</li>
+</ul>
 <h3>PHOTO GALLERY</h3>
 <table style="minWidth: 50px">
 <colgroup>

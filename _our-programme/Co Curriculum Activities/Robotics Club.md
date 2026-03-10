@@ -6,31 +6,41 @@ third_nav_title: Co Curriculum Activities
 variant: tiptap
 ---
 <h1><strong>ROBOTICS CLUB</strong></h1>
-<p>Our team members are trained to build robots using LEGO's Spike Prime
-core set. They apply their coding skills to program the robots, enabling
-them to successfully complete a variety of missions assigned each week.
-Through hands-on experience, they develop problem-solving abilities, teamwork,
-and technical knowledge, making each task both educational and fun.</p>
-<p></p>
-<p>Selected Primary 5 students will represent our team in the annual National
-Robotics Competition 2025, which will be held at the Singapore Science
-Centre during the September holidays. This exciting opportunity allows
-students to showcase their skills and passion for robotics, competing in
-events alongside other talented participants.</p>
-<p></p>
-<p>Primary 6 students will proudly represent MJS in the IDE (Innovation,
-Design, and Engineering) Series Robotics 2025 competition, which will take
-place at the F1 Pit Building in May. This event offers students the opportunity
-to demonstrate their creativity, technical skills, and innovative thinking
-as they compete in a challenging and inspiring environment.</p>
-<p></p>
-<p>In conclusion, our robotics co-curricular activity provides students with
-invaluable opportunities to develop critical skills such as problem-solving,
-creativity, and teamwork. Through hands-on experience and participation
-in competitions, students not only enhance their technical abilities but
-also build confidence and resilience. These experiences empower them to
-become the innovators and engineers of tomorrow, ready to tackle the challenges
-of the future.</p>
+<p>The Robotics MCCA provides students with meaningful opportunities to explore
+the exciting world of robotics, coding, and engineering through hands-on
+learning experiences. Using the LEGO Spike Prime core set, students learn
+to design, build, and program robots while applying computational thinking
+and problem-solving skills to complete a variety of structured missions
+and open-ended challenges. These activities encourage students to think
+creatively and apply theoretical knowledge in practical ways.</p>
+<p>Throughout the programme, students develop a strong foundation in coding
+concepts, engineering design, and logical thinking. They are guided to
+analyse problems, test solutions, and refine their designs through an iterative
+process of trial and improvement. By working on collaborative projects,
+students also learn the importance of communication, teamwork, and shared
+responsibility, gaining valuable experience in working effectively with
+their peers.</p>
+<p>Students are also given opportunities to represent the school in external
+robotics competitions. Selected Primary 5 students participate in national-level
+robotics events where they apply their coding, design, and problem-solving
+skills in a competitive and collaborative environment. Primary 6 students
+further extend their learning by taking part in advanced robotics competitions
+that challenge them to demonstrate creativity, teamwork, and innovative
+thinking. These experiences allow students to apply their knowledge in
+authentic settings while building confidence, resilience, and a strong
+sense of accomplishment.</p>
+<p>The Robotics MCCA nurtures a growth mindset as students learn to embrace
+challenges and view setbacks as opportunities for improvement. Through
+experimentation and innovation, students build confidence in their abilities
+while developing curiosity and a willingness to explore new ideas. The
+hands-on nature of the activities ensures that learning remains engaging,
+purposeful, and enjoyable.</p>
+<p>Beyond technical skills, the programme aims to cultivate essential 21st-century
+competencies such as critical thinking, creativity, collaboration, and
+adaptability. Through project-based learning and authentic problem-solving
+experiences, the Robotics MCCA empowers students to grow into confident,
+future-ready individuals who are equipped with the skills and mindset to
+become the innovators and problem-solvers of tomorrow.</p>
 <h3>SCHEDULE</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -91,13 +101,17 @@ training schedules.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Prema Rajoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:prema_rajoo_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prema_rajoo_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<h3>PROGRAMME HIGHLIGHTS/UPDATES FOR 2025</h3>
-<p>National Robotics Competition 2025</p>
-<p>IDE Series Robotics 2025</p>
-<h3>Awards/ Achievements</h3>
-<p>Certificate of Participation</p>
 <h3>VENUE</h3>
 <p>Computer Lab 3 (Level 3)</p>
 <h3>PHOTO GALLERY</h3>
