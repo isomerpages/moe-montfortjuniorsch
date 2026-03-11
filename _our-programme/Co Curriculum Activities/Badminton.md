@@ -327,60 +327,46 @@ the games.</p>
 </li>
 </ul>
 <h3>PHOTO GALLERY</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NSG Senior Division" src="/images/CCA/Badminton/NSG_Senior_Division.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Senior_Team___Team_photo.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student coaching 1" src="/images/CCA/Badminton/Student_coaching_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student coaching 2" src="/images/CCA/Badminton/Student_coaching_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Senior_Team___Team_photo_with_Parents.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Friendly match with Poi Ching School" src="/images/CCA/Badminton/Friendly_match_with_Poi_Ching_School.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NSG Junior Division Affirmation" src="/images/CCA/Badminton/NSG_Junior_Division_Affirmation.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Exchange program training in KL" src="/images/CCA/Badminton/Exchange_program_training_in_KL.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCA Try out" src="/images/CCA/Badminton/CCA_Try_out.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NSG Junior Division Singles" src="/images/CCA/Badminton/NSG_Junior_Division_Singles.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Junior_Team___Team_photo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Friendly_match_with_Rosyth___Marist.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Friendly_match_with_Poi_Ching.jpg">
+</div>
 </td>
 </tr>
 </tbody>
