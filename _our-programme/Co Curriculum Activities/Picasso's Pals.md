@@ -112,54 +112,52 @@ training schedules.</p>
 <h3>VENUE</h3>
 <p>Art Room 1 &amp; 2</p>
 <h3>PHOTO GALLERY</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/6_jpg.jpg">
 </div>
-<p>Picasso’s Pals 2024 Members</p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/5_jpg.jpg">
 </div>
-<p>Space Sculpture Installation</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/3.jpg">
-</div>
-<p>Behind the Scenes - Space Sculpture Installation</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/4_jpg.jpg">
 </div>
-<p><strong>3D Pen Project</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/3_jpg.jpg">
 </div>
-<p><strong>Selected Artworks for the LTA Art Competition in Hougang Interchange 2024</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/2_jpg.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picasso's Pals/1_jpg.jpg">
 </div>
-<p><strong>Founder’s Day 2024 Artist for Guest of Honour</strong>
-</p>
 </td>
 </tr>
 </tbody>
