@@ -150,38 +150,18 @@ best effort, playing fairly, and lifting others up along the way.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCA Selections Day 01" src="/images/CCA/Cub Scouts/2025_CCA_Selections_Day_01.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Drill and Command" src="/images/CCA/Cub Scouts/2025_Drill_and_Command.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Enjoying in a Pitched tent" src="/images/CCA/Cub Scouts/2025_Enjoying_in_a_Pitched_tent.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Participated in 60 Jubliee Celebration for Singapore Scouts" src="/images/CCA/Cub Scouts/2025_Participated_in_60_Jubliee_Celebration_for_Singapore_Scouts.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Team work in Folding a Pitched tent" src="/images/CCA/Cub Scouts/2025_Team_work_in_Folding_a_Pitched_tent.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Teamwork and Friendship" src="/images/CCA/Cub Scouts/2025_Teamwork_and_Friendship.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
