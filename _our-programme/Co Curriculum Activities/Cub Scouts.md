@@ -151,17 +151,29 @@ best effort, playing fairly, and lifting others up along the way.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub Scouts/004_Cub_Scouts_in_presence_for_Montfort_Schools_Founders_Day.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub Scouts/003_Cub_scouts_in_presence_for_National_Day_Observance_Ceremony.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub Scouts/002_Cub_Scouts_in_presence_for_National_Day_Observance_Ceremony_02.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub Scouts/001_Cub_Scouts_in_presence_for_National_Day_Observance_Ceremony_01.jpg">
+</div>
 </td>
 </tr>
 </tbody>
