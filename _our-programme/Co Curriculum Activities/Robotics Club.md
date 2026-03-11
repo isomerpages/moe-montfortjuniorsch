@@ -115,61 +115,79 @@ training schedules.</p>
 <h3>VENUE</h3>
 <p>Computer Lab 3 (Level 3)</p>
 <h3>PHOTO GALLERY</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_39.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Teamwork_at_its_best_as_students_collaborate_to_test__improve__and_bring_their_ideas_to_life_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_38.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_38__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Ready_for_action_.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_38__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Robotics_in_the_spotlight__Students_engaging_peers_with_interactive_demonstrations_during_the_CCA_booth_showcase_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_37.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Peer_learning_in_action_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/All_set_for_the_challenge__Students_gear_up_with_confidence_as_their_robots_line_up_for_action_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_36.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Learning_through_sharing___students_showcasing_their_robotics_builds_and_inspiring_others_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_36__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Our_Robotics_team_proudly_representing_the_school_and_showcasing_their_skills_at_a_national_level_event_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Coding_in_action_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/celebrating_learning__teamwork__and_shared_achievements_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_35.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/WhatsApp_Image_2025_02_24_at_20_34_34.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Hands_on_problem_solving.jpg">
 </div>
 </td>
 </tr>
