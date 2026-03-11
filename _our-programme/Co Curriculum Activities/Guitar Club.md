@@ -198,55 +198,60 @@ for several external and school events!</p>
 <h3>AWARDS/ ACHIEVEMENTS</h3>
 <p>Attained a Certificate of Accomplishment in SYF 2024</p>
 <h3>Photo Gallery</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/CCA_Day_2025_Group_Pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/SG60_Carnival_Group_Shot.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/CCA_Day_2025_Guiding_Juniors.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/CCA_Day_2025_Performance_Boys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/CCA_Selection_Day_2026___Trying_out.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/Open_House_2024.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/SYF_2024_Boys_warming_up.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/SYF_2024_Group_Pic.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/SYF_rehearsal_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/Founder_s_Day_2025___Performance_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/Founder_s_Day_2025___Performance_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/Open_House_2025__Performance_Boys.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/CCA_Selection_Day_2026___Performance.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Club/CCA_Selection_Day_2026___Performance_3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
