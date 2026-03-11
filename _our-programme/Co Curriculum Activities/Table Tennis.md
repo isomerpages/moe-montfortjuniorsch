@@ -184,26 +184,41 @@ champions are defined by character, not just results</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Junior_Team___Andre_Khoo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Starting_a_game.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Junior_Team___Cheng_Yu_Chik_and_Yang_Chenming.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Serving_for_a_doubles_game.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Junior_Team___Xie_Lantian_and_Asher_Chua.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Senior_Team_2026.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/NSG_Senior_Team_with_Coach_Dexter.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Fun_during_training.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/Complete_focus.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
