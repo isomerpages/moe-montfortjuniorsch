@@ -2,11 +2,13 @@ collections:
   our-programme:
     output: true
     order:
-      - Montfort Sports Excellence Programme (MSPEX).md
       - Aesthetics.md
       - Applied Learning Programme (ALP).md
       - Boys Centric Education.md
       - Catholic Programme.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Sexuality Education.md
       - Co Curriculum Activities/.keep
       - Co Curriculum Activities/CCA 2026.md
       - Co Curriculum Activities/Badminton.md
@@ -19,18 +21,16 @@ collections:
       - Co Curriculum Activities/Robotics Club.md
       - Co Curriculum Activities/Table Tennis.md
       - Co Curriculum Activities/Wushu.md
-      - CCE/.keep
-      - CCE/Character & Citizenship Education.md
-      - CCE/Sexuality Education.md
       - English Language.md
-      - Mathematics.md
-      - Science.md
+      - Learning for Life Programme/.keep
       - Learning for Life Programme/Montfort Schools Sport Excellence Programme
         (MSPEX).md
-      - Learning for Life Programme/.keep
+      - Mathematics.md
+      - Montfort Sports Excellence Programme (MSPEX).md
+      - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Chinese Language.md
       - Mother Tongue Languages/Tamil Language.md
       - Mother Tongue Languages/Malay Language.md
-      - Mother Tongue Languages/.keep
       - Physical Education.md
       - Programme for Active Learning (PAL).md
+      - Science.md
