@@ -52,8 +52,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ruth Chen
-<br><a rel="noopener noreferrer nofollow" target="_blank">chen_gengshi_ruth@schools.gov.sg</a>
+<p>Mr Zhang Wang
+<br><a href="mailto:zhang_wang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_wang@schools.gov.sg</a>
 <br>5 Respect</p>
 </td>
 </tr>
