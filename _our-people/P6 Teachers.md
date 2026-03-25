@@ -64,6 +64,13 @@ variant: tiptap
 <br>6 Integrity</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Jing Yi</p>
+<p></p>
+<p>6 Integrity</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
