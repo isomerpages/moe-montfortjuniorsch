@@ -107,5 +107,5 @@ Montfort Junior School for 2024 can indicate their interest in joining
 CLS. Please note that placement in the SCC is subjected to vacancies and
 should there be more applicants for the vacancies, a ballot will be conducted.</p>
 <p>Please refer to the link below for “Student Care Form of Interest”:</p>
-<p><a href="https://forms.gle/7ZmBpK35bXRProQo8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/7ZmBpK35bXRProQo8</a>
+<p><a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=56" rel="noopener noreferrer nofollow" target="_blank">https://cls.cyberland.sg/scc/sccapplication.php?CentreID=56</a>
 </p>
