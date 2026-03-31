@@ -4,7 +4,7 @@ permalink: /montfort-junior-school-schedule-of-masses-for-term-2-2026/
 variant: tiptap
 description: ""
 ---
-<p><strong>SCHEDULE OF MASSES FOR TERM 1 2026</strong>
+<p><strong>SCHEDULE OF MASSES FOR TERM 2 2026</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -34,63 +34,35 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Jan (Fri)</p>
+<p>7-Apr (Tues)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blessing of School Year Mass</p>
+<p>Monthly Mass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Montfort Chapel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:00 - 7:40 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24-Apr (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Founder’s Day Mass</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MJS School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.40 am – 8.40 am</p>
+<p>8:15 - 9:15 a.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Jan (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Breakfast with Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PAL room, 6<sup>th</sup> floor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.40 am – 9.40 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Commencing 16 Jan (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students and parents are warmly invited to join us for weekly Rosary prayer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rosary Garden</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.00 am – 7.30 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Jan (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dedication of School Year Mass (DOSY) for Catholic students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Immaculate Heart of Mary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.00 pm – 5.00 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Feb (Tues)</p>
+<p>5-May (Tues)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monthly Mass</p>
@@ -99,35 +71,21 @@ description: ""
 <p>Montfort Chapel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 am – 7.40 am</p>
+<p>7:00 - 7:40 a.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Feb (Thu)</p>
+<p>14-May (Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monthly Mass</p>
+<p>Ascension Day Mass</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Montfort Chapel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 am – 7.40 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Mar (Tues)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monthly Mass</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Montfort Chapel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.00 am – 7.40 am</p>
+<p>7:00 - 7:40 a.m.</p>
 </td>
 </tr>
 </tbody>
