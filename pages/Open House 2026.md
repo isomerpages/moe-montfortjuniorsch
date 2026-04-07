@@ -33,8 +33,8 @@ walk)
 Visitors are advised to park at nearby HDB open carparks situated within
 walking distance to the school's side gate. Nearest outdoor public parking
 lot is at Block 524.</p>
-<p>&nbsp;</p>
-<p><strong><u><br>PRIMARY 1 REGISTRATION LINKS</u></strong>
+<p>
+<br><strong><u>PRIMARY 1 REGISTRATION LINKS</u></strong>
 </p>
 <p><strong>Primary 1 Registration</strong>
 <br><strong><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a></strong>
