@@ -12,10 +12,10 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/termletter/
+        - title: Open House
+          description: ""
+          url: ""
         - title: Highlights
           description: ""
           url: /highlights/importance-of-a-catholic-education/
-        - title: Open House
-          description: Open House
-          url: ""
 ---
