@@ -15,4 +15,7 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/importance-of-a-catholic-education/
+        - title: Open House
+          description: Open House
+          url: ""
 ---
