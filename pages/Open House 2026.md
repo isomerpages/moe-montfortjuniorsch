@@ -4,10 +4,7 @@ permalink: /open-house-2026/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2026/2026_OH_Web_Banner.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="http://go.gov.sg/mjsopenhouse2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2026/2026_OH_Web_Banner.jpg"></a>
 <p><a href="http://go.gov.sg/mjsopenhouse2026" rel="noopener nofollow" target="_blank">Register your Interest at: http://go.gov.sg/mjsopenhouse2026</a>
 </p>
 <p></p>
