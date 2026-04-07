@@ -14,7 +14,7 @@ sections:
           url: /announcements/termletter/
         - title: Open House
           description: ""
-          url: https://montfortjunior.moe.edu.sg/open-house-2026/
+          url: /open-house-2026/
         - title: Highlights
           description: ""
           url: /highlights/importance-of-a-catholic-education/
