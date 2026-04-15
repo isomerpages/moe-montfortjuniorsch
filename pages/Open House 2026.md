@@ -4,10 +4,19 @@ permalink: /open-house-2026/
 variant: tiptap
 description: ""
 ---
-<p></p><a class="isomer-image-wrapper" href="http://go.gov.sg/mjsopenhouse2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2026/2026_OH_Web_Banner.jpg"></a>
-<p><strong>Register your Interest:</strong>  <a href="http://go.gov.sg/mjsopenhouse2026" rel="noopener nofollow" target="_blank">http://go.gov.sg/mjsopenhouse2026</a>
+<a class="isomer-image-wrapper" href="http://go.gov.sg/mjsopenhouse2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2026/2026_OH_Web_Banner.jpg"></a>
+<p></p>
+<p><strong><u>OPEN HOUSE DETAILS</u></strong>
+<br><strong>Date: </strong>Saturday, 23 May 2026
+<br><strong>Time:</strong> 9.00 am – 12.30 pm
+<br><strong>Register your Interest: <a href="http://go.gov.sg/mjsopenhouse2026" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/mjsopenhouse2026</a></strong>
 </p>
 <p></p>
+<p><strong><u>PROGRAMME HIGHLIGHTS</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2026/2026___OH_Web_Banner_2.jpg">
+</div>
 <p><strong><u>GETTING HERE</u></strong>
 <br><strong>Montfort Junior School</strong>
 <br>52 Hougang Ave 8, Singapore 538786</p>
