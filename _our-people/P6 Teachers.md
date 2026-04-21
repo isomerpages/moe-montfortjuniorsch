@@ -66,10 +66,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jing Yi (Kenny)</p>
-<p><a href="mailto:Tan_Jing_Yi_V@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Jing_Yi_V@schools.gov.sg</a>
-</p>
-<p>6 Integrity</p>
+<p>Ms Tan Jing Yi (Kenny)
+<br><a href="mailto:Tan_Jing_Yi_V@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Jing_Yi_V@schools.gov.sg</a>
+<br>6 Integrity</p>
 </td>
 </tr>
 </tbody>
