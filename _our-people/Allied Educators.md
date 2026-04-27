@@ -31,6 +31,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Foong Yoke Kaye</p>
+<p><a href="mailto:Foong_Yoke_Kaye@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Foong_Yoke_Kaye@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Through sun, wind, and rain, you will bloom all the same.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Phoon Yee Chong
 <br><a href="mailto:phoon_yee_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoon_yee_chong@schools.gov.sg</a>
 </p>
