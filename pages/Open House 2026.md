@@ -23,6 +23,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2026/2026___OH_Web_Banner_2.jpg">
 </div>
+<p></p>
 <p><strong><u>GETTING HERE</u></strong>
 <br><strong>Montfort Junior School</strong>
 <br>52 Hougang Ave 8, Singapore 538786</p>
