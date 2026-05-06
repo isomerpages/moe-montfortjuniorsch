@@ -11,12 +11,19 @@ description: ""
 <br><strong>Time:</strong> 9.00 am – 12.30 pm
 <br><strong>Register your Interest: <a href="http://go.gov.sg/mjsopenhouse2026" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/mjsopenhouse2026</a></strong>
 </p>
+<p><strong><u>ABOUT OUR SCHOOL</u></strong>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/7IGIhIHBZzE?si=cQZIN3Sf0ZP5HwbJ"></iframe>
+</div>
+<p></p>
 <p></p>
 <p><strong><u>PROGRAMME HIGHLIGHTS</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2026/2026___OH_Web_Banner_2.jpg">
 </div>
+<p></p>
 <p><strong><u>GETTING HERE</u></strong>
 <br><strong>Montfort Junior School</strong>
 <br>52 Hougang Ave 8, Singapore 538786</p>
