@@ -26,8 +26,12 @@ description: ""
 <p></p>
 <p><strong><u>SCHOOL MAP</u></strong>
 </p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2026/Open_House_Map_Level_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2026/Open_House_Map_Level_two.png">
+</div>
 <p><strong><u>GETTING HERE</u></strong>
 <br><strong>Montfort Junior School</strong>
 <br>52 Hougang Ave 8, Singapore 538786</p>
