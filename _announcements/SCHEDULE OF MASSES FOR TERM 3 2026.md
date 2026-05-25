@@ -4,7 +4,7 @@ permalink: /montfort-junior-school-schedule-of-masses-for-term-3-2026/
 variant: tiptap
 description: ""
 ---
-<p><strong>SCHEDULE OF MASSES FOR TERM 2 2026</strong>
+<p><strong>SCHEDULE OF MASSES FOR TERM 3 2026</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -34,7 +34,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7-Apr (Tues)</p>
+<p>30 Jun (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monthly Mass</p>
@@ -48,44 +48,58 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-Apr (Fri)</p>
+<p>28 Jul&nbsp; (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Founder’s Day Mass</p>
+<p>Monthly Mass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Montfort Chapel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:00 - 7:40 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Aug&nbsp;(Tue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monthly Mass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Montfort Chapel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:00 - 7:40 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Aug (Tue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monthly Mass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Montfort Chapel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:00 - 7:40 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Sep (Thu)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher's Day Mass</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MJS School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8:15 - 9:15 a.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5-May (Tues)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monthly Mass</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Montfort Chapel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7:00 - 7:40 a.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14-May (Thur)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ascension Day Mass</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Montfort Chapel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7:00 - 7:40 a.m.</p>
+<p>8:00 - 9:00 a.m.</p>
 </td>
 </tr>
 </tbody>
