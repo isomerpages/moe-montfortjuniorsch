@@ -52,6 +52,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Rohinesh K Kanaiah
+<br><a href="mailto:Rohinesh_So_K_Kanaiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rohinesh_So_K_Kanaiah@schools.gov.sg</a>
+<br>2 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Hii Xixin Amanda
 <br><a rel="noopener noreferrer nofollow" target="_blank">hii_xixin_amanda@schools.gov.sg</a>
 <br>2 Respect</p>
