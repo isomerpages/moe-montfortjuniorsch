@@ -64,6 +64,13 @@ variant: tiptap
 <br>6 Integrity</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Adlina Athirah Yusri
+<br><a href="mailto:Adlina_Athirah_Yusri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Adlina_Athirah_Yusri@schools.gov.sg</a>
+<br>6 Integrity</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
